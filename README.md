@@ -12,12 +12,11 @@ CTP Pulse combină **date obiective** (pozițiile autobuzelor și respectarea pr
 
 | Nume | Rol principal |
 |------|--------------|
-| Afloroaiei Andrei-Gabriel | Colectare date & GTFS pipeline |
-| Caraman Talida | Preprocessing & aspect extraction |
-| Postolache Andrei | Modelare sentiment & evaluare |
-| Pricop Matei-Ioan | Validare civică & dashboard |
+| Afloroaiei Andrei-Gabriel | 
+| Caraman Talida | 
+| Postolache Andrei | 
+| Pricop Matei-Ioan | 
 
-> Toți membrii contribuie la cod și documentație.
 
 ## Aspecte analizate (ABSA targets)
 
@@ -87,17 +86,6 @@ python src/absa/run_pipeline.py
 # Dashboard
 streamlit run src/dashboard/app.py
 ```
-
-## Milestones
-
-| Săptămâna | Obiectiv |
-|-----------|----------|
-| 1 | Setup repo, acces API, primele recenzii colectate |
-| 2 | Dataset curat (300–600 recenzii), liste aspecte definite |
-| 3 | Pipeline spaCy extracție aspecte, evaluare manuală |
-| 4 | Clasificare polaritate (baseline + BERT-ro), metrici F1 |
-| 5 | Corelare cu GTFS, dashboard Streamlit funcțional |
-| 6 | Documentație, raport civic, prezentare finală |
 
 ## Tehnologii
 
