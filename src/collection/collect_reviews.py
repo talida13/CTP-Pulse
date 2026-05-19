@@ -4,7 +4,7 @@ collect_reviews.py
 Colectează recenzii din Google Maps Places API pentru stațiile CTP Iași
 și pagina generală CTP.
 
-Owner: Afloroaiei Andrei-Gabriel
+Owner: x
 Output: data/raw/google_maps/reviews_google_YYYY-MM-DD.json
 
 TODO:

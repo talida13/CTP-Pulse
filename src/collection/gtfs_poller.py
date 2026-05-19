@@ -4,7 +4,7 @@ gtfs_poller.py
 Script de polling GTFS real-time de la tranzy.ai.
 Rulează continuu și loghează pozițiile vehiculelor la fiecare GTFS_POLL_INTERVAL secunde.
 
-Owner: Afloroaiei Andrei-Gabriel
+Owner: x
 Output: data/gtfs/gtfs_log_YYYY-MM-DD.csv
 
 TODO:

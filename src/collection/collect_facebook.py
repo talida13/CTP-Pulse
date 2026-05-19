@@ -3,7 +3,7 @@ collect_facebook.py
 -------------------
 Scraping comentarii publice de pe pagina Facebook CTP Iași.
 
-Owner: Afloroaiei Andrei-Gabriel
+Owner: x
 Output: data/raw/facebook/comments_facebook_YYYY-MM-DD.json
 
 TODO:

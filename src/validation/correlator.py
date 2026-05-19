@@ -3,7 +3,7 @@ correlator.py
 -------------
 Corelează scorul de sentiment negativ per aspect ↔ întârzierea medie per linie CTP.
 
-Owner: Pricop Matei-Ioan
+Owner: x
 Input: reviews_with_aspects.csv + gtfs_delays_summary.csv
 Output: correlation_results.csv (Pearson/Spearman per aspect × linie)
 

@@ -3,7 +3,7 @@ cleaner.py
 ----------
 Curățare și normalizare text românesc pentru recenzii CTP.
 
-Owner: Caraman Talida
+Owner: x
 Input: text brut din orice sursă
 Output: text curat, normalizat, gata de tokenizare
 

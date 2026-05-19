@@ -3,7 +3,7 @@ app.py
 ------
 Dashboard Streamlit pentru vizualizarea rezultatelor CTP Pulse.
 
-Owner: Pricop Matei-Ioan
+Owner: x
 Rulare: streamlit run src/dashboard/app.py
 
 Componente:
