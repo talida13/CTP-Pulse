@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Variabile de mediu — NU urca cheile API
+.env
+.env.*
+secrets.json
+
+# Date brute — fișierele mari nu merg pe Git
+data/raw/*
+data/gtfs/*
+!data/raw/.gitkeep
+!data/gtfs/.gitkeep
+
+# Date procesate opțional
+# data/processed/*
+
+# Modele antrenate (pot fi mari)
+models/
+*.bin
+*.pt
+*.ckpt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
