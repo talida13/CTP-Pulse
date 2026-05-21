@@ -18,9 +18,8 @@ env/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Variabile de mediu — NU urca cheile API
+# Variabile de mediu 
 .env
-.env.*
 secrets.json
 
 # Date brute — fișierele mari nu merg pe Git
@@ -46,3 +45,4 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+get-pip.py
