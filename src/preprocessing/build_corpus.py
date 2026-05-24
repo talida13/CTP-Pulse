@@ -274,6 +274,8 @@ def build_corpus(gmaps_files: list[str], facebook_file: str, output_dir: str):
         if r["id"] not in seen:
             seen.add(r["id"])
             unique.append(r)
+
+
     print(f"\nTotal unic: {len(unique)} recenzii (din {len(all_reviews)} brute)")
 
     # 3. Salvare corpus brut
