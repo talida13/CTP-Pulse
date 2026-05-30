@@ -120,3 +120,23 @@ Exemple recenzii:
 **Cod:** `other`
 
 Recenzii care nu se mapează pe niciun aspect de mai sus. Se exclud din analiză sau se tratează separat.
+
+
+
+Lista finala:
+punctualitate
+frecventa
+aglomeratie
+validare_bilete
+pret
+controlori
+soferi_vatmani
+confort_termic
+curatenie
+stare_vehicule
+informare_calatori
+infrastructura_statii
+acoperire_rute
+relatii_clienti
+organizare
+siguranta
