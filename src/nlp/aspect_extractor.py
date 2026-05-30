@@ -2,9 +2,9 @@
 aspect_extractor.py
 -------------------
 Extracție aspecte din text folosind spaCy ro_core_news_md
-și dicționarul de cuvinte cheie definit în aspect_lexicon.py.
+și lista de aspecte predefinite in aspects.md
 
-Owner: Caraman Talida
+Owner: x
 Input: text curat (str)
 Output: listă de (aspect_code, span_text) detectate în text
 
