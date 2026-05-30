@@ -1,21 +1,15 @@
 """
 app.py
 ------
-Dashboard Streamlit pentru vizualizarea rezultatelor CTP Pulse.
-
+Aplicația Streamlit — interfața principală a proiectului.
 Owner: x
-Rulare: streamlit run src/dashboard/app.py
-
-Componente:
-- Hartă Iași (folium) cu liniile CTP colorate după sentiment dominant
-- Heatmap linie × aspect (plotly)
-- Filtre interactive: linie, aspect, interval orar
-- Tab separat: validare GTFS (sentiment vs. întârzieri reale)
-
+Input:  data/ctp_pulse.db + model/ctp_absa_bert/ + data/timetable/timetable.json
+Output: UI web accesibil la localhost:8501
 TODO:
-- [ ] Layout de bază Streamlit (sidebar filtre + main area)
-- [ ] Componentă hartă folium cu linii colorate
-- [ ] Heatmap plotly aspect × linie
-- [ ] Integrare date din reports/
-- [ ] Pagina "About" cu descrierea proiectului
+- [ ] Navigare între 3 pagini: Review nou, Dashboard, Căutare per linie
+- [ ] Pagina Review nou: input text, buton Submit, afișare aspecte extrase cu culori
+- [ ] Dacă aspect punctualitate detected: afișare rezultat GPS check automat
+- [ ] Pagina Dashboard: heatmap plotly linie x aspect (culoare = % recenzii negative)
+- [ ] Pagina Dashboard: grafic trend temporal sentiment per aspect pe luni
+- [ ] Salvare review nou + rezultate ABSA în SQLite după submit
 """

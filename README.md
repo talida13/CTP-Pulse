@@ -10,8 +10,6 @@ CTP Pulse combină **date obiective** (pozițiile autobuzelor și respectarea pr
 
 ## Echipă
 
-| Nume | Rol principal |
-|------|--------------|
 | Afloroaiei Andrei-Gabriel | 
 | Caraman Talida | 
 | Postolache Andrei | 
