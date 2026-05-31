@@ -22,11 +22,7 @@ env/
 .env
 secrets.json
 
-# Date brute — fișierele mari nu merg pe Git
-data/raw/*
-data/gtfs/*
-!data/raw/.gitkeep
-!data/gtfs/.gitkeep
+
 
 # Date procesate opțional
 # data/processed/*
