@@ -3,7 +3,7 @@ prepare_dataset.py
 ------------------
 Transformă adnotare_finala.csv în formatul de antrenare pentru BERT.
 Owner: x
-Input:  data/processed/adnotare_finala.csv
+Input:  data/processed/absa_flat_dataset.csv
 Output: data/processed/dataset_train.csv, dataset_val.csv, dataset_test.csv
 TODO:
 - [ ] Citire adnotare_finala.csv și validare că toate aspectele sunt din lista fixă

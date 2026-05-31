@@ -43,7 +43,6 @@ def load_data():
 
 reviews, absa, stop_mentions = load_data()
 
-st.title("CTP Iași — Review Analytics")
 
 tab1, tab2, tab3 = st.tabs([
     "Probleme principale",
