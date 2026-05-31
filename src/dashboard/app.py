@@ -44,10 +44,11 @@ def load_data():
 reviews, absa, stop_mentions = load_data()
 
 
-tab1, tab2, tab3 = st.tabs([
+tab1, tab2, tab3, tab4 = st.tabs([
     "Probleme principale",
     "Stații problematice",
-    "Heatmap stații"
+    "Heatmap stații",
+    "Adaugă review"
 ])
 
 
@@ -101,6 +102,15 @@ with tab2:
 
 
 with tab3:
+    st.info(
+        """
+        Heatmap-ul reprezintă concentrarea stațiilor menționate în recenzii care conțin aspecte negative.
+        
+        Intensitatea culorilor nu indică trafic real, întârzieri măsurate sau date operaționale
+        ale CTP Iași. Aceasta reflectă exclusiv densitatea problemelor raportate de utilizatori
+        în recenziile analizate.
+        """
+    )
     st.subheader("Heatmap pe stații menționate în review-uri negative")
 
     negative_absa = absa[absa["sentiment"] == "negativ"].copy()
@@ -171,3 +181,19 @@ with tab3:
             heat_df.sort_values("weight", ascending=False),
             use_container_width=True
         )
+        
+with tab4:
+    st.subheader("Analiza unei recenzii noi")
+
+    st.write(
+        """
+        Introduceți o recenzie pentru a observa aspectele și sentimentele
+        identificate de modelul ABSA.
+        """
+    )
+
+    review_text = st.text_area(
+        "Textul recenziei",
+        height=150,
+        placeholder="Ex: Tramvaiele sunt foarte aglomerate și întârzie frecvent..."
+    )
