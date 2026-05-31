@@ -183,17 +183,82 @@ with tab3:
         )
         
 with tab4:
-    st.subheader("Analiza unei recenzii noi")
+    st.header("Analiză Review")
 
-    st.write(
+    st.info(
         """
-        Introduceți o recenzie pentru a observa aspectele și sentimentele
-        identificate de modelul ABSA.
+        Această secțiune va permite analizarea unei recenzii noi folosind
+        modelul Aspect-Based Sentiment Analysis (ABSA).
+
+        Funcționalitatea este în curs de implementare.
         """
     )
 
     review_text = st.text_area(
-        "Textul recenziei",
-        height=150,
+        "Introduceți textul recenziei",
         placeholder="Ex: Tramvaiele sunt foarte aglomerate și întârzie frecvent..."
     )
+
+    st.button(
+        "Analizează recenzia",
+        disabled=True,
+        use_container_width=True
+    )
+
+    st.divider()
+
+    st.subheader("Rezultate (exemplu demonstrativ)")
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.metric(
+            "Sentiment general",
+            "Negativ"
+        )
+
+    with col2:
+        st.metric(
+            "Aspecte detectate",
+            3
+        )
+
+    st.dataframe(
+        pd.DataFrame([
+            {
+                "Aspect": "punctualitate",
+                "Sentiment": "negativ",
+                "Fragment": "întârzie frecvent"
+            },
+            {
+                "Aspect": "aglomeratie",
+                "Sentiment": "negativ",
+                "Fragment": "tramvaiele sunt foarte aglomerate"
+            },
+            {
+                "Aspect": "confort_termic",
+                "Sentiment": "neutru",
+                "Fragment": "aerul condiționat funcționează uneori"
+            }
+        ]),
+        use_container_width=True,
+        hide_index=True
+    )
+
+    st.divider()
+
+    st.subheader("Recenzii similare (exemplu)")
+
+    st.caption("Vor fi afișate recenzii din corpus cu aspecte similare.")
+
+    st.markdown("""
+    **Review #102**
+
+    „Autobuzele circulă cu întârziere și sunt foarte aglomerate la orele de vârf.”
+    """)
+
+    st.markdown("""
+    **Review #245**
+
+    „Tramvaiele sunt pline dimineața și timpul de așteptare este prea mare.”
+    """)
