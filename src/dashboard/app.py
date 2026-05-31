@@ -2,7 +2,7 @@
 app.py
 ------
 Aplicația Streamlit — interfața principală a proiectului.
-Owner: x
+Owner: Pricop Matei-Ioan
 Input:  data/ctp_pulse.db + model/ctp_absa_bert/ + data/timetable/timetable.json
 Output: UI web accesibil la localhost:8501
 TODO:
@@ -12,4 +12,12 @@ TODO:
 - [ ] Pagina Dashboard: heatmap plotly linie x aspect (culoare = % recenzii negative)
 - [ ] Pagina Dashboard: grafic trend temporal sentiment per aspect pe luni
 - [ ] Salvare review nou + rezultate ABSA în SQLite după submit
+
+streamlit run src/dashboard/app.py
 """
+
+import streamlit as st
+import pandas as pd
+import numpy as np
+
+st.title('CTP Pulse Dashboard')
