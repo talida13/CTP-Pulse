@@ -21,7 +21,6 @@ TODO:
 [ ] Păstrare metadate: source, location, rating
 [ ] Salvare CSV final pentru training/analiză
 """
-
 import pandas as pd
 import json
 
@@ -31,6 +30,9 @@ output_csv = "data/processed/absa_flat_dataset.csv"
 
 # CSV-ul original cu review-uri
 reviews_df = pd.read_csv(reviews_csv)
+
+# Asigurăm că review_id are același tip în ambele surse
+reviews_df["review_id"] = reviews_df["review_id"].astype(str)
 
 # Adnotările produse de model
 rows = []
@@ -47,28 +49,34 @@ with open(annotations_jsonl, "r", encoding="utf-8") as f:
         aspects = item.get("aspects", [])
         overall_sentiment = item.get("overall_sentiment")
 
-        # găsim review-ul original
-        original = reviews_df[reviews_df["review_id"].astype(str) == review_id]
+        # Găsim review-ul original după review_id
+        original = reviews_df[reviews_df["review_id"] == review_id]
 
         if not original.empty:
             original_row = original.iloc[0]
+
             text = original_row.get("text", "")
             source = original_row.get("source", None)
             location = original_row.get("location", None)
             rating = original_row.get("rating", None)
+            review_date = original_row.get("review_date", None)
+
         else:
-            text = ""
+            # Fallback dacă review_id-ul nu se găsește în CSV-ul original
+            text = item.get("text", "")
             source = item.get("source")
             location = item.get("location")
             rating = item.get("rating")
+            review_date = item.get("review_date")
 
-        # dacă review-ul are aspecte
+        # Dacă review-ul are aspecte extrase, facem câte un rând per aspect
         for asp in aspects:
             rows.append({
                 "review_id": review_id,
                 "source": source,
                 "location": location,
                 "rating": rating,
+                "review_date": review_date,
                 "text": text,
                 "aspect": asp.get("aspect"),
                 "sentiment": asp.get("sentiment"),
@@ -77,6 +85,7 @@ with open(annotations_jsonl, "r", encoding="utf-8") as f:
             })
 
 flat_df = pd.DataFrame(rows)
+
 flat_df.to_csv(output_csv, index=False, encoding="utf-8-sig")
 
 print(f"Saved {output_csv}")
