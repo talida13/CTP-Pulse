@@ -1,0 +1,317 @@
+[
+  {
+    "route_id": "3",
+    "vehicle_type": "tramvai",
+    "route_name": "Gara - Târgu Cucu - Tătărași - Dancu",
+    "pdf_file": "track-3.pdf"
+  },
+  {
+    "route_id": "5",
+    "vehicle_type": "tramvai",
+    "route_name": "Dacia - Gara Internaţională - Ţuţora",
+    "pdf_file": "track-5.pdf"
+  },
+  {
+    "route_id": "6",
+    "vehicle_type": "tramvai",
+    "route_name": "Dacia - Gara - Arcu - Târgu Cucu",
+    "pdf_file": "track-6.pdf"
+  },
+  {
+    "route_id": "7",
+    "vehicle_type": "tramvai",
+    "route_name": "Canta - Podu Roş - Ţuţora",
+    "pdf_file": "track-7.pdf"
+  },
+  {
+    "route_id": "8",
+    "vehicle_type": "tramvai",
+    "route_name": "Copou - Tudor Vladimirescu - Ţuţora",
+    "pdf_file": "track-8.pdf"
+  },
+  {
+    "route_id": "9",
+    "vehicle_type": "tramvai",
+    "route_name": "Copou - Podu Roş - Tehnopolis",
+    "pdf_file": "track-9.pdf"
+  },
+  {
+    "route_id": "11",
+    "vehicle_type": "tramvai",
+    "route_name": "Dacia - Gara Internaţională - Tătăraşi Nord",
+    "pdf_file": "track-11.pdf"
+  },
+  {
+    "route_id": "13",
+    "vehicle_type": "tramvai",
+    "route_name": "Copou - Tătăraşi - Podu Roş - Copou",
+    "pdf_file": "track-13.pdf"
+  },
+  {
+    "route_id": "18",
+    "vehicle_type": "autobuz",
+    "route_name": "Tătăraşi Sud - Cartier Aviaţiei - Tătăraşi Sud",
+    "pdf_file": "track-18.pdf"
+  },
+  {
+    "route_id": "19",
+    "vehicle_type": "autobuz",
+    "route_name": "Canta - Podu Roş - Poitiers - C.U.G. I",
+    "pdf_file": "track-19.pdf"
+  },
+  {
+    "route_id": "20",
+    "vehicle_type": "autobuz",
+    "route_name": "Tătăraşi Sud - Târgu Cucu - Păcurari - Mall Moldova - METRO",
+    "pdf_file": "track-20.pdf",
+    "reverse_start_page": 25
+  },
+  {
+    "route_id": "23",
+    "vehicle_type": "autobuz",
+    "route_name": "Podu Roş - Tudor Neculai - Complex Sun City - Primăria Miroslava",
+    "pdf_file": "track-23.pdf"
+  },
+  {
+    "route_id": "23b",
+    "vehicle_type": "autobuz",
+    "route_name": "Podu Roș (4) - Sun City - Miroslava - Cornești - Proselnici",
+    "pdf_file": "track-23b.pdf"
+  },
+  {
+    "route_id": "27",
+    "vehicle_type": "autobuz",
+    "route_name": "Tătăraşi Nord - Baza 3 - Poitiers - Blocuri Ciurea",
+    "pdf_file": "track-27.pdf"
+  },
+  {
+    "route_id": "28",
+    "vehicle_type": "autobuz",
+    "route_name": "Triumf - Podu Roş - Mircea cel Bătrân - Dacia",
+    "pdf_file": "track-28.pdf"
+  },
+  {
+    "route_id": "29",
+    "vehicle_type": "autobuz",
+    "route_name": "Podu Roş - Baza 3 - Tomeşti",
+    "pdf_file": "track-29.pdf"
+  },
+  {
+    "route_id": "30",
+    "vehicle_type": "autobuz",
+    "route_name": "Canta - Gara Internaţională - Bucium",
+    "pdf_file": "track-30.pdf"
+  },
+  {
+    "route_id": "30b",
+    "vehicle_type": "autobuz",
+    "route_name": "Mall Moldova - Canta - Gara Internaţională - Bucium",
+    "pdf_file": "track-30b.pdf"
+  },
+  {
+    "route_id": "36",
+    "vehicle_type": "autobuz",
+    "route_name": "Dacia - Gara - Copou - Breazu",
+    "pdf_file": "track-36.pdf"
+  },
+  {
+    "route_id": "41",
+    "vehicle_type": "autobuz",
+    "route_name": "Piaţa Independenţei - Podu Roş - Blocuri Ciurea",
+    "pdf_file": "track-41.pdf",
+    "reverse_start_page": 19
+  },
+  {
+    "route_id": "42",
+    "vehicle_type": "autobuz",
+    "route_name": "Copou - Tudor Vladimirescu - Poitiers - C.U.G. I",
+    "pdf_file": "track-42.pdf"
+  },
+  {
+    "route_id": "43",
+    "vehicle_type": "autobuz",
+    "route_name": "Păcurari - Tudor Vladimirescu - Poitiers - C.U.G. I",
+    "pdf_file": "track-43.pdf"
+  },
+  {
+    "route_id": "43c",
+    "vehicle_type": "autobuz",
+    "route_name": "Mall Moldova - Păcurari - Tudor Vladimirescu - Poitiers - C.U.G. I",
+    "pdf_file": "track-43c.pdf"
+  },
+  {
+    "route_id": "44",
+    "vehicle_type": "autobuz",
+    "route_name": "Dacia - Mircea cel Bătrân - Frumoasa - Blocuri Ciurea",
+    "pdf_file": "track-44.pdf"
+  },
+  {
+    "route_id": "46",
+    "vehicle_type": "autobuz",
+    "route_name": "Păcurari - Tudor Vladimirescu - Bucium",
+    "pdf_file": "track-46.pdf"
+  },
+  {
+    "route_id": "47",
+    "vehicle_type": "autobuz",
+    "route_name": "Dacia - Mircea cel Bătrân - Podu Roş - Tudor Vladimirescu - Tătăraşi Sud",
+    "pdf_file": "track-47.pdf"
+  },
+  {
+    "route_id": "48",
+    "vehicle_type": "autobuz",
+    "route_name": "Târgu Cucu - Podu de Fier - Complex Ciric",
+    "pdf_file": "track-48.pdf"
+  },
+  {
+    "route_id": "50",
+    "vehicle_type": "autobuz",
+    "route_name": "Gara - Centru - Târgu Cucu - Aeroport",
+    "pdf_file": "track-50.pdf"
+  },
+  {
+    "route_id": "52",
+    "vehicle_type": "autobuz",
+    "route_name": "Piaţa Alexandru cel Bun - Pasaj Octav Băncilă - Copou",
+    "pdf_file": "track-52.pdf"
+  },
+  {
+    "route_id": "53",
+    "vehicle_type": "autobuz",
+    "route_name": "Blocuri Şorogari - Târgu Cucu",
+    "pdf_file": "track-53.pdf"
+  },
+  {
+    "route_id": "54",
+    "vehicle_type": "autobuz",
+    "route_name": "Târgu Cucu - Sărărie - C. A. Rosetti",
+    "pdf_file": "track-54.pdf"
+  },
+  {
+    "route_id": "101",
+    "vehicle_type": "autobuz",
+    "route_name": "Târgu Cucu - Complex Roua Residence - Str. Ionești - Dorobanț",
+    "pdf_file": "track-101.pdf"
+  },
+  {
+    "route_id": "102",
+    "vehicle_type": "autobuz",
+    "route_name": "Târgu Cucu - Complex Roua Residence - Rond Aroneanu",
+    "pdf_file": "track-102.pdf"
+  },
+  {
+    "route_id": "103",
+    "vehicle_type": "autobuz",
+    "route_name": "Târgu Cucu - Complex Roua Residence - Șorogari",
+    "pdf_file": "track-103.pdf"
+  },
+  {
+    "route_id": "104",
+    "vehicle_type": "autobuz",
+    "route_name": "Primăria Aroneanu - Rediu Aldei",
+    "pdf_file": "track-104.pdf"
+  },
+  {
+    "route_id": "202",
+    "vehicle_type": "autobuz",
+    "route_name": "Podu Roș (2) - Păun",
+    "pdf_file": "track-202.pdf"
+  },
+  {
+    "route_id": "203",
+    "vehicle_type": "autobuz",
+    "route_name": "Podu Roș (2) - Vișan",
+    "pdf_file": "track-203.pdf"
+  },
+  {
+    "route_id": "301",
+    "vehicle_type": "autobuz",
+    "route_name": "C.U.G. I - Dumbrava",
+    "pdf_file": "track-301.pdf"
+  },
+  {
+    "route_id": "401",
+    "vehicle_type": "autobuz",
+    "route_name": "Tătărași Sud - Rond Dancu - Primăria Holboca - Rusenii Vechi - Rusenii Noi",
+    "pdf_file": "track-401.pdf"
+  },
+  {
+    "route_id": "501",
+    "vehicle_type": "autobuz",
+    "route_name": "Podu Roș (4) - Sun City - Miroslava - Vorovești",
+    "pdf_file": "track-501.pdf"
+  },
+  {
+    "route_id": "501b",
+    "vehicle_type": "autobuz",
+    "route_name": "Podu Roș (4) - Sun City - Miroslava - Vorovești - Ferma Liliac",
+    "pdf_file": "track-501b.pdf"
+  },
+  {
+    "route_id": "502",
+    "vehicle_type": "autobuz",
+    "route_name": "C.U.G. I - Tehnopolis - Horpaz - Ciurbești",
+    "pdf_file": "track-502.pdf"
+  },
+  {
+    "route_id": "503",
+    "vehicle_type": "autobuz",
+    "route_name": "C.U.G. I - Valea Adâncă",
+    "pdf_file": "track-503.pdf"
+  },
+  {
+    "route_id": "503b",
+    "vehicle_type": "autobuz",
+    "route_name": "C.U.G. I - Valea Adâncă - Miroslava",
+    "pdf_file": "track-503b.pdf"
+  },
+  {
+    "route_id": "601",
+    "vehicle_type": "autobuz",
+    "route_name": "Târgu Cucu - Popricani",
+    "pdf_file": "track-601.pdf"
+  },
+  {
+    "route_id": "701",
+    "vehicle_type": "autobuz",
+    "route_name": "Copou - Breazu - Horlești",
+    "pdf_file": "track-701.pdf"
+  },
+  {
+    "route_id": "702",
+    "vehicle_type": "autobuz",
+    "route_name": "Păcurari - Breazu - Copou",
+    "pdf_file": "track-702.pdf"
+  },
+  {
+    "route_id": "801",
+    "vehicle_type": "autobuz",
+    "route_name": "Rond Țuțora - Tomești - Goruni",
+    "pdf_file": "track-801.pdf"
+  },
+  {
+    "route_id": "802",
+    "vehicle_type": "autobuz",
+    "route_name": "Rond Țuțora - Tomești - Chicerea",
+    "pdf_file": "track-802.pdf"
+  },
+  {
+    "route_id": "802b",
+    "vehicle_type": "autobuz",
+    "route_name": "Țuțora - Tomești - Goruni - Chicerea",
+    "pdf_file": "track-802b.pdf"
+  },
+  {
+    "route_id": "901",
+    "vehicle_type": "autobuz",
+    "route_name": "Str. Bacinschi - Canta - Primăria Valea Lupului",
+    "pdf_file": "track-901.pdf"
+  },
+  {
+    "route_id": "902",
+    "vehicle_type": "autobuz",
+    "route_name": "Canta - OMV Păcurari - Valea Lupului",
+    "pdf_file": "track-902.pdf",
+    "reverse_start_page": 19
+  }
+]
