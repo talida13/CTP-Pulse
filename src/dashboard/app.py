@@ -22,6 +22,8 @@ import numpy as np
 import pydeck as pdk
 from tab_delay import render_delay_tab
 
+from src.nlp.predict import PredictionError, load_pipeline
+
 st.title('CTP Pulse Dashboard')
 
 
@@ -73,6 +75,11 @@ def fmt(value):
     if value is None:
         return "—"
     return f"{value:.4f}"
+
+
+@st.cache_resource
+def load_absa_pipeline():
+    return load_pipeline()
 
 
 reviews, absa, stop_mentions = load_data()
@@ -224,10 +231,8 @@ with tab4:
 
     st.info(
         """
-        Această secțiune va permite analizarea unei recenzii noi folosind
+        Această secțiune analizează o recenzie nouă folosind
         modelul Aspect-Based Sentiment Analysis (ABSA).
-
-        Funcționalitatea este în curs de implementare.
         """
     )
 
@@ -236,70 +241,68 @@ with tab4:
         placeholder="Ex: Tramvaiele sunt foarte aglomerate și întârzie frecvent..."
     )
 
-    st.button(
+    analyze_clicked = st.button(
         "Analizează recenzia",
-        disabled=True,
-        width='stretch'
+        disabled=not review_text.strip(),
+        use_container_width=True
     )
 
-    st.divider()
+    if analyze_clicked:
+        try:
+            with st.spinner("Se analizează recenzia..."):
+                pipeline = load_absa_pipeline()
+                result = pipeline.predict(review_text)
 
-    st.subheader("Rezultate (exemplu demonstrativ)")
+            aspects_result = result["aspects"]
 
-    col1, col2 = st.columns(2)
+            st.divider()
+            st.subheader("Rezultate")
 
-    with col1:
-        st.metric(
-            "Sentiment general",
-            "Negativ"
-        )
+            col1, col2, col3 = st.columns(3)
 
-    with col2:
-        st.metric(
-            "Aspecte detectate",
-            3
-        )
+            with col1:
+                st.metric(
+                    "Sentiment general",
+                    str(result["overall_sentiment"]).capitalize()
+                )
 
-    st.dataframe(
-        pd.DataFrame([
-            {
-                "Aspect": "punctualitate",
-                "Sentiment": "negativ",
-                "Fragment": "întârzie frecvent"
-            },
-            {
-                "Aspect": "aglomeratie",
-                "Sentiment": "negativ",
-                "Fragment": "tramvaiele sunt foarte aglomerate"
-            },
-            {
-                "Aspect": "confort_termic",
-                "Sentiment": "neutru",
-                "Fragment": "aerul condiționat funcționează uneori"
-            }
-        ]),
-        width='stretch',
-        hide_index=True
-    )
+            with col2:
+                st.metric(
+                    "Scor general",
+                    fmt(float(result["overall_score"]))
+                )
 
-    st.divider()
+            with col3:
+                st.metric(
+                    "Aspecte detectate",
+                    len(aspects_result)
+                )
 
-    st.subheader("Recenzii similare (exemplu)")
+            if not aspects_result:
+                st.warning("Nu au fost detectate aspecte peste pragul modelului.")
+            else:
+                result_df = pd.DataFrame([
+                    {
+                        "Aspect": item["aspect"],
+                        "Sentiment": item["sentiment"],
+                        "Scor sentiment": round(float(item["score"]), 4),
+                        "Scor aspect": round(float(item["aspect_score"]), 4),
+                        "Fragment": item["fragment"],
+                    }
+                    for item in aspects_result
+                ])
 
-    st.caption("Vor fi afișate recenzii din corpus cu aspecte similare.")
+                st.dataframe(
+                    result_df,
+                    use_container_width=True,
+                    hide_index=True
+                )
 
-    st.markdown("""
-    **Review #102**
-
-    „Autobuzele circulă cu întârziere și sunt foarte aglomerate la orele de vârf.”
-    """)
-
-    st.markdown("""
-    **Review #245**
-
-    „Tramvaiele sunt pline dimineața și timpul de așteptare este prea mare.”
-    """)
-
+        except PredictionError as exc:
+            st.error(str(exc))
+        except Exception as exc:
+            st.error(f"Analiza review-ului a eșuat: {exc}")
+    
 with tab5:
     render_delay_tab()
     
