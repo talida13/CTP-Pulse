@@ -78,8 +78,8 @@ def fmt(value):
 reviews, absa, stop_mentions = load_data()
 
 
-tab1, tab2, tab3, tab4, tab5 = st.tabs([
-tab1, tab2, tab3, tab4, tab5 = st.tabs([
+
+tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
     "Probleme principale",
     "Stații problematice",
     "Heatmap stații",
@@ -303,7 +303,7 @@ with tab4:
 with tab5:
     render_delay_tab()
     
-with tab5:
+with tab6:
     st.header("Evaluarea sistemului ABSA")
 
     st.info(
