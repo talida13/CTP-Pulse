@@ -1,0 +1,961 @@
+review_id,input,aspect,label
+265,aspect: soferi_vatmani. text: Soferii nu poarta masca!!!,soferi_vatmani,1
+265,aspect: acoperire_rute. text: Soferii nu poarta masca!!!,acoperire_rute,0
+265,aspect: aglomeratie. text: Soferii nu poarta masca!!!,aglomeratie,0
+265,aspect: confort_termic. text: Soferii nu poarta masca!!!,confort_termic,0
+265,aspect: controlori. text: Soferii nu poarta masca!!!,controlori,0
+265,aspect: curatenie. text: Soferii nu poarta masca!!!,curatenie,0
+265,aspect: frecventa. text: Soferii nu poarta masca!!!,frecventa,0
+265,aspect: informare_calatori. text: Soferii nu poarta masca!!!,informare_calatori,0
+265,aspect: infrastructura_statii. text: Soferii nu poarta masca!!!,infrastructura_statii,0
+265,aspect: organizare. text: Soferii nu poarta masca!!!,organizare,0
+265,aspect: pret. text: Soferii nu poarta masca!!!,pret,0
+265,aspect: punctualitate. text: Soferii nu poarta masca!!!,punctualitate,0
+265,aspect: relatii_clienti. text: Soferii nu poarta masca!!!,relatii_clienti,0
+265,aspect: siguranta. text: Soferii nu poarta masca!!!,siguranta,0
+265,aspect: stare_vehicule. text: Soferii nu poarta masca!!!,stare_vehicule,0
+265,aspect: validare_bilete. text: Soferii nu poarta masca!!!,validare_bilete,0
+SENT_SIM_026,"aspect: siguranta. text: Călătoria a fost liniștită, fără frâne bruște.",siguranta,1
+SENT_SIM_026,"aspect: acoperire_rute. text: Călătoria a fost liniștită, fără frâne bruște.",acoperire_rute,0
+SENT_SIM_026,"aspect: aglomeratie. text: Călătoria a fost liniștită, fără frâne bruște.",aglomeratie,0
+SENT_SIM_026,"aspect: confort_termic. text: Călătoria a fost liniștită, fără frâne bruște.",confort_termic,0
+SENT_SIM_026,"aspect: controlori. text: Călătoria a fost liniștită, fără frâne bruște.",controlori,0
+SENT_SIM_026,"aspect: curatenie. text: Călătoria a fost liniștită, fără frâne bruște.",curatenie,0
+SENT_SIM_026,"aspect: frecventa. text: Călătoria a fost liniștită, fără frâne bruște.",frecventa,0
+SENT_SIM_026,"aspect: informare_calatori. text: Călătoria a fost liniștită, fără frâne bruște.",informare_calatori,0
+SENT_SIM_026,"aspect: infrastructura_statii. text: Călătoria a fost liniștită, fără frâne bruște.",infrastructura_statii,0
+SENT_SIM_026,"aspect: organizare. text: Călătoria a fost liniștită, fără frâne bruște.",organizare,0
+SENT_SIM_026,"aspect: pret. text: Călătoria a fost liniștită, fără frâne bruște.",pret,0
+SENT_SIM_026,"aspect: punctualitate. text: Călătoria a fost liniștită, fără frâne bruște.",punctualitate,0
+SENT_SIM_026,"aspect: relatii_clienti. text: Călătoria a fost liniștită, fără frâne bruște.",relatii_clienti,0
+SENT_SIM_026,"aspect: soferi_vatmani. text: Călătoria a fost liniștită, fără frâne bruște.",soferi_vatmani,0
+SENT_SIM_026,"aspect: stare_vehicule. text: Călătoria a fost liniștită, fără frâne bruște.",stare_vehicule,0
+SENT_SIM_026,"aspect: validare_bilete. text: Călătoria a fost liniștită, fără frâne bruște.",validare_bilete,0
+SIM_132,aspect: organizare. text: Programul special de weekend a fost anunțat clar și respectat.,organizare,1
+SIM_132,aspect: acoperire_rute. text: Programul special de weekend a fost anunțat clar și respectat.,acoperire_rute,0
+SIM_132,aspect: aglomeratie. text: Programul special de weekend a fost anunțat clar și respectat.,aglomeratie,0
+SIM_132,aspect: confort_termic. text: Programul special de weekend a fost anunțat clar și respectat.,confort_termic,0
+SIM_132,aspect: controlori. text: Programul special de weekend a fost anunțat clar și respectat.,controlori,0
+SIM_132,aspect: curatenie. text: Programul special de weekend a fost anunțat clar și respectat.,curatenie,0
+SIM_132,aspect: frecventa. text: Programul special de weekend a fost anunțat clar și respectat.,frecventa,0
+SIM_132,aspect: informare_calatori. text: Programul special de weekend a fost anunțat clar și respectat.,informare_calatori,0
+SIM_132,aspect: infrastructura_statii. text: Programul special de weekend a fost anunțat clar și respectat.,infrastructura_statii,0
+SIM_132,aspect: pret. text: Programul special de weekend a fost anunțat clar și respectat.,pret,0
+SIM_132,aspect: punctualitate. text: Programul special de weekend a fost anunțat clar și respectat.,punctualitate,0
+SIM_132,aspect: relatii_clienti. text: Programul special de weekend a fost anunțat clar și respectat.,relatii_clienti,0
+SIM_132,aspect: siguranta. text: Programul special de weekend a fost anunțat clar și respectat.,siguranta,0
+SIM_132,aspect: soferi_vatmani. text: Programul special de weekend a fost anunțat clar și respectat.,soferi_vatmani,0
+SIM_132,aspect: stare_vehicule. text: Programul special de weekend a fost anunțat clar și respectat.,stare_vehicule,0
+SIM_132,aspect: validare_bilete. text: Programul special de weekend a fost anunțat clar și respectat.,validare_bilete,0
+309,aspect: organizare. text: Ma bucur sa vad ca CTP Iasi isi imbunatateste constant serviciile. Felicitari si la mai bine!,organizare,1
+309,aspect: acoperire_rute. text: Ma bucur sa vad ca CTP Iasi isi imbunatateste constant serviciile. Felicitari si la mai bine!,acoperire_rute,0
+309,aspect: aglomeratie. text: Ma bucur sa vad ca CTP Iasi isi imbunatateste constant serviciile. Felicitari si la mai bine!,aglomeratie,0
+309,aspect: confort_termic. text: Ma bucur sa vad ca CTP Iasi isi imbunatateste constant serviciile. Felicitari si la mai bine!,confort_termic,0
+309,aspect: controlori. text: Ma bucur sa vad ca CTP Iasi isi imbunatateste constant serviciile. Felicitari si la mai bine!,controlori,0
+309,aspect: curatenie. text: Ma bucur sa vad ca CTP Iasi isi imbunatateste constant serviciile. Felicitari si la mai bine!,curatenie,0
+309,aspect: frecventa. text: Ma bucur sa vad ca CTP Iasi isi imbunatateste constant serviciile. Felicitari si la mai bine!,frecventa,0
+309,aspect: informare_calatori. text: Ma bucur sa vad ca CTP Iasi isi imbunatateste constant serviciile. Felicitari si la mai bine!,informare_calatori,0
+309,aspect: infrastructura_statii. text: Ma bucur sa vad ca CTP Iasi isi imbunatateste constant serviciile. Felicitari si la mai bine!,infrastructura_statii,0
+309,aspect: pret. text: Ma bucur sa vad ca CTP Iasi isi imbunatateste constant serviciile. Felicitari si la mai bine!,pret,0
+309,aspect: punctualitate. text: Ma bucur sa vad ca CTP Iasi isi imbunatateste constant serviciile. Felicitari si la mai bine!,punctualitate,0
+309,aspect: relatii_clienti. text: Ma bucur sa vad ca CTP Iasi isi imbunatateste constant serviciile. Felicitari si la mai bine!,relatii_clienti,0
+309,aspect: siguranta. text: Ma bucur sa vad ca CTP Iasi isi imbunatateste constant serviciile. Felicitari si la mai bine!,siguranta,0
+309,aspect: soferi_vatmani. text: Ma bucur sa vad ca CTP Iasi isi imbunatateste constant serviciile. Felicitari si la mai bine!,soferi_vatmani,0
+309,aspect: stare_vehicule. text: Ma bucur sa vad ca CTP Iasi isi imbunatateste constant serviciile. Felicitari si la mai bine!,stare_vehicule,0
+309,aspect: validare_bilete. text: Ma bucur sa vad ca CTP Iasi isi imbunatateste constant serviciile. Felicitari si la mai bine!,validare_bilete,0
+SIM_050,"aspect: confort_termic. text: Confortul termic în autobuzele noi e decent vara și iarna. În cele vechi e mai variabil. Nu e ceva la care să mă gândesc prea mult când urc, e ok în general pe traseul meu.",confort_termic,1
+SIM_050,"aspect: acoperire_rute. text: Confortul termic în autobuzele noi e decent vara și iarna. În cele vechi e mai variabil. Nu e ceva la care să mă gândesc prea mult când urc, e ok în general pe traseul meu.",acoperire_rute,0
+SIM_050,"aspect: aglomeratie. text: Confortul termic în autobuzele noi e decent vara și iarna. În cele vechi e mai variabil. Nu e ceva la care să mă gândesc prea mult când urc, e ok în general pe traseul meu.",aglomeratie,0
+SIM_050,"aspect: controlori. text: Confortul termic în autobuzele noi e decent vara și iarna. În cele vechi e mai variabil. Nu e ceva la care să mă gândesc prea mult când urc, e ok în general pe traseul meu.",controlori,0
+SIM_050,"aspect: curatenie. text: Confortul termic în autobuzele noi e decent vara și iarna. În cele vechi e mai variabil. Nu e ceva la care să mă gândesc prea mult când urc, e ok în general pe traseul meu.",curatenie,0
+SIM_050,"aspect: frecventa. text: Confortul termic în autobuzele noi e decent vara și iarna. În cele vechi e mai variabil. Nu e ceva la care să mă gândesc prea mult când urc, e ok în general pe traseul meu.",frecventa,0
+SIM_050,"aspect: informare_calatori. text: Confortul termic în autobuzele noi e decent vara și iarna. În cele vechi e mai variabil. Nu e ceva la care să mă gândesc prea mult când urc, e ok în general pe traseul meu.",informare_calatori,0
+SIM_050,"aspect: infrastructura_statii. text: Confortul termic în autobuzele noi e decent vara și iarna. În cele vechi e mai variabil. Nu e ceva la care să mă gândesc prea mult când urc, e ok în general pe traseul meu.",infrastructura_statii,0
+SIM_050,"aspect: organizare. text: Confortul termic în autobuzele noi e decent vara și iarna. În cele vechi e mai variabil. Nu e ceva la care să mă gândesc prea mult când urc, e ok în general pe traseul meu.",organizare,0
+SIM_050,"aspect: pret. text: Confortul termic în autobuzele noi e decent vara și iarna. În cele vechi e mai variabil. Nu e ceva la care să mă gândesc prea mult când urc, e ok în general pe traseul meu.",pret,0
+SIM_050,"aspect: punctualitate. text: Confortul termic în autobuzele noi e decent vara și iarna. În cele vechi e mai variabil. Nu e ceva la care să mă gândesc prea mult când urc, e ok în general pe traseul meu.",punctualitate,0
+SIM_050,"aspect: relatii_clienti. text: Confortul termic în autobuzele noi e decent vara și iarna. În cele vechi e mai variabil. Nu e ceva la care să mă gândesc prea mult când urc, e ok în general pe traseul meu.",relatii_clienti,0
+SIM_050,"aspect: siguranta. text: Confortul termic în autobuzele noi e decent vara și iarna. În cele vechi e mai variabil. Nu e ceva la care să mă gândesc prea mult când urc, e ok în general pe traseul meu.",siguranta,0
+SIM_050,"aspect: soferi_vatmani. text: Confortul termic în autobuzele noi e decent vara și iarna. În cele vechi e mai variabil. Nu e ceva la care să mă gândesc prea mult când urc, e ok în general pe traseul meu.",soferi_vatmani,0
+SIM_050,"aspect: stare_vehicule. text: Confortul termic în autobuzele noi e decent vara și iarna. În cele vechi e mai variabil. Nu e ceva la care să mă gândesc prea mult când urc, e ok în general pe traseul meu.",stare_vehicule,0
+SIM_050,"aspect: validare_bilete. text: Confortul termic în autobuzele noi e decent vara și iarna. În cele vechi e mai variabil. Nu e ceva la care să mă gândesc prea mult când urc, e ok în general pe traseul meu.",validare_bilete,0
+SIM_114,aspect: siguranta. text: Șoferul a condus prudent și a așteptat ca pasagerii să urce complet.,siguranta,1
+SIM_114,aspect: acoperire_rute. text: Șoferul a condus prudent și a așteptat ca pasagerii să urce complet.,acoperire_rute,0
+SIM_114,aspect: aglomeratie. text: Șoferul a condus prudent și a așteptat ca pasagerii să urce complet.,aglomeratie,0
+SIM_114,aspect: confort_termic. text: Șoferul a condus prudent și a așteptat ca pasagerii să urce complet.,confort_termic,0
+SIM_114,aspect: controlori. text: Șoferul a condus prudent și a așteptat ca pasagerii să urce complet.,controlori,0
+SIM_114,aspect: curatenie. text: Șoferul a condus prudent și a așteptat ca pasagerii să urce complet.,curatenie,0
+SIM_114,aspect: frecventa. text: Șoferul a condus prudent și a așteptat ca pasagerii să urce complet.,frecventa,0
+SIM_114,aspect: informare_calatori. text: Șoferul a condus prudent și a așteptat ca pasagerii să urce complet.,informare_calatori,0
+SIM_114,aspect: infrastructura_statii. text: Șoferul a condus prudent și a așteptat ca pasagerii să urce complet.,infrastructura_statii,0
+SIM_114,aspect: organizare. text: Șoferul a condus prudent și a așteptat ca pasagerii să urce complet.,organizare,0
+SIM_114,aspect: pret. text: Șoferul a condus prudent și a așteptat ca pasagerii să urce complet.,pret,0
+SIM_114,aspect: punctualitate. text: Șoferul a condus prudent și a așteptat ca pasagerii să urce complet.,punctualitate,0
+SIM_114,aspect: relatii_clienti. text: Șoferul a condus prudent și a așteptat ca pasagerii să urce complet.,relatii_clienti,0
+SIM_114,aspect: soferi_vatmani. text: Șoferul a condus prudent și a așteptat ca pasagerii să urce complet.,soferi_vatmani,0
+SIM_114,aspect: stare_vehicule. text: Șoferul a condus prudent și a așteptat ca pasagerii să urce complet.,stare_vehicule,0
+SIM_114,aspect: validare_bilete. text: Șoferul a condus prudent și a așteptat ca pasagerii să urce complet.,validare_bilete,0
+SIM_030,"aspect: frecventa. text: Biletul a ajuns 7 lei, abonamentul lunar 320 lei. Pentru ce? Ca să stai în autobuze vechi fără aer condiționat și să aștepți câte 30 de minute? Nu e corect față de călători.",frecventa,1
+SIM_030,"aspect: pret. text: Biletul a ajuns 7 lei, abonamentul lunar 320 lei. Pentru ce? Ca să stai în autobuze vechi fără aer condiționat și să aștepți câte 30 de minute? Nu e corect față de călători.",pret,1
+SIM_030,"aspect: acoperire_rute. text: Biletul a ajuns 7 lei, abonamentul lunar 320 lei. Pentru ce? Ca să stai în autobuze vechi fără aer condiționat și să aștepți câte 30 de minute? Nu e corect față de călători.",acoperire_rute,0
+SIM_030,"aspect: aglomeratie. text: Biletul a ajuns 7 lei, abonamentul lunar 320 lei. Pentru ce? Ca să stai în autobuze vechi fără aer condiționat și să aștepți câte 30 de minute? Nu e corect față de călători.",aglomeratie,0
+SIM_030,"aspect: confort_termic. text: Biletul a ajuns 7 lei, abonamentul lunar 320 lei. Pentru ce? Ca să stai în autobuze vechi fără aer condiționat și să aștepți câte 30 de minute? Nu e corect față de călători.",confort_termic,0
+SIM_030,"aspect: controlori. text: Biletul a ajuns 7 lei, abonamentul lunar 320 lei. Pentru ce? Ca să stai în autobuze vechi fără aer condiționat și să aștepți câte 30 de minute? Nu e corect față de călători.",controlori,0
+SIM_030,"aspect: curatenie. text: Biletul a ajuns 7 lei, abonamentul lunar 320 lei. Pentru ce? Ca să stai în autobuze vechi fără aer condiționat și să aștepți câte 30 de minute? Nu e corect față de călători.",curatenie,0
+SIM_030,"aspect: informare_calatori. text: Biletul a ajuns 7 lei, abonamentul lunar 320 lei. Pentru ce? Ca să stai în autobuze vechi fără aer condiționat și să aștepți câte 30 de minute? Nu e corect față de călători.",informare_calatori,0
+SIM_030,"aspect: infrastructura_statii. text: Biletul a ajuns 7 lei, abonamentul lunar 320 lei. Pentru ce? Ca să stai în autobuze vechi fără aer condiționat și să aștepți câte 30 de minute? Nu e corect față de călători.",infrastructura_statii,0
+SIM_030,"aspect: organizare. text: Biletul a ajuns 7 lei, abonamentul lunar 320 lei. Pentru ce? Ca să stai în autobuze vechi fără aer condiționat și să aștepți câte 30 de minute? Nu e corect față de călători.",organizare,0
+SIM_030,"aspect: punctualitate. text: Biletul a ajuns 7 lei, abonamentul lunar 320 lei. Pentru ce? Ca să stai în autobuze vechi fără aer condiționat și să aștepți câte 30 de minute? Nu e corect față de călători.",punctualitate,0
+SIM_030,"aspect: relatii_clienti. text: Biletul a ajuns 7 lei, abonamentul lunar 320 lei. Pentru ce? Ca să stai în autobuze vechi fără aer condiționat și să aștepți câte 30 de minute? Nu e corect față de călători.",relatii_clienti,0
+SIM_030,"aspect: siguranta. text: Biletul a ajuns 7 lei, abonamentul lunar 320 lei. Pentru ce? Ca să stai în autobuze vechi fără aer condiționat și să aștepți câte 30 de minute? Nu e corect față de călători.",siguranta,0
+SIM_030,"aspect: soferi_vatmani. text: Biletul a ajuns 7 lei, abonamentul lunar 320 lei. Pentru ce? Ca să stai în autobuze vechi fără aer condiționat și să aștepți câte 30 de minute? Nu e corect față de călători.",soferi_vatmani,0
+SIM_030,"aspect: stare_vehicule. text: Biletul a ajuns 7 lei, abonamentul lunar 320 lei. Pentru ce? Ca să stai în autobuze vechi fără aer condiționat și să aștepți câte 30 de minute? Nu e corect față de călători.",stare_vehicule,0
+SIM_030,"aspect: validare_bilete. text: Biletul a ajuns 7 lei, abonamentul lunar 320 lei. Pentru ce? Ca să stai în autobuze vechi fără aer condiționat și să aștepți câte 30 de minute? Nu e corect față de călători.",validare_bilete,0
+236,aspect: organizare. text: Cea mai proasta și neorganizată firma de transport în comun .,organizare,1
+236,aspect: acoperire_rute. text: Cea mai proasta și neorganizată firma de transport în comun .,acoperire_rute,0
+236,aspect: aglomeratie. text: Cea mai proasta și neorganizată firma de transport în comun .,aglomeratie,0
+236,aspect: confort_termic. text: Cea mai proasta și neorganizată firma de transport în comun .,confort_termic,0
+236,aspect: controlori. text: Cea mai proasta și neorganizată firma de transport în comun .,controlori,0
+236,aspect: curatenie. text: Cea mai proasta și neorganizată firma de transport în comun .,curatenie,0
+236,aspect: frecventa. text: Cea mai proasta și neorganizată firma de transport în comun .,frecventa,0
+236,aspect: informare_calatori. text: Cea mai proasta și neorganizată firma de transport în comun .,informare_calatori,0
+236,aspect: infrastructura_statii. text: Cea mai proasta și neorganizată firma de transport în comun .,infrastructura_statii,0
+236,aspect: pret. text: Cea mai proasta și neorganizată firma de transport în comun .,pret,0
+236,aspect: punctualitate. text: Cea mai proasta și neorganizată firma de transport în comun .,punctualitate,0
+236,aspect: relatii_clienti. text: Cea mai proasta și neorganizată firma de transport în comun .,relatii_clienti,0
+236,aspect: siguranta. text: Cea mai proasta și neorganizată firma de transport în comun .,siguranta,0
+236,aspect: soferi_vatmani. text: Cea mai proasta și neorganizată firma de transport în comun .,soferi_vatmani,0
+236,aspect: stare_vehicule. text: Cea mai proasta și neorganizată firma de transport în comun .,stare_vehicule,0
+236,aspect: validare_bilete. text: Cea mai proasta și neorganizată firma de transport în comun .,validare_bilete,0
+165,"aspect: confort_termic. text: Fara aer conditionat vara, fara caldura iarna, niste jafuri de tramvaie care la prima ploaie se strica pe drum, sar de pe sine cateodata.",confort_termic,1
+165,"aspect: siguranta. text: Fara aer conditionat vara, fara caldura iarna, niste jafuri de tramvaie care la prima ploaie se strica pe drum, sar de pe sine cateodata.",siguranta,1
+165,"aspect: stare_vehicule. text: Fara aer conditionat vara, fara caldura iarna, niste jafuri de tramvaie care la prima ploaie se strica pe drum, sar de pe sine cateodata.",stare_vehicule,1
+165,"aspect: acoperire_rute. text: Fara aer conditionat vara, fara caldura iarna, niste jafuri de tramvaie care la prima ploaie se strica pe drum, sar de pe sine cateodata.",acoperire_rute,0
+165,"aspect: aglomeratie. text: Fara aer conditionat vara, fara caldura iarna, niste jafuri de tramvaie care la prima ploaie se strica pe drum, sar de pe sine cateodata.",aglomeratie,0
+165,"aspect: controlori. text: Fara aer conditionat vara, fara caldura iarna, niste jafuri de tramvaie care la prima ploaie se strica pe drum, sar de pe sine cateodata.",controlori,0
+165,"aspect: curatenie. text: Fara aer conditionat vara, fara caldura iarna, niste jafuri de tramvaie care la prima ploaie se strica pe drum, sar de pe sine cateodata.",curatenie,0
+165,"aspect: frecventa. text: Fara aer conditionat vara, fara caldura iarna, niste jafuri de tramvaie care la prima ploaie se strica pe drum, sar de pe sine cateodata.",frecventa,0
+165,"aspect: informare_calatori. text: Fara aer conditionat vara, fara caldura iarna, niste jafuri de tramvaie care la prima ploaie se strica pe drum, sar de pe sine cateodata.",informare_calatori,0
+165,"aspect: infrastructura_statii. text: Fara aer conditionat vara, fara caldura iarna, niste jafuri de tramvaie care la prima ploaie se strica pe drum, sar de pe sine cateodata.",infrastructura_statii,0
+165,"aspect: organizare. text: Fara aer conditionat vara, fara caldura iarna, niste jafuri de tramvaie care la prima ploaie se strica pe drum, sar de pe sine cateodata.",organizare,0
+165,"aspect: pret. text: Fara aer conditionat vara, fara caldura iarna, niste jafuri de tramvaie care la prima ploaie se strica pe drum, sar de pe sine cateodata.",pret,0
+165,"aspect: punctualitate. text: Fara aer conditionat vara, fara caldura iarna, niste jafuri de tramvaie care la prima ploaie se strica pe drum, sar de pe sine cateodata.",punctualitate,0
+165,"aspect: relatii_clienti. text: Fara aer conditionat vara, fara caldura iarna, niste jafuri de tramvaie care la prima ploaie se strica pe drum, sar de pe sine cateodata.",relatii_clienti,0
+165,"aspect: soferi_vatmani. text: Fara aer conditionat vara, fara caldura iarna, niste jafuri de tramvaie care la prima ploaie se strica pe drum, sar de pe sine cateodata.",soferi_vatmani,0
+165,"aspect: validare_bilete. text: Fara aer conditionat vara, fara caldura iarna, niste jafuri de tramvaie care la prima ploaie se strica pe drum, sar de pe sine cateodata.",validare_bilete,0
+22,"aspect: aglomeratie. text: scumpiri ale prețurilor fără sens, lipsa de transport in comun suficient de bun încât sa nu existe aglomerație/așteptat cate o ora pana sa vină ceva.
+sunt niste oameni bolnavi la cap care nu sunt capabili să-și mențină propria firmă și se așteaptă ca studenții și oamenii care lucrează sa o întrețină (bătrânii au gratuit deci eu nu au ce spune)",aglomeratie,1
+22,"aspect: frecventa. text: scumpiri ale prețurilor fără sens, lipsa de transport in comun suficient de bun încât sa nu existe aglomerație/așteptat cate o ora pana sa vină ceva.
+sunt niste oameni bolnavi la cap care nu sunt capabili să-și mențină propria firmă și se așteaptă ca studenții și oamenii care lucrează sa o întrețină (bătrânii au gratuit deci eu nu au ce spune)",frecventa,1
+22,"aspect: pret. text: scumpiri ale prețurilor fără sens, lipsa de transport in comun suficient de bun încât sa nu existe aglomerație/așteptat cate o ora pana sa vină ceva.
+sunt niste oameni bolnavi la cap care nu sunt capabili să-și mențină propria firmă și se așteaptă ca studenții și oamenii care lucrează sa o întrețină (bătrânii au gratuit deci eu nu au ce spune)",pret,1
+22,"aspect: acoperire_rute. text: scumpiri ale prețurilor fără sens, lipsa de transport in comun suficient de bun încât sa nu existe aglomerație/așteptat cate o ora pana sa vină ceva.
+sunt niste oameni bolnavi la cap care nu sunt capabili să-și mențină propria firmă și se așteaptă ca studenții și oamenii care lucrează sa o întrețină (bătrânii au gratuit deci eu nu au ce spune)",acoperire_rute,0
+22,"aspect: confort_termic. text: scumpiri ale prețurilor fără sens, lipsa de transport in comun suficient de bun încât sa nu existe aglomerație/așteptat cate o ora pana sa vină ceva.
+sunt niste oameni bolnavi la cap care nu sunt capabili să-și mențină propria firmă și se așteaptă ca studenții și oamenii care lucrează sa o întrețină (bătrânii au gratuit deci eu nu au ce spune)",confort_termic,0
+22,"aspect: controlori. text: scumpiri ale prețurilor fără sens, lipsa de transport in comun suficient de bun încât sa nu existe aglomerație/așteptat cate o ora pana sa vină ceva.
+sunt niste oameni bolnavi la cap care nu sunt capabili să-și mențină propria firmă și se așteaptă ca studenții și oamenii care lucrează sa o întrețină (bătrânii au gratuit deci eu nu au ce spune)",controlori,0
+22,"aspect: curatenie. text: scumpiri ale prețurilor fără sens, lipsa de transport in comun suficient de bun încât sa nu existe aglomerație/așteptat cate o ora pana sa vină ceva.
+sunt niste oameni bolnavi la cap care nu sunt capabili să-și mențină propria firmă și se așteaptă ca studenții și oamenii care lucrează sa o întrețină (bătrânii au gratuit deci eu nu au ce spune)",curatenie,0
+22,"aspect: informare_calatori. text: scumpiri ale prețurilor fără sens, lipsa de transport in comun suficient de bun încât sa nu existe aglomerație/așteptat cate o ora pana sa vină ceva.
+sunt niste oameni bolnavi la cap care nu sunt capabili să-și mențină propria firmă și se așteaptă ca studenții și oamenii care lucrează sa o întrețină (bătrânii au gratuit deci eu nu au ce spune)",informare_calatori,0
+22,"aspect: infrastructura_statii. text: scumpiri ale prețurilor fără sens, lipsa de transport in comun suficient de bun încât sa nu existe aglomerație/așteptat cate o ora pana sa vină ceva.
+sunt niste oameni bolnavi la cap care nu sunt capabili să-și mențină propria firmă și se așteaptă ca studenții și oamenii care lucrează sa o întrețină (bătrânii au gratuit deci eu nu au ce spune)",infrastructura_statii,0
+22,"aspect: organizare. text: scumpiri ale prețurilor fără sens, lipsa de transport in comun suficient de bun încât sa nu existe aglomerație/așteptat cate o ora pana sa vină ceva.
+sunt niste oameni bolnavi la cap care nu sunt capabili să-și mențină propria firmă și se așteaptă ca studenții și oamenii care lucrează sa o întrețină (bătrânii au gratuit deci eu nu au ce spune)",organizare,0
+22,"aspect: punctualitate. text: scumpiri ale prețurilor fără sens, lipsa de transport in comun suficient de bun încât sa nu existe aglomerație/așteptat cate o ora pana sa vină ceva.
+sunt niste oameni bolnavi la cap care nu sunt capabili să-și mențină propria firmă și se așteaptă ca studenții și oamenii care lucrează sa o întrețină (bătrânii au gratuit deci eu nu au ce spune)",punctualitate,0
+22,"aspect: relatii_clienti. text: scumpiri ale prețurilor fără sens, lipsa de transport in comun suficient de bun încât sa nu existe aglomerație/așteptat cate o ora pana sa vină ceva.
+sunt niste oameni bolnavi la cap care nu sunt capabili să-și mențină propria firmă și se așteaptă ca studenții și oamenii care lucrează sa o întrețină (bătrânii au gratuit deci eu nu au ce spune)",relatii_clienti,0
+22,"aspect: siguranta. text: scumpiri ale prețurilor fără sens, lipsa de transport in comun suficient de bun încât sa nu existe aglomerație/așteptat cate o ora pana sa vină ceva.
+sunt niste oameni bolnavi la cap care nu sunt capabili să-și mențină propria firmă și se așteaptă ca studenții și oamenii care lucrează sa o întrețină (bătrânii au gratuit deci eu nu au ce spune)",siguranta,0
+22,"aspect: soferi_vatmani. text: scumpiri ale prețurilor fără sens, lipsa de transport in comun suficient de bun încât sa nu existe aglomerație/așteptat cate o ora pana sa vină ceva.
+sunt niste oameni bolnavi la cap care nu sunt capabili să-și mențină propria firmă și se așteaptă ca studenții și oamenii care lucrează sa o întrețină (bătrânii au gratuit deci eu nu au ce spune)",soferi_vatmani,0
+22,"aspect: stare_vehicule. text: scumpiri ale prețurilor fără sens, lipsa de transport in comun suficient de bun încât sa nu existe aglomerație/așteptat cate o ora pana sa vină ceva.
+sunt niste oameni bolnavi la cap care nu sunt capabili să-și mențină propria firmă și se așteaptă ca studenții și oamenii care lucrează sa o întrețină (bătrânii au gratuit deci eu nu au ce spune)",stare_vehicule,0
+22,"aspect: validare_bilete. text: scumpiri ale prețurilor fără sens, lipsa de transport in comun suficient de bun încât sa nu existe aglomerație/așteptat cate o ora pana sa vină ceva.
+sunt niste oameni bolnavi la cap care nu sunt capabili să-și mențină propria firmă și se așteaptă ca studenții și oamenii care lucrează sa o întrețină (bătrânii au gratuit deci eu nu au ce spune)",validare_bilete,0
+311,"aspect: validare_bilete. text: Sa rezolvați problema cu aparatele de cumpărat bilete. De foarte multe ori când am vrut sa iau bilet cu cardul îmi dădea eroare. Și asta la toate aparatele din autobuz... Daca tot faceți o treaba, măcar sa o faceți cum trebuie",validare_bilete,1
+311,"aspect: acoperire_rute. text: Sa rezolvați problema cu aparatele de cumpărat bilete. De foarte multe ori când am vrut sa iau bilet cu cardul îmi dădea eroare. Și asta la toate aparatele din autobuz... Daca tot faceți o treaba, măcar sa o faceți cum trebuie",acoperire_rute,0
+311,"aspect: aglomeratie. text: Sa rezolvați problema cu aparatele de cumpărat bilete. De foarte multe ori când am vrut sa iau bilet cu cardul îmi dădea eroare. Și asta la toate aparatele din autobuz... Daca tot faceți o treaba, măcar sa o faceți cum trebuie",aglomeratie,0
+311,"aspect: confort_termic. text: Sa rezolvați problema cu aparatele de cumpărat bilete. De foarte multe ori când am vrut sa iau bilet cu cardul îmi dădea eroare. Și asta la toate aparatele din autobuz... Daca tot faceți o treaba, măcar sa o faceți cum trebuie",confort_termic,0
+311,"aspect: controlori. text: Sa rezolvați problema cu aparatele de cumpărat bilete. De foarte multe ori când am vrut sa iau bilet cu cardul îmi dădea eroare. Și asta la toate aparatele din autobuz... Daca tot faceți o treaba, măcar sa o faceți cum trebuie",controlori,0
+311,"aspect: curatenie. text: Sa rezolvați problema cu aparatele de cumpărat bilete. De foarte multe ori când am vrut sa iau bilet cu cardul îmi dădea eroare. Și asta la toate aparatele din autobuz... Daca tot faceți o treaba, măcar sa o faceți cum trebuie",curatenie,0
+311,"aspect: frecventa. text: Sa rezolvați problema cu aparatele de cumpărat bilete. De foarte multe ori când am vrut sa iau bilet cu cardul îmi dădea eroare. Și asta la toate aparatele din autobuz... Daca tot faceți o treaba, măcar sa o faceți cum trebuie",frecventa,0
+311,"aspect: informare_calatori. text: Sa rezolvați problema cu aparatele de cumpărat bilete. De foarte multe ori când am vrut sa iau bilet cu cardul îmi dădea eroare. Și asta la toate aparatele din autobuz... Daca tot faceți o treaba, măcar sa o faceți cum trebuie",informare_calatori,0
+311,"aspect: infrastructura_statii. text: Sa rezolvați problema cu aparatele de cumpărat bilete. De foarte multe ori când am vrut sa iau bilet cu cardul îmi dădea eroare. Și asta la toate aparatele din autobuz... Daca tot faceți o treaba, măcar sa o faceți cum trebuie",infrastructura_statii,0
+311,"aspect: organizare. text: Sa rezolvați problema cu aparatele de cumpărat bilete. De foarte multe ori când am vrut sa iau bilet cu cardul îmi dădea eroare. Și asta la toate aparatele din autobuz... Daca tot faceți o treaba, măcar sa o faceți cum trebuie",organizare,0
+311,"aspect: pret. text: Sa rezolvați problema cu aparatele de cumpărat bilete. De foarte multe ori când am vrut sa iau bilet cu cardul îmi dădea eroare. Și asta la toate aparatele din autobuz... Daca tot faceți o treaba, măcar sa o faceți cum trebuie",pret,0
+311,"aspect: punctualitate. text: Sa rezolvați problema cu aparatele de cumpărat bilete. De foarte multe ori când am vrut sa iau bilet cu cardul îmi dădea eroare. Și asta la toate aparatele din autobuz... Daca tot faceți o treaba, măcar sa o faceți cum trebuie",punctualitate,0
+311,"aspect: relatii_clienti. text: Sa rezolvați problema cu aparatele de cumpărat bilete. De foarte multe ori când am vrut sa iau bilet cu cardul îmi dădea eroare. Și asta la toate aparatele din autobuz... Daca tot faceți o treaba, măcar sa o faceți cum trebuie",relatii_clienti,0
+311,"aspect: siguranta. text: Sa rezolvați problema cu aparatele de cumpărat bilete. De foarte multe ori când am vrut sa iau bilet cu cardul îmi dădea eroare. Și asta la toate aparatele din autobuz... Daca tot faceți o treaba, măcar sa o faceți cum trebuie",siguranta,0
+311,"aspect: soferi_vatmani. text: Sa rezolvați problema cu aparatele de cumpărat bilete. De foarte multe ori când am vrut sa iau bilet cu cardul îmi dădea eroare. Și asta la toate aparatele din autobuz... Daca tot faceți o treaba, măcar sa o faceți cum trebuie",soferi_vatmani,0
+311,"aspect: stare_vehicule. text: Sa rezolvați problema cu aparatele de cumpărat bilete. De foarte multe ori când am vrut sa iau bilet cu cardul îmi dădea eroare. Și asta la toate aparatele din autobuz... Daca tot faceți o treaba, măcar sa o faceți cum trebuie",stare_vehicule,0
+85,aspect: controlori. text: De fiecare dată când îmi cumpăr bilet nu se urcă controlorul……,controlori,1
+85,aspect: acoperire_rute. text: De fiecare dată când îmi cumpăr bilet nu se urcă controlorul……,acoperire_rute,0
+85,aspect: aglomeratie. text: De fiecare dată când îmi cumpăr bilet nu se urcă controlorul……,aglomeratie,0
+85,aspect: confort_termic. text: De fiecare dată când îmi cumpăr bilet nu se urcă controlorul……,confort_termic,0
+85,aspect: curatenie. text: De fiecare dată când îmi cumpăr bilet nu se urcă controlorul……,curatenie,0
+85,aspect: frecventa. text: De fiecare dată când îmi cumpăr bilet nu se urcă controlorul……,frecventa,0
+85,aspect: informare_calatori. text: De fiecare dată când îmi cumpăr bilet nu se urcă controlorul……,informare_calatori,0
+85,aspect: infrastructura_statii. text: De fiecare dată când îmi cumpăr bilet nu se urcă controlorul……,infrastructura_statii,0
+85,aspect: organizare. text: De fiecare dată când îmi cumpăr bilet nu se urcă controlorul……,organizare,0
+85,aspect: pret. text: De fiecare dată când îmi cumpăr bilet nu se urcă controlorul……,pret,0
+85,aspect: punctualitate. text: De fiecare dată când îmi cumpăr bilet nu se urcă controlorul……,punctualitate,0
+85,aspect: relatii_clienti. text: De fiecare dată când îmi cumpăr bilet nu se urcă controlorul……,relatii_clienti,0
+85,aspect: siguranta. text: De fiecare dată când îmi cumpăr bilet nu se urcă controlorul……,siguranta,0
+85,aspect: soferi_vatmani. text: De fiecare dată când îmi cumpăr bilet nu se urcă controlorul……,soferi_vatmani,0
+85,aspect: stare_vehicule. text: De fiecare dată când îmi cumpăr bilet nu se urcă controlorul……,stare_vehicule,0
+85,aspect: validare_bilete. text: De fiecare dată când îmi cumpăr bilet nu se urcă controlorul……,validare_bilete,0
+23,"aspect: aglomeratie. text: Pentru biletul de 7/9 lei si abonametul de 320 lei.
+   Sa va asteptati la petitii peste petitii, greve si oameni fara bilet sau autobuze si tramvaie GOALE, sunteti niste neo nazi$ti (ca asa va purtati) fara scrupule, cum rahat sa faceti un bilet amarat pentru transport in comun sa coste cat 3 paini ? Si abonametul sa fie de 1.8-2.2x mai scump decat o bursa/alocatie, sunteti tampiti ? (era o intrebare retorica) Si mai si platim atata pentru ce ? Un autobuz/tramvai plin de zici ca i o cutie de sardine, fara AC si cu suspensiile facute din beton, de ne dardaie si sufletu in noi cand da peste cea mai mica denivelare/pietricica, in care mai si lasati sa urce toti boschetarii si cersatorii (dintre care multi is pedo si/sau agresivi) si pot sa adaug la nesfarait neregularitati despre mijloacele astea de transport. Literally sunteti niste ""noi ciocoi"" batuti in cap si o sa primiti exact ce meritati.",aglomeratie,1
+23,"aspect: confort_termic. text: Pentru biletul de 7/9 lei si abonametul de 320 lei.
+   Sa va asteptati la petitii peste petitii, greve si oameni fara bilet sau autobuze si tramvaie GOALE, sunteti niste neo nazi$ti (ca asa va purtati) fara scrupule, cum rahat sa faceti un bilet amarat pentru transport in comun sa coste cat 3 paini ? Si abonametul sa fie de 1.8-2.2x mai scump decat o bursa/alocatie, sunteti tampiti ? (era o intrebare retorica) Si mai si platim atata pentru ce ? Un autobuz/tramvai plin de zici ca i o cutie de sardine, fara AC si cu suspensiile facute din beton, de ne dardaie si sufletu in noi cand da peste cea mai mica denivelare/pietricica, in care mai si lasati sa urce toti boschetarii si cersatorii (dintre care multi is pedo si/sau agresivi) si pot sa adaug la nesfarait neregularitati despre mijloacele astea de transport. Literally sunteti niste ""noi ciocoi"" batuti in cap si o sa primiti exact ce meritati.",confort_termic,1
+23,"aspect: pret. text: Pentru biletul de 7/9 lei si abonametul de 320 lei.
+   Sa va asteptati la petitii peste petitii, greve si oameni fara bilet sau autobuze si tramvaie GOALE, sunteti niste neo nazi$ti (ca asa va purtati) fara scrupule, cum rahat sa faceti un bilet amarat pentru transport in comun sa coste cat 3 paini ? Si abonametul sa fie de 1.8-2.2x mai scump decat o bursa/alocatie, sunteti tampiti ? (era o intrebare retorica) Si mai si platim atata pentru ce ? Un autobuz/tramvai plin de zici ca i o cutie de sardine, fara AC si cu suspensiile facute din beton, de ne dardaie si sufletu in noi cand da peste cea mai mica denivelare/pietricica, in care mai si lasati sa urce toti boschetarii si cersatorii (dintre care multi is pedo si/sau agresivi) si pot sa adaug la nesfarait neregularitati despre mijloacele astea de transport. Literally sunteti niste ""noi ciocoi"" batuti in cap si o sa primiti exact ce meritati.",pret,1
+23,"aspect: siguranta. text: Pentru biletul de 7/9 lei si abonametul de 320 lei.
+   Sa va asteptati la petitii peste petitii, greve si oameni fara bilet sau autobuze si tramvaie GOALE, sunteti niste neo nazi$ti (ca asa va purtati) fara scrupule, cum rahat sa faceti un bilet amarat pentru transport in comun sa coste cat 3 paini ? Si abonametul sa fie de 1.8-2.2x mai scump decat o bursa/alocatie, sunteti tampiti ? (era o intrebare retorica) Si mai si platim atata pentru ce ? Un autobuz/tramvai plin de zici ca i o cutie de sardine, fara AC si cu suspensiile facute din beton, de ne dardaie si sufletu in noi cand da peste cea mai mica denivelare/pietricica, in care mai si lasati sa urce toti boschetarii si cersatorii (dintre care multi is pedo si/sau agresivi) si pot sa adaug la nesfarait neregularitati despre mijloacele astea de transport. Literally sunteti niste ""noi ciocoi"" batuti in cap si o sa primiti exact ce meritati.",siguranta,1
+23,"aspect: stare_vehicule. text: Pentru biletul de 7/9 lei si abonametul de 320 lei.
+   Sa va asteptati la petitii peste petitii, greve si oameni fara bilet sau autobuze si tramvaie GOALE, sunteti niste neo nazi$ti (ca asa va purtati) fara scrupule, cum rahat sa faceti un bilet amarat pentru transport in comun sa coste cat 3 paini ? Si abonametul sa fie de 1.8-2.2x mai scump decat o bursa/alocatie, sunteti tampiti ? (era o intrebare retorica) Si mai si platim atata pentru ce ? Un autobuz/tramvai plin de zici ca i o cutie de sardine, fara AC si cu suspensiile facute din beton, de ne dardaie si sufletu in noi cand da peste cea mai mica denivelare/pietricica, in care mai si lasati sa urce toti boschetarii si cersatorii (dintre care multi is pedo si/sau agresivi) si pot sa adaug la nesfarait neregularitati despre mijloacele astea de transport. Literally sunteti niste ""noi ciocoi"" batuti in cap si o sa primiti exact ce meritati.",stare_vehicule,1
+23,"aspect: acoperire_rute. text: Pentru biletul de 7/9 lei si abonametul de 320 lei.
+   Sa va asteptati la petitii peste petitii, greve si oameni fara bilet sau autobuze si tramvaie GOALE, sunteti niste neo nazi$ti (ca asa va purtati) fara scrupule, cum rahat sa faceti un bilet amarat pentru transport in comun sa coste cat 3 paini ? Si abonametul sa fie de 1.8-2.2x mai scump decat o bursa/alocatie, sunteti tampiti ? (era o intrebare retorica) Si mai si platim atata pentru ce ? Un autobuz/tramvai plin de zici ca i o cutie de sardine, fara AC si cu suspensiile facute din beton, de ne dardaie si sufletu in noi cand da peste cea mai mica denivelare/pietricica, in care mai si lasati sa urce toti boschetarii si cersatorii (dintre care multi is pedo si/sau agresivi) si pot sa adaug la nesfarait neregularitati despre mijloacele astea de transport. Literally sunteti niste ""noi ciocoi"" batuti in cap si o sa primiti exact ce meritati.",acoperire_rute,0
+23,"aspect: controlori. text: Pentru biletul de 7/9 lei si abonametul de 320 lei.
+   Sa va asteptati la petitii peste petitii, greve si oameni fara bilet sau autobuze si tramvaie GOALE, sunteti niste neo nazi$ti (ca asa va purtati) fara scrupule, cum rahat sa faceti un bilet amarat pentru transport in comun sa coste cat 3 paini ? Si abonametul sa fie de 1.8-2.2x mai scump decat o bursa/alocatie, sunteti tampiti ? (era o intrebare retorica) Si mai si platim atata pentru ce ? Un autobuz/tramvai plin de zici ca i o cutie de sardine, fara AC si cu suspensiile facute din beton, de ne dardaie si sufletu in noi cand da peste cea mai mica denivelare/pietricica, in care mai si lasati sa urce toti boschetarii si cersatorii (dintre care multi is pedo si/sau agresivi) si pot sa adaug la nesfarait neregularitati despre mijloacele astea de transport. Literally sunteti niste ""noi ciocoi"" batuti in cap si o sa primiti exact ce meritati.",controlori,0
+23,"aspect: curatenie. text: Pentru biletul de 7/9 lei si abonametul de 320 lei.
+   Sa va asteptati la petitii peste petitii, greve si oameni fara bilet sau autobuze si tramvaie GOALE, sunteti niste neo nazi$ti (ca asa va purtati) fara scrupule, cum rahat sa faceti un bilet amarat pentru transport in comun sa coste cat 3 paini ? Si abonametul sa fie de 1.8-2.2x mai scump decat o bursa/alocatie, sunteti tampiti ? (era o intrebare retorica) Si mai si platim atata pentru ce ? Un autobuz/tramvai plin de zici ca i o cutie de sardine, fara AC si cu suspensiile facute din beton, de ne dardaie si sufletu in noi cand da peste cea mai mica denivelare/pietricica, in care mai si lasati sa urce toti boschetarii si cersatorii (dintre care multi is pedo si/sau agresivi) si pot sa adaug la nesfarait neregularitati despre mijloacele astea de transport. Literally sunteti niste ""noi ciocoi"" batuti in cap si o sa primiti exact ce meritati.",curatenie,0
+23,"aspect: frecventa. text: Pentru biletul de 7/9 lei si abonametul de 320 lei.
+   Sa va asteptati la petitii peste petitii, greve si oameni fara bilet sau autobuze si tramvaie GOALE, sunteti niste neo nazi$ti (ca asa va purtati) fara scrupule, cum rahat sa faceti un bilet amarat pentru transport in comun sa coste cat 3 paini ? Si abonametul sa fie de 1.8-2.2x mai scump decat o bursa/alocatie, sunteti tampiti ? (era o intrebare retorica) Si mai si platim atata pentru ce ? Un autobuz/tramvai plin de zici ca i o cutie de sardine, fara AC si cu suspensiile facute din beton, de ne dardaie si sufletu in noi cand da peste cea mai mica denivelare/pietricica, in care mai si lasati sa urce toti boschetarii si cersatorii (dintre care multi is pedo si/sau agresivi) si pot sa adaug la nesfarait neregularitati despre mijloacele astea de transport. Literally sunteti niste ""noi ciocoi"" batuti in cap si o sa primiti exact ce meritati.",frecventa,0
+23,"aspect: informare_calatori. text: Pentru biletul de 7/9 lei si abonametul de 320 lei.
+   Sa va asteptati la petitii peste petitii, greve si oameni fara bilet sau autobuze si tramvaie GOALE, sunteti niste neo nazi$ti (ca asa va purtati) fara scrupule, cum rahat sa faceti un bilet amarat pentru transport in comun sa coste cat 3 paini ? Si abonametul sa fie de 1.8-2.2x mai scump decat o bursa/alocatie, sunteti tampiti ? (era o intrebare retorica) Si mai si platim atata pentru ce ? Un autobuz/tramvai plin de zici ca i o cutie de sardine, fara AC si cu suspensiile facute din beton, de ne dardaie si sufletu in noi cand da peste cea mai mica denivelare/pietricica, in care mai si lasati sa urce toti boschetarii si cersatorii (dintre care multi is pedo si/sau agresivi) si pot sa adaug la nesfarait neregularitati despre mijloacele astea de transport. Literally sunteti niste ""noi ciocoi"" batuti in cap si o sa primiti exact ce meritati.",informare_calatori,0
+23,"aspect: infrastructura_statii. text: Pentru biletul de 7/9 lei si abonametul de 320 lei.
+   Sa va asteptati la petitii peste petitii, greve si oameni fara bilet sau autobuze si tramvaie GOALE, sunteti niste neo nazi$ti (ca asa va purtati) fara scrupule, cum rahat sa faceti un bilet amarat pentru transport in comun sa coste cat 3 paini ? Si abonametul sa fie de 1.8-2.2x mai scump decat o bursa/alocatie, sunteti tampiti ? (era o intrebare retorica) Si mai si platim atata pentru ce ? Un autobuz/tramvai plin de zici ca i o cutie de sardine, fara AC si cu suspensiile facute din beton, de ne dardaie si sufletu in noi cand da peste cea mai mica denivelare/pietricica, in care mai si lasati sa urce toti boschetarii si cersatorii (dintre care multi is pedo si/sau agresivi) si pot sa adaug la nesfarait neregularitati despre mijloacele astea de transport. Literally sunteti niste ""noi ciocoi"" batuti in cap si o sa primiti exact ce meritati.",infrastructura_statii,0
+23,"aspect: organizare. text: Pentru biletul de 7/9 lei si abonametul de 320 lei.
+   Sa va asteptati la petitii peste petitii, greve si oameni fara bilet sau autobuze si tramvaie GOALE, sunteti niste neo nazi$ti (ca asa va purtati) fara scrupule, cum rahat sa faceti un bilet amarat pentru transport in comun sa coste cat 3 paini ? Si abonametul sa fie de 1.8-2.2x mai scump decat o bursa/alocatie, sunteti tampiti ? (era o intrebare retorica) Si mai si platim atata pentru ce ? Un autobuz/tramvai plin de zici ca i o cutie de sardine, fara AC si cu suspensiile facute din beton, de ne dardaie si sufletu in noi cand da peste cea mai mica denivelare/pietricica, in care mai si lasati sa urce toti boschetarii si cersatorii (dintre care multi is pedo si/sau agresivi) si pot sa adaug la nesfarait neregularitati despre mijloacele astea de transport. Literally sunteti niste ""noi ciocoi"" batuti in cap si o sa primiti exact ce meritati.",organizare,0
+23,"aspect: punctualitate. text: Pentru biletul de 7/9 lei si abonametul de 320 lei.
+   Sa va asteptati la petitii peste petitii, greve si oameni fara bilet sau autobuze si tramvaie GOALE, sunteti niste neo nazi$ti (ca asa va purtati) fara scrupule, cum rahat sa faceti un bilet amarat pentru transport in comun sa coste cat 3 paini ? Si abonametul sa fie de 1.8-2.2x mai scump decat o bursa/alocatie, sunteti tampiti ? (era o intrebare retorica) Si mai si platim atata pentru ce ? Un autobuz/tramvai plin de zici ca i o cutie de sardine, fara AC si cu suspensiile facute din beton, de ne dardaie si sufletu in noi cand da peste cea mai mica denivelare/pietricica, in care mai si lasati sa urce toti boschetarii si cersatorii (dintre care multi is pedo si/sau agresivi) si pot sa adaug la nesfarait neregularitati despre mijloacele astea de transport. Literally sunteti niste ""noi ciocoi"" batuti in cap si o sa primiti exact ce meritati.",punctualitate,0
+23,"aspect: relatii_clienti. text: Pentru biletul de 7/9 lei si abonametul de 320 lei.
+   Sa va asteptati la petitii peste petitii, greve si oameni fara bilet sau autobuze si tramvaie GOALE, sunteti niste neo nazi$ti (ca asa va purtati) fara scrupule, cum rahat sa faceti un bilet amarat pentru transport in comun sa coste cat 3 paini ? Si abonametul sa fie de 1.8-2.2x mai scump decat o bursa/alocatie, sunteti tampiti ? (era o intrebare retorica) Si mai si platim atata pentru ce ? Un autobuz/tramvai plin de zici ca i o cutie de sardine, fara AC si cu suspensiile facute din beton, de ne dardaie si sufletu in noi cand da peste cea mai mica denivelare/pietricica, in care mai si lasati sa urce toti boschetarii si cersatorii (dintre care multi is pedo si/sau agresivi) si pot sa adaug la nesfarait neregularitati despre mijloacele astea de transport. Literally sunteti niste ""noi ciocoi"" batuti in cap si o sa primiti exact ce meritati.",relatii_clienti,0
+23,"aspect: soferi_vatmani. text: Pentru biletul de 7/9 lei si abonametul de 320 lei.
+   Sa va asteptati la petitii peste petitii, greve si oameni fara bilet sau autobuze si tramvaie GOALE, sunteti niste neo nazi$ti (ca asa va purtati) fara scrupule, cum rahat sa faceti un bilet amarat pentru transport in comun sa coste cat 3 paini ? Si abonametul sa fie de 1.8-2.2x mai scump decat o bursa/alocatie, sunteti tampiti ? (era o intrebare retorica) Si mai si platim atata pentru ce ? Un autobuz/tramvai plin de zici ca i o cutie de sardine, fara AC si cu suspensiile facute din beton, de ne dardaie si sufletu in noi cand da peste cea mai mica denivelare/pietricica, in care mai si lasati sa urce toti boschetarii si cersatorii (dintre care multi is pedo si/sau agresivi) si pot sa adaug la nesfarait neregularitati despre mijloacele astea de transport. Literally sunteti niste ""noi ciocoi"" batuti in cap si o sa primiti exact ce meritati.",soferi_vatmani,0
+23,"aspect: validare_bilete. text: Pentru biletul de 7/9 lei si abonametul de 320 lei.
+   Sa va asteptati la petitii peste petitii, greve si oameni fara bilet sau autobuze si tramvaie GOALE, sunteti niste neo nazi$ti (ca asa va purtati) fara scrupule, cum rahat sa faceti un bilet amarat pentru transport in comun sa coste cat 3 paini ? Si abonametul sa fie de 1.8-2.2x mai scump decat o bursa/alocatie, sunteti tampiti ? (era o intrebare retorica) Si mai si platim atata pentru ce ? Un autobuz/tramvai plin de zici ca i o cutie de sardine, fara AC si cu suspensiile facute din beton, de ne dardaie si sufletu in noi cand da peste cea mai mica denivelare/pietricica, in care mai si lasati sa urce toti boschetarii si cersatorii (dintre care multi is pedo si/sau agresivi) si pot sa adaug la nesfarait neregularitati despre mijloacele astea de transport. Literally sunteti niste ""noi ciocoi"" batuti in cap si o sa primiti exact ce meritati.",validare_bilete,0
+SIM_119,aspect: siguranta. text: Nu am observat incidente în timpul cursei.,siguranta,1
+SIM_119,aspect: acoperire_rute. text: Nu am observat incidente în timpul cursei.,acoperire_rute,0
+SIM_119,aspect: aglomeratie. text: Nu am observat incidente în timpul cursei.,aglomeratie,0
+SIM_119,aspect: confort_termic. text: Nu am observat incidente în timpul cursei.,confort_termic,0
+SIM_119,aspect: controlori. text: Nu am observat incidente în timpul cursei.,controlori,0
+SIM_119,aspect: curatenie. text: Nu am observat incidente în timpul cursei.,curatenie,0
+SIM_119,aspect: frecventa. text: Nu am observat incidente în timpul cursei.,frecventa,0
+SIM_119,aspect: informare_calatori. text: Nu am observat incidente în timpul cursei.,informare_calatori,0
+SIM_119,aspect: infrastructura_statii. text: Nu am observat incidente în timpul cursei.,infrastructura_statii,0
+SIM_119,aspect: organizare. text: Nu am observat incidente în timpul cursei.,organizare,0
+SIM_119,aspect: pret. text: Nu am observat incidente în timpul cursei.,pret,0
+SIM_119,aspect: punctualitate. text: Nu am observat incidente în timpul cursei.,punctualitate,0
+SIM_119,aspect: relatii_clienti. text: Nu am observat incidente în timpul cursei.,relatii_clienti,0
+SIM_119,aspect: soferi_vatmani. text: Nu am observat incidente în timpul cursei.,soferi_vatmani,0
+SIM_119,aspect: stare_vehicule. text: Nu am observat incidente în timpul cursei.,stare_vehicule,0
+SIM_119,aspect: validare_bilete. text: Nu am observat incidente în timpul cursei.,validare_bilete,0
+SIM_117,aspect: siguranta. text: În tramvai era ordine și nu au existat situații neplăcute.,siguranta,1
+SIM_117,aspect: acoperire_rute. text: În tramvai era ordine și nu au existat situații neplăcute.,acoperire_rute,0
+SIM_117,aspect: aglomeratie. text: În tramvai era ordine și nu au existat situații neplăcute.,aglomeratie,0
+SIM_117,aspect: confort_termic. text: În tramvai era ordine și nu au existat situații neplăcute.,confort_termic,0
+SIM_117,aspect: controlori. text: În tramvai era ordine și nu au existat situații neplăcute.,controlori,0
+SIM_117,aspect: curatenie. text: În tramvai era ordine și nu au existat situații neplăcute.,curatenie,0
+SIM_117,aspect: frecventa. text: În tramvai era ordine și nu au existat situații neplăcute.,frecventa,0
+SIM_117,aspect: informare_calatori. text: În tramvai era ordine și nu au existat situații neplăcute.,informare_calatori,0
+SIM_117,aspect: infrastructura_statii. text: În tramvai era ordine și nu au existat situații neplăcute.,infrastructura_statii,0
+SIM_117,aspect: organizare. text: În tramvai era ordine și nu au existat situații neplăcute.,organizare,0
+SIM_117,aspect: pret. text: În tramvai era ordine și nu au existat situații neplăcute.,pret,0
+SIM_117,aspect: punctualitate. text: În tramvai era ordine și nu au existat situații neplăcute.,punctualitate,0
+SIM_117,aspect: relatii_clienti. text: În tramvai era ordine și nu au existat situații neplăcute.,relatii_clienti,0
+SIM_117,aspect: soferi_vatmani. text: În tramvai era ordine și nu au existat situații neplăcute.,soferi_vatmani,0
+SIM_117,aspect: stare_vehicule. text: În tramvai era ordine și nu au existat situații neplăcute.,stare_vehicule,0
+SIM_117,aspect: validare_bilete. text: În tramvai era ordine și nu au existat situații neplăcute.,validare_bilete,0
+SENT_SIM_017,aspect: curatenie. text: Tramvaiul era bine întreținut și curat.,curatenie,1
+SENT_SIM_017,aspect: acoperire_rute. text: Tramvaiul era bine întreținut și curat.,acoperire_rute,0
+SENT_SIM_017,aspect: aglomeratie. text: Tramvaiul era bine întreținut și curat.,aglomeratie,0
+SENT_SIM_017,aspect: confort_termic. text: Tramvaiul era bine întreținut și curat.,confort_termic,0
+SENT_SIM_017,aspect: controlori. text: Tramvaiul era bine întreținut și curat.,controlori,0
+SENT_SIM_017,aspect: frecventa. text: Tramvaiul era bine întreținut și curat.,frecventa,0
+SENT_SIM_017,aspect: informare_calatori. text: Tramvaiul era bine întreținut și curat.,informare_calatori,0
+SENT_SIM_017,aspect: infrastructura_statii. text: Tramvaiul era bine întreținut și curat.,infrastructura_statii,0
+SENT_SIM_017,aspect: organizare. text: Tramvaiul era bine întreținut și curat.,organizare,0
+SENT_SIM_017,aspect: pret. text: Tramvaiul era bine întreținut și curat.,pret,0
+SENT_SIM_017,aspect: punctualitate. text: Tramvaiul era bine întreținut și curat.,punctualitate,0
+SENT_SIM_017,aspect: relatii_clienti. text: Tramvaiul era bine întreținut și curat.,relatii_clienti,0
+SENT_SIM_017,aspect: siguranta. text: Tramvaiul era bine întreținut și curat.,siguranta,0
+SENT_SIM_017,aspect: soferi_vatmani. text: Tramvaiul era bine întreținut și curat.,soferi_vatmani,0
+SENT_SIM_017,aspect: stare_vehicule. text: Tramvaiul era bine întreținut și curat.,stare_vehicule,0
+SENT_SIM_017,aspect: validare_bilete. text: Tramvaiul era bine întreținut și curat.,validare_bilete,0
+59,"aspect: relatii_clienti. text: este a 2a oară în mai puțin de 1 luna când automatul de bilete de la Granit ia banii sau se blochează, fara sa elibereze bilet. Am făcut sesizare de pe pagina oficială, fara nici un răspuns. Serviciul cu și față de clienți este inexistent.",relatii_clienti,1
+59,"aspect: validare_bilete. text: este a 2a oară în mai puțin de 1 luna când automatul de bilete de la Granit ia banii sau se blochează, fara sa elibereze bilet. Am făcut sesizare de pe pagina oficială, fara nici un răspuns. Serviciul cu și față de clienți este inexistent.",validare_bilete,1
+59,"aspect: acoperire_rute. text: este a 2a oară în mai puțin de 1 luna când automatul de bilete de la Granit ia banii sau se blochează, fara sa elibereze bilet. Am făcut sesizare de pe pagina oficială, fara nici un răspuns. Serviciul cu și față de clienți este inexistent.",acoperire_rute,0
+59,"aspect: aglomeratie. text: este a 2a oară în mai puțin de 1 luna când automatul de bilete de la Granit ia banii sau se blochează, fara sa elibereze bilet. Am făcut sesizare de pe pagina oficială, fara nici un răspuns. Serviciul cu și față de clienți este inexistent.",aglomeratie,0
+59,"aspect: confort_termic. text: este a 2a oară în mai puțin de 1 luna când automatul de bilete de la Granit ia banii sau se blochează, fara sa elibereze bilet. Am făcut sesizare de pe pagina oficială, fara nici un răspuns. Serviciul cu și față de clienți este inexistent.",confort_termic,0
+59,"aspect: controlori. text: este a 2a oară în mai puțin de 1 luna când automatul de bilete de la Granit ia banii sau se blochează, fara sa elibereze bilet. Am făcut sesizare de pe pagina oficială, fara nici un răspuns. Serviciul cu și față de clienți este inexistent.",controlori,0
+59,"aspect: curatenie. text: este a 2a oară în mai puțin de 1 luna când automatul de bilete de la Granit ia banii sau se blochează, fara sa elibereze bilet. Am făcut sesizare de pe pagina oficială, fara nici un răspuns. Serviciul cu și față de clienți este inexistent.",curatenie,0
+59,"aspect: frecventa. text: este a 2a oară în mai puțin de 1 luna când automatul de bilete de la Granit ia banii sau se blochează, fara sa elibereze bilet. Am făcut sesizare de pe pagina oficială, fara nici un răspuns. Serviciul cu și față de clienți este inexistent.",frecventa,0
+59,"aspect: informare_calatori. text: este a 2a oară în mai puțin de 1 luna când automatul de bilete de la Granit ia banii sau se blochează, fara sa elibereze bilet. Am făcut sesizare de pe pagina oficială, fara nici un răspuns. Serviciul cu și față de clienți este inexistent.",informare_calatori,0
+59,"aspect: infrastructura_statii. text: este a 2a oară în mai puțin de 1 luna când automatul de bilete de la Granit ia banii sau se blochează, fara sa elibereze bilet. Am făcut sesizare de pe pagina oficială, fara nici un răspuns. Serviciul cu și față de clienți este inexistent.",infrastructura_statii,0
+59,"aspect: organizare. text: este a 2a oară în mai puțin de 1 luna când automatul de bilete de la Granit ia banii sau se blochează, fara sa elibereze bilet. Am făcut sesizare de pe pagina oficială, fara nici un răspuns. Serviciul cu și față de clienți este inexistent.",organizare,0
+59,"aspect: pret. text: este a 2a oară în mai puțin de 1 luna când automatul de bilete de la Granit ia banii sau se blochează, fara sa elibereze bilet. Am făcut sesizare de pe pagina oficială, fara nici un răspuns. Serviciul cu și față de clienți este inexistent.",pret,0
+59,"aspect: punctualitate. text: este a 2a oară în mai puțin de 1 luna când automatul de bilete de la Granit ia banii sau se blochează, fara sa elibereze bilet. Am făcut sesizare de pe pagina oficială, fara nici un răspuns. Serviciul cu și față de clienți este inexistent.",punctualitate,0
+59,"aspect: siguranta. text: este a 2a oară în mai puțin de 1 luna când automatul de bilete de la Granit ia banii sau se blochează, fara sa elibereze bilet. Am făcut sesizare de pe pagina oficială, fara nici un răspuns. Serviciul cu și față de clienți este inexistent.",siguranta,0
+59,"aspect: soferi_vatmani. text: este a 2a oară în mai puțin de 1 luna când automatul de bilete de la Granit ia banii sau se blochează, fara sa elibereze bilet. Am făcut sesizare de pe pagina oficială, fara nici un răspuns. Serviciul cu și față de clienți este inexistent.",soferi_vatmani,0
+59,"aspect: stare_vehicule. text: este a 2a oară în mai puțin de 1 luna când automatul de bilete de la Granit ia banii sau se blochează, fara sa elibereze bilet. Am făcut sesizare de pe pagina oficială, fara nici un răspuns. Serviciul cu și față de clienți este inexistent.",stare_vehicule,0
+SENT_SIM_015,"aspect: soferi_vatmani. text: Șoferul nu a interacționat cu pasagerii, iar cursa a decurs normal.",soferi_vatmani,1
+SENT_SIM_015,"aspect: acoperire_rute. text: Șoferul nu a interacționat cu pasagerii, iar cursa a decurs normal.",acoperire_rute,0
+SENT_SIM_015,"aspect: aglomeratie. text: Șoferul nu a interacționat cu pasagerii, iar cursa a decurs normal.",aglomeratie,0
+SENT_SIM_015,"aspect: confort_termic. text: Șoferul nu a interacționat cu pasagerii, iar cursa a decurs normal.",confort_termic,0
+SENT_SIM_015,"aspect: controlori. text: Șoferul nu a interacționat cu pasagerii, iar cursa a decurs normal.",controlori,0
+SENT_SIM_015,"aspect: curatenie. text: Șoferul nu a interacționat cu pasagerii, iar cursa a decurs normal.",curatenie,0
+SENT_SIM_015,"aspect: frecventa. text: Șoferul nu a interacționat cu pasagerii, iar cursa a decurs normal.",frecventa,0
+SENT_SIM_015,"aspect: informare_calatori. text: Șoferul nu a interacționat cu pasagerii, iar cursa a decurs normal.",informare_calatori,0
+SENT_SIM_015,"aspect: infrastructura_statii. text: Șoferul nu a interacționat cu pasagerii, iar cursa a decurs normal.",infrastructura_statii,0
+SENT_SIM_015,"aspect: organizare. text: Șoferul nu a interacționat cu pasagerii, iar cursa a decurs normal.",organizare,0
+SENT_SIM_015,"aspect: pret. text: Șoferul nu a interacționat cu pasagerii, iar cursa a decurs normal.",pret,0
+SENT_SIM_015,"aspect: punctualitate. text: Șoferul nu a interacționat cu pasagerii, iar cursa a decurs normal.",punctualitate,0
+SENT_SIM_015,"aspect: relatii_clienti. text: Șoferul nu a interacționat cu pasagerii, iar cursa a decurs normal.",relatii_clienti,0
+SENT_SIM_015,"aspect: siguranta. text: Șoferul nu a interacționat cu pasagerii, iar cursa a decurs normal.",siguranta,0
+SENT_SIM_015,"aspect: stare_vehicule. text: Șoferul nu a interacționat cu pasagerii, iar cursa a decurs normal.",stare_vehicule,0
+SENT_SIM_015,"aspect: validare_bilete. text: Șoferul nu a interacționat cu pasagerii, iar cursa a decurs normal.",validare_bilete,0
+302,"aspect: organizare. text: Din 7 tramvaie au trecut prin statia targu cucu, 2 au fost defecte, 3 au fost cele de pe treseul 3 si unul traseul 8, sunteti niste amatori cu rablele voastre si organizarea!",organizare,1
+302,"aspect: stare_vehicule. text: Din 7 tramvaie au trecut prin statia targu cucu, 2 au fost defecte, 3 au fost cele de pe treseul 3 si unul traseul 8, sunteti niste amatori cu rablele voastre si organizarea!",stare_vehicule,1
+302,"aspect: acoperire_rute. text: Din 7 tramvaie au trecut prin statia targu cucu, 2 au fost defecte, 3 au fost cele de pe treseul 3 si unul traseul 8, sunteti niste amatori cu rablele voastre si organizarea!",acoperire_rute,0
+302,"aspect: aglomeratie. text: Din 7 tramvaie au trecut prin statia targu cucu, 2 au fost defecte, 3 au fost cele de pe treseul 3 si unul traseul 8, sunteti niste amatori cu rablele voastre si organizarea!",aglomeratie,0
+302,"aspect: confort_termic. text: Din 7 tramvaie au trecut prin statia targu cucu, 2 au fost defecte, 3 au fost cele de pe treseul 3 si unul traseul 8, sunteti niste amatori cu rablele voastre si organizarea!",confort_termic,0
+302,"aspect: controlori. text: Din 7 tramvaie au trecut prin statia targu cucu, 2 au fost defecte, 3 au fost cele de pe treseul 3 si unul traseul 8, sunteti niste amatori cu rablele voastre si organizarea!",controlori,0
+302,"aspect: curatenie. text: Din 7 tramvaie au trecut prin statia targu cucu, 2 au fost defecte, 3 au fost cele de pe treseul 3 si unul traseul 8, sunteti niste amatori cu rablele voastre si organizarea!",curatenie,0
+302,"aspect: frecventa. text: Din 7 tramvaie au trecut prin statia targu cucu, 2 au fost defecte, 3 au fost cele de pe treseul 3 si unul traseul 8, sunteti niste amatori cu rablele voastre si organizarea!",frecventa,0
+302,"aspect: informare_calatori. text: Din 7 tramvaie au trecut prin statia targu cucu, 2 au fost defecte, 3 au fost cele de pe treseul 3 si unul traseul 8, sunteti niste amatori cu rablele voastre si organizarea!",informare_calatori,0
+302,"aspect: infrastructura_statii. text: Din 7 tramvaie au trecut prin statia targu cucu, 2 au fost defecte, 3 au fost cele de pe treseul 3 si unul traseul 8, sunteti niste amatori cu rablele voastre si organizarea!",infrastructura_statii,0
+302,"aspect: pret. text: Din 7 tramvaie au trecut prin statia targu cucu, 2 au fost defecte, 3 au fost cele de pe treseul 3 si unul traseul 8, sunteti niste amatori cu rablele voastre si organizarea!",pret,0
+302,"aspect: punctualitate. text: Din 7 tramvaie au trecut prin statia targu cucu, 2 au fost defecte, 3 au fost cele de pe treseul 3 si unul traseul 8, sunteti niste amatori cu rablele voastre si organizarea!",punctualitate,0
+302,"aspect: relatii_clienti. text: Din 7 tramvaie au trecut prin statia targu cucu, 2 au fost defecte, 3 au fost cele de pe treseul 3 si unul traseul 8, sunteti niste amatori cu rablele voastre si organizarea!",relatii_clienti,0
+302,"aspect: siguranta. text: Din 7 tramvaie au trecut prin statia targu cucu, 2 au fost defecte, 3 au fost cele de pe treseul 3 si unul traseul 8, sunteti niste amatori cu rablele voastre si organizarea!",siguranta,0
+302,"aspect: soferi_vatmani. text: Din 7 tramvaie au trecut prin statia targu cucu, 2 au fost defecte, 3 au fost cele de pe treseul 3 si unul traseul 8, sunteti niste amatori cu rablele voastre si organizarea!",soferi_vatmani,0
+302,"aspect: validare_bilete. text: Din 7 tramvaie au trecut prin statia targu cucu, 2 au fost defecte, 3 au fost cele de pe treseul 3 si unul traseul 8, sunteti niste amatori cu rablele voastre si organizarea!",validare_bilete,0
+149,"aspect: punctualitate. text: acum o oră
+
+De tot râsul....Niste inpertineti si mega nesimțiți..cel puțin așa sunt vatmanii de pe tramvaiul 9...
+Am așteptat 10 min in tramvai...fiind foarte cald am coborât ...La 5 min a urcat ""dnl""vatman si efectiv mi a inchis una in nas ..Nu mi a mai permis sa urc...Asta s a intamplat la capăt Cug...
+Acum am bilet cumparat si acum merg cu taxiul ca întârzii la serviciu...
+RUSINEEEE...",punctualitate,1
+149,"aspect: soferi_vatmani. text: acum o oră
+
+De tot râsul....Niste inpertineti si mega nesimțiți..cel puțin așa sunt vatmanii de pe tramvaiul 9...
+Am așteptat 10 min in tramvai...fiind foarte cald am coborât ...La 5 min a urcat ""dnl""vatman si efectiv mi a inchis una in nas ..Nu mi a mai permis sa urc...Asta s a intamplat la capăt Cug...
+Acum am bilet cumparat si acum merg cu taxiul ca întârzii la serviciu...
+RUSINEEEE...",soferi_vatmani,1
+149,"aspect: acoperire_rute. text: acum o oră
+
+De tot râsul....Niste inpertineti si mega nesimțiți..cel puțin așa sunt vatmanii de pe tramvaiul 9...
+Am așteptat 10 min in tramvai...fiind foarte cald am coborât ...La 5 min a urcat ""dnl""vatman si efectiv mi a inchis una in nas ..Nu mi a mai permis sa urc...Asta s a intamplat la capăt Cug...
+Acum am bilet cumparat si acum merg cu taxiul ca întârzii la serviciu...
+RUSINEEEE...",acoperire_rute,0
+149,"aspect: aglomeratie. text: acum o oră
+
+De tot râsul....Niste inpertineti si mega nesimțiți..cel puțin așa sunt vatmanii de pe tramvaiul 9...
+Am așteptat 10 min in tramvai...fiind foarte cald am coborât ...La 5 min a urcat ""dnl""vatman si efectiv mi a inchis una in nas ..Nu mi a mai permis sa urc...Asta s a intamplat la capăt Cug...
+Acum am bilet cumparat si acum merg cu taxiul ca întârzii la serviciu...
+RUSINEEEE...",aglomeratie,0
+149,"aspect: confort_termic. text: acum o oră
+
+De tot râsul....Niste inpertineti si mega nesimțiți..cel puțin așa sunt vatmanii de pe tramvaiul 9...
+Am așteptat 10 min in tramvai...fiind foarte cald am coborât ...La 5 min a urcat ""dnl""vatman si efectiv mi a inchis una in nas ..Nu mi a mai permis sa urc...Asta s a intamplat la capăt Cug...
+Acum am bilet cumparat si acum merg cu taxiul ca întârzii la serviciu...
+RUSINEEEE...",confort_termic,0
+149,"aspect: controlori. text: acum o oră
+
+De tot râsul....Niste inpertineti si mega nesimțiți..cel puțin așa sunt vatmanii de pe tramvaiul 9...
+Am așteptat 10 min in tramvai...fiind foarte cald am coborât ...La 5 min a urcat ""dnl""vatman si efectiv mi a inchis una in nas ..Nu mi a mai permis sa urc...Asta s a intamplat la capăt Cug...
+Acum am bilet cumparat si acum merg cu taxiul ca întârzii la serviciu...
+RUSINEEEE...",controlori,0
+149,"aspect: curatenie. text: acum o oră
+
+De tot râsul....Niste inpertineti si mega nesimțiți..cel puțin așa sunt vatmanii de pe tramvaiul 9...
+Am așteptat 10 min in tramvai...fiind foarte cald am coborât ...La 5 min a urcat ""dnl""vatman si efectiv mi a inchis una in nas ..Nu mi a mai permis sa urc...Asta s a intamplat la capăt Cug...
+Acum am bilet cumparat si acum merg cu taxiul ca întârzii la serviciu...
+RUSINEEEE...",curatenie,0
+149,"aspect: frecventa. text: acum o oră
+
+De tot râsul....Niste inpertineti si mega nesimțiți..cel puțin așa sunt vatmanii de pe tramvaiul 9...
+Am așteptat 10 min in tramvai...fiind foarte cald am coborât ...La 5 min a urcat ""dnl""vatman si efectiv mi a inchis una in nas ..Nu mi a mai permis sa urc...Asta s a intamplat la capăt Cug...
+Acum am bilet cumparat si acum merg cu taxiul ca întârzii la serviciu...
+RUSINEEEE...",frecventa,0
+149,"aspect: informare_calatori. text: acum o oră
+
+De tot râsul....Niste inpertineti si mega nesimțiți..cel puțin așa sunt vatmanii de pe tramvaiul 9...
+Am așteptat 10 min in tramvai...fiind foarte cald am coborât ...La 5 min a urcat ""dnl""vatman si efectiv mi a inchis una in nas ..Nu mi a mai permis sa urc...Asta s a intamplat la capăt Cug...
+Acum am bilet cumparat si acum merg cu taxiul ca întârzii la serviciu...
+RUSINEEEE...",informare_calatori,0
+149,"aspect: infrastructura_statii. text: acum o oră
+
+De tot râsul....Niste inpertineti si mega nesimțiți..cel puțin așa sunt vatmanii de pe tramvaiul 9...
+Am așteptat 10 min in tramvai...fiind foarte cald am coborât ...La 5 min a urcat ""dnl""vatman si efectiv mi a inchis una in nas ..Nu mi a mai permis sa urc...Asta s a intamplat la capăt Cug...
+Acum am bilet cumparat si acum merg cu taxiul ca întârzii la serviciu...
+RUSINEEEE...",infrastructura_statii,0
+149,"aspect: organizare. text: acum o oră
+
+De tot râsul....Niste inpertineti si mega nesimțiți..cel puțin așa sunt vatmanii de pe tramvaiul 9...
+Am așteptat 10 min in tramvai...fiind foarte cald am coborât ...La 5 min a urcat ""dnl""vatman si efectiv mi a inchis una in nas ..Nu mi a mai permis sa urc...Asta s a intamplat la capăt Cug...
+Acum am bilet cumparat si acum merg cu taxiul ca întârzii la serviciu...
+RUSINEEEE...",organizare,0
+149,"aspect: pret. text: acum o oră
+
+De tot râsul....Niste inpertineti si mega nesimțiți..cel puțin așa sunt vatmanii de pe tramvaiul 9...
+Am așteptat 10 min in tramvai...fiind foarte cald am coborât ...La 5 min a urcat ""dnl""vatman si efectiv mi a inchis una in nas ..Nu mi a mai permis sa urc...Asta s a intamplat la capăt Cug...
+Acum am bilet cumparat si acum merg cu taxiul ca întârzii la serviciu...
+RUSINEEEE...",pret,0
+149,"aspect: relatii_clienti. text: acum o oră
+
+De tot râsul....Niste inpertineti si mega nesimțiți..cel puțin așa sunt vatmanii de pe tramvaiul 9...
+Am așteptat 10 min in tramvai...fiind foarte cald am coborât ...La 5 min a urcat ""dnl""vatman si efectiv mi a inchis una in nas ..Nu mi a mai permis sa urc...Asta s a intamplat la capăt Cug...
+Acum am bilet cumparat si acum merg cu taxiul ca întârzii la serviciu...
+RUSINEEEE...",relatii_clienti,0
+149,"aspect: siguranta. text: acum o oră
+
+De tot râsul....Niste inpertineti si mega nesimțiți..cel puțin așa sunt vatmanii de pe tramvaiul 9...
+Am așteptat 10 min in tramvai...fiind foarte cald am coborât ...La 5 min a urcat ""dnl""vatman si efectiv mi a inchis una in nas ..Nu mi a mai permis sa urc...Asta s a intamplat la capăt Cug...
+Acum am bilet cumparat si acum merg cu taxiul ca întârzii la serviciu...
+RUSINEEEE...",siguranta,0
+149,"aspect: stare_vehicule. text: acum o oră
+
+De tot râsul....Niste inpertineti si mega nesimțiți..cel puțin așa sunt vatmanii de pe tramvaiul 9...
+Am așteptat 10 min in tramvai...fiind foarte cald am coborât ...La 5 min a urcat ""dnl""vatman si efectiv mi a inchis una in nas ..Nu mi a mai permis sa urc...Asta s a intamplat la capăt Cug...
+Acum am bilet cumparat si acum merg cu taxiul ca întârzii la serviciu...
+RUSINEEEE...",stare_vehicule,0
+149,"aspect: validare_bilete. text: acum o oră
+
+De tot râsul....Niste inpertineti si mega nesimțiți..cel puțin așa sunt vatmanii de pe tramvaiul 9...
+Am așteptat 10 min in tramvai...fiind foarte cald am coborât ...La 5 min a urcat ""dnl""vatman si efectiv mi a inchis una in nas ..Nu mi a mai permis sa urc...Asta s a intamplat la capăt Cug...
+Acum am bilet cumparat si acum merg cu taxiul ca întârzii la serviciu...
+RUSINEEEE...",validare_bilete,0
+SIM_076,aspect: aglomeratie. text: Autobuzul nu a fost aglomerat și am găsit loc liber pe scaun.,aglomeratie,1
+SIM_076,aspect: acoperire_rute. text: Autobuzul nu a fost aglomerat și am găsit loc liber pe scaun.,acoperire_rute,0
+SIM_076,aspect: confort_termic. text: Autobuzul nu a fost aglomerat și am găsit loc liber pe scaun.,confort_termic,0
+SIM_076,aspect: controlori. text: Autobuzul nu a fost aglomerat și am găsit loc liber pe scaun.,controlori,0
+SIM_076,aspect: curatenie. text: Autobuzul nu a fost aglomerat și am găsit loc liber pe scaun.,curatenie,0
+SIM_076,aspect: frecventa. text: Autobuzul nu a fost aglomerat și am găsit loc liber pe scaun.,frecventa,0
+SIM_076,aspect: informare_calatori. text: Autobuzul nu a fost aglomerat și am găsit loc liber pe scaun.,informare_calatori,0
+SIM_076,aspect: infrastructura_statii. text: Autobuzul nu a fost aglomerat și am găsit loc liber pe scaun.,infrastructura_statii,0
+SIM_076,aspect: organizare. text: Autobuzul nu a fost aglomerat și am găsit loc liber pe scaun.,organizare,0
+SIM_076,aspect: pret. text: Autobuzul nu a fost aglomerat și am găsit loc liber pe scaun.,pret,0
+SIM_076,aspect: punctualitate. text: Autobuzul nu a fost aglomerat și am găsit loc liber pe scaun.,punctualitate,0
+SIM_076,aspect: relatii_clienti. text: Autobuzul nu a fost aglomerat și am găsit loc liber pe scaun.,relatii_clienti,0
+SIM_076,aspect: siguranta. text: Autobuzul nu a fost aglomerat și am găsit loc liber pe scaun.,siguranta,0
+SIM_076,aspect: soferi_vatmani. text: Autobuzul nu a fost aglomerat și am găsit loc liber pe scaun.,soferi_vatmani,0
+SIM_076,aspect: stare_vehicule. text: Autobuzul nu a fost aglomerat și am găsit loc liber pe scaun.,stare_vehicule,0
+SIM_076,aspect: validare_bilete. text: Autobuzul nu a fost aglomerat și am găsit loc liber pe scaun.,validare_bilete,0
+SIM_022,aspect: soferi_vatmani. text: Șoferul de pe linia 30 a trecut prin stația de la Podul de Piatră fără să oprească deși erau oameni care așteptau. A văzut că sunt acolo și nu a redus viteza deloc.,soferi_vatmani,1
+SIM_022,aspect: acoperire_rute. text: Șoferul de pe linia 30 a trecut prin stația de la Podul de Piatră fără să oprească deși erau oameni care așteptau. A văzut că sunt acolo și nu a redus viteza deloc.,acoperire_rute,0
+SIM_022,aspect: aglomeratie. text: Șoferul de pe linia 30 a trecut prin stația de la Podul de Piatră fără să oprească deși erau oameni care așteptau. A văzut că sunt acolo și nu a redus viteza deloc.,aglomeratie,0
+SIM_022,aspect: confort_termic. text: Șoferul de pe linia 30 a trecut prin stația de la Podul de Piatră fără să oprească deși erau oameni care așteptau. A văzut că sunt acolo și nu a redus viteza deloc.,confort_termic,0
+SIM_022,aspect: controlori. text: Șoferul de pe linia 30 a trecut prin stația de la Podul de Piatră fără să oprească deși erau oameni care așteptau. A văzut că sunt acolo și nu a redus viteza deloc.,controlori,0
+SIM_022,aspect: curatenie. text: Șoferul de pe linia 30 a trecut prin stația de la Podul de Piatră fără să oprească deși erau oameni care așteptau. A văzut că sunt acolo și nu a redus viteza deloc.,curatenie,0
+SIM_022,aspect: frecventa. text: Șoferul de pe linia 30 a trecut prin stația de la Podul de Piatră fără să oprească deși erau oameni care așteptau. A văzut că sunt acolo și nu a redus viteza deloc.,frecventa,0
+SIM_022,aspect: informare_calatori. text: Șoferul de pe linia 30 a trecut prin stația de la Podul de Piatră fără să oprească deși erau oameni care așteptau. A văzut că sunt acolo și nu a redus viteza deloc.,informare_calatori,0
+SIM_022,aspect: infrastructura_statii. text: Șoferul de pe linia 30 a trecut prin stația de la Podul de Piatră fără să oprească deși erau oameni care așteptau. A văzut că sunt acolo și nu a redus viteza deloc.,infrastructura_statii,0
+SIM_022,aspect: organizare. text: Șoferul de pe linia 30 a trecut prin stația de la Podul de Piatră fără să oprească deși erau oameni care așteptau. A văzut că sunt acolo și nu a redus viteza deloc.,organizare,0
+SIM_022,aspect: pret. text: Șoferul de pe linia 30 a trecut prin stația de la Podul de Piatră fără să oprească deși erau oameni care așteptau. A văzut că sunt acolo și nu a redus viteza deloc.,pret,0
+SIM_022,aspect: punctualitate. text: Șoferul de pe linia 30 a trecut prin stația de la Podul de Piatră fără să oprească deși erau oameni care așteptau. A văzut că sunt acolo și nu a redus viteza deloc.,punctualitate,0
+SIM_022,aspect: relatii_clienti. text: Șoferul de pe linia 30 a trecut prin stația de la Podul de Piatră fără să oprească deși erau oameni care așteptau. A văzut că sunt acolo și nu a redus viteza deloc.,relatii_clienti,0
+SIM_022,aspect: siguranta. text: Șoferul de pe linia 30 a trecut prin stația de la Podul de Piatră fără să oprească deși erau oameni care așteptau. A văzut că sunt acolo și nu a redus viteza deloc.,siguranta,0
+SIM_022,aspect: stare_vehicule. text: Șoferul de pe linia 30 a trecut prin stația de la Podul de Piatră fără să oprească deși erau oameni care așteptau. A văzut că sunt acolo și nu a redus viteza deloc.,stare_vehicule,0
+SIM_022,aspect: validare_bilete. text: Șoferul de pe linia 30 a trecut prin stația de la Podul de Piatră fără să oprească deși erau oameni care așteptau. A văzut că sunt acolo și nu a redus viteza deloc.,validare_bilete,0
+97,aspect: frecventa. text: Dar cu autobuzele ce facem?! Acum 3 zile am stat in statie Bahlui spre Dacia  55 minute așteptând autobuzul 5 la ora 16°°..am sunat și am făcut reclamație și nici un răspuns concret..a spus că sunt 5 autobuze pe traseul 5.....e normal așa ceva....și seara la ora 21 la fel stam.in statie până la și 21-25...😡😡,frecventa,1
+97,aspect: relatii_clienti. text: Dar cu autobuzele ce facem?! Acum 3 zile am stat in statie Bahlui spre Dacia  55 minute așteptând autobuzul 5 la ora 16°°..am sunat și am făcut reclamație și nici un răspuns concret..a spus că sunt 5 autobuze pe traseul 5.....e normal așa ceva....și seara la ora 21 la fel stam.in statie până la și 21-25...😡😡,relatii_clienti,1
+97,aspect: acoperire_rute. text: Dar cu autobuzele ce facem?! Acum 3 zile am stat in statie Bahlui spre Dacia  55 minute așteptând autobuzul 5 la ora 16°°..am sunat și am făcut reclamație și nici un răspuns concret..a spus că sunt 5 autobuze pe traseul 5.....e normal așa ceva....și seara la ora 21 la fel stam.in statie până la și 21-25...😡😡,acoperire_rute,0
+97,aspect: aglomeratie. text: Dar cu autobuzele ce facem?! Acum 3 zile am stat in statie Bahlui spre Dacia  55 minute așteptând autobuzul 5 la ora 16°°..am sunat și am făcut reclamație și nici un răspuns concret..a spus că sunt 5 autobuze pe traseul 5.....e normal așa ceva....și seara la ora 21 la fel stam.in statie până la și 21-25...😡😡,aglomeratie,0
+97,aspect: confort_termic. text: Dar cu autobuzele ce facem?! Acum 3 zile am stat in statie Bahlui spre Dacia  55 minute așteptând autobuzul 5 la ora 16°°..am sunat și am făcut reclamație și nici un răspuns concret..a spus că sunt 5 autobuze pe traseul 5.....e normal așa ceva....și seara la ora 21 la fel stam.in statie până la și 21-25...😡😡,confort_termic,0
+97,aspect: controlori. text: Dar cu autobuzele ce facem?! Acum 3 zile am stat in statie Bahlui spre Dacia  55 minute așteptând autobuzul 5 la ora 16°°..am sunat și am făcut reclamație și nici un răspuns concret..a spus că sunt 5 autobuze pe traseul 5.....e normal așa ceva....și seara la ora 21 la fel stam.in statie până la și 21-25...😡😡,controlori,0
+97,aspect: curatenie. text: Dar cu autobuzele ce facem?! Acum 3 zile am stat in statie Bahlui spre Dacia  55 minute așteptând autobuzul 5 la ora 16°°..am sunat și am făcut reclamație și nici un răspuns concret..a spus că sunt 5 autobuze pe traseul 5.....e normal așa ceva....și seara la ora 21 la fel stam.in statie până la și 21-25...😡😡,curatenie,0
+97,aspect: informare_calatori. text: Dar cu autobuzele ce facem?! Acum 3 zile am stat in statie Bahlui spre Dacia  55 minute așteptând autobuzul 5 la ora 16°°..am sunat și am făcut reclamație și nici un răspuns concret..a spus că sunt 5 autobuze pe traseul 5.....e normal așa ceva....și seara la ora 21 la fel stam.in statie până la și 21-25...😡😡,informare_calatori,0
+97,aspect: infrastructura_statii. text: Dar cu autobuzele ce facem?! Acum 3 zile am stat in statie Bahlui spre Dacia  55 minute așteptând autobuzul 5 la ora 16°°..am sunat și am făcut reclamație și nici un răspuns concret..a spus că sunt 5 autobuze pe traseul 5.....e normal așa ceva....și seara la ora 21 la fel stam.in statie până la și 21-25...😡😡,infrastructura_statii,0
+97,aspect: organizare. text: Dar cu autobuzele ce facem?! Acum 3 zile am stat in statie Bahlui spre Dacia  55 minute așteptând autobuzul 5 la ora 16°°..am sunat și am făcut reclamație și nici un răspuns concret..a spus că sunt 5 autobuze pe traseul 5.....e normal așa ceva....și seara la ora 21 la fel stam.in statie până la și 21-25...😡😡,organizare,0
+97,aspect: pret. text: Dar cu autobuzele ce facem?! Acum 3 zile am stat in statie Bahlui spre Dacia  55 minute așteptând autobuzul 5 la ora 16°°..am sunat și am făcut reclamație și nici un răspuns concret..a spus că sunt 5 autobuze pe traseul 5.....e normal așa ceva....și seara la ora 21 la fel stam.in statie până la și 21-25...😡😡,pret,0
+97,aspect: punctualitate. text: Dar cu autobuzele ce facem?! Acum 3 zile am stat in statie Bahlui spre Dacia  55 minute așteptând autobuzul 5 la ora 16°°..am sunat și am făcut reclamație și nici un răspuns concret..a spus că sunt 5 autobuze pe traseul 5.....e normal așa ceva....și seara la ora 21 la fel stam.in statie până la și 21-25...😡😡,punctualitate,0
+97,aspect: siguranta. text: Dar cu autobuzele ce facem?! Acum 3 zile am stat in statie Bahlui spre Dacia  55 minute așteptând autobuzul 5 la ora 16°°..am sunat și am făcut reclamație și nici un răspuns concret..a spus că sunt 5 autobuze pe traseul 5.....e normal așa ceva....și seara la ora 21 la fel stam.in statie până la și 21-25...😡😡,siguranta,0
+97,aspect: soferi_vatmani. text: Dar cu autobuzele ce facem?! Acum 3 zile am stat in statie Bahlui spre Dacia  55 minute așteptând autobuzul 5 la ora 16°°..am sunat și am făcut reclamație și nici un răspuns concret..a spus că sunt 5 autobuze pe traseul 5.....e normal așa ceva....și seara la ora 21 la fel stam.in statie până la și 21-25...😡😡,soferi_vatmani,0
+97,aspect: stare_vehicule. text: Dar cu autobuzele ce facem?! Acum 3 zile am stat in statie Bahlui spre Dacia  55 minute așteptând autobuzul 5 la ora 16°°..am sunat și am făcut reclamație și nici un răspuns concret..a spus că sunt 5 autobuze pe traseul 5.....e normal așa ceva....și seara la ora 21 la fel stam.in statie până la și 21-25...😡😡,stare_vehicule,0
+97,aspect: validare_bilete. text: Dar cu autobuzele ce facem?! Acum 3 zile am stat in statie Bahlui spre Dacia  55 minute așteptând autobuzul 5 la ora 16°°..am sunat și am făcut reclamație și nici un răspuns concret..a spus că sunt 5 autobuze pe traseul 5.....e normal așa ceva....și seara la ora 21 la fel stam.in statie până la și 21-25...😡😡,validare_bilete,0
+49,aspect: aglomeratie. text: Bataie de joc la adresa calatorului.Timpi de asteptare foarte mari in statii si vin sau pleaca arhipline.Calatorii efectiv sunt calare unii pe altii.Controlorii sub ori e critica...gura mare fara sa aiba dreptate.,aglomeratie,1
+49,aspect: controlori. text: Bataie de joc la adresa calatorului.Timpi de asteptare foarte mari in statii si vin sau pleaca arhipline.Calatorii efectiv sunt calare unii pe altii.Controlorii sub ori e critica...gura mare fara sa aiba dreptate.,controlori,1
+49,aspect: frecventa. text: Bataie de joc la adresa calatorului.Timpi de asteptare foarte mari in statii si vin sau pleaca arhipline.Calatorii efectiv sunt calare unii pe altii.Controlorii sub ori e critica...gura mare fara sa aiba dreptate.,frecventa,1
+49,aspect: acoperire_rute. text: Bataie de joc la adresa calatorului.Timpi de asteptare foarte mari in statii si vin sau pleaca arhipline.Calatorii efectiv sunt calare unii pe altii.Controlorii sub ori e critica...gura mare fara sa aiba dreptate.,acoperire_rute,0
+49,aspect: confort_termic. text: Bataie de joc la adresa calatorului.Timpi de asteptare foarte mari in statii si vin sau pleaca arhipline.Calatorii efectiv sunt calare unii pe altii.Controlorii sub ori e critica...gura mare fara sa aiba dreptate.,confort_termic,0
+49,aspect: curatenie. text: Bataie de joc la adresa calatorului.Timpi de asteptare foarte mari in statii si vin sau pleaca arhipline.Calatorii efectiv sunt calare unii pe altii.Controlorii sub ori e critica...gura mare fara sa aiba dreptate.,curatenie,0
+49,aspect: informare_calatori. text: Bataie de joc la adresa calatorului.Timpi de asteptare foarte mari in statii si vin sau pleaca arhipline.Calatorii efectiv sunt calare unii pe altii.Controlorii sub ori e critica...gura mare fara sa aiba dreptate.,informare_calatori,0
+49,aspect: infrastructura_statii. text: Bataie de joc la adresa calatorului.Timpi de asteptare foarte mari in statii si vin sau pleaca arhipline.Calatorii efectiv sunt calare unii pe altii.Controlorii sub ori e critica...gura mare fara sa aiba dreptate.,infrastructura_statii,0
+49,aspect: organizare. text: Bataie de joc la adresa calatorului.Timpi de asteptare foarte mari in statii si vin sau pleaca arhipline.Calatorii efectiv sunt calare unii pe altii.Controlorii sub ori e critica...gura mare fara sa aiba dreptate.,organizare,0
+49,aspect: pret. text: Bataie de joc la adresa calatorului.Timpi de asteptare foarte mari in statii si vin sau pleaca arhipline.Calatorii efectiv sunt calare unii pe altii.Controlorii sub ori e critica...gura mare fara sa aiba dreptate.,pret,0
+49,aspect: punctualitate. text: Bataie de joc la adresa calatorului.Timpi de asteptare foarte mari in statii si vin sau pleaca arhipline.Calatorii efectiv sunt calare unii pe altii.Controlorii sub ori e critica...gura mare fara sa aiba dreptate.,punctualitate,0
+49,aspect: relatii_clienti. text: Bataie de joc la adresa calatorului.Timpi de asteptare foarte mari in statii si vin sau pleaca arhipline.Calatorii efectiv sunt calare unii pe altii.Controlorii sub ori e critica...gura mare fara sa aiba dreptate.,relatii_clienti,0
+49,aspect: siguranta. text: Bataie de joc la adresa calatorului.Timpi de asteptare foarte mari in statii si vin sau pleaca arhipline.Calatorii efectiv sunt calare unii pe altii.Controlorii sub ori e critica...gura mare fara sa aiba dreptate.,siguranta,0
+49,aspect: soferi_vatmani. text: Bataie de joc la adresa calatorului.Timpi de asteptare foarte mari in statii si vin sau pleaca arhipline.Calatorii efectiv sunt calare unii pe altii.Controlorii sub ori e critica...gura mare fara sa aiba dreptate.,soferi_vatmani,0
+49,aspect: stare_vehicule. text: Bataie de joc la adresa calatorului.Timpi de asteptare foarte mari in statii si vin sau pleaca arhipline.Calatorii efectiv sunt calare unii pe altii.Controlorii sub ori e critica...gura mare fara sa aiba dreptate.,stare_vehicule,0
+49,aspect: validare_bilete. text: Bataie de joc la adresa calatorului.Timpi de asteptare foarte mari in statii si vin sau pleaca arhipline.Calatorii efectiv sunt calare unii pe altii.Controlorii sub ori e critica...gura mare fara sa aiba dreptate.,validare_bilete,0
+SIM_046,aspect: validare_bilete. text: Plata cu cardul la aparatele din autobuz funcționează de cele mai multe ori. Din când în când mai dă eroare dar în general nu am probleme majore cu asta.,validare_bilete,1
+SIM_046,aspect: acoperire_rute. text: Plata cu cardul la aparatele din autobuz funcționează de cele mai multe ori. Din când în când mai dă eroare dar în general nu am probleme majore cu asta.,acoperire_rute,0
+SIM_046,aspect: aglomeratie. text: Plata cu cardul la aparatele din autobuz funcționează de cele mai multe ori. Din când în când mai dă eroare dar în general nu am probleme majore cu asta.,aglomeratie,0
+SIM_046,aspect: confort_termic. text: Plata cu cardul la aparatele din autobuz funcționează de cele mai multe ori. Din când în când mai dă eroare dar în general nu am probleme majore cu asta.,confort_termic,0
+SIM_046,aspect: controlori. text: Plata cu cardul la aparatele din autobuz funcționează de cele mai multe ori. Din când în când mai dă eroare dar în general nu am probleme majore cu asta.,controlori,0
+SIM_046,aspect: curatenie. text: Plata cu cardul la aparatele din autobuz funcționează de cele mai multe ori. Din când în când mai dă eroare dar în general nu am probleme majore cu asta.,curatenie,0
+SIM_046,aspect: frecventa. text: Plata cu cardul la aparatele din autobuz funcționează de cele mai multe ori. Din când în când mai dă eroare dar în general nu am probleme majore cu asta.,frecventa,0
+SIM_046,aspect: informare_calatori. text: Plata cu cardul la aparatele din autobuz funcționează de cele mai multe ori. Din când în când mai dă eroare dar în general nu am probleme majore cu asta.,informare_calatori,0
+SIM_046,aspect: infrastructura_statii. text: Plata cu cardul la aparatele din autobuz funcționează de cele mai multe ori. Din când în când mai dă eroare dar în general nu am probleme majore cu asta.,infrastructura_statii,0
+SIM_046,aspect: organizare. text: Plata cu cardul la aparatele din autobuz funcționează de cele mai multe ori. Din când în când mai dă eroare dar în general nu am probleme majore cu asta.,organizare,0
+SIM_046,aspect: pret. text: Plata cu cardul la aparatele din autobuz funcționează de cele mai multe ori. Din când în când mai dă eroare dar în general nu am probleme majore cu asta.,pret,0
+SIM_046,aspect: punctualitate. text: Plata cu cardul la aparatele din autobuz funcționează de cele mai multe ori. Din când în când mai dă eroare dar în general nu am probleme majore cu asta.,punctualitate,0
+SIM_046,aspect: relatii_clienti. text: Plata cu cardul la aparatele din autobuz funcționează de cele mai multe ori. Din când în când mai dă eroare dar în general nu am probleme majore cu asta.,relatii_clienti,0
+SIM_046,aspect: siguranta. text: Plata cu cardul la aparatele din autobuz funcționează de cele mai multe ori. Din când în când mai dă eroare dar în general nu am probleme majore cu asta.,siguranta,0
+SIM_046,aspect: soferi_vatmani. text: Plata cu cardul la aparatele din autobuz funcționează de cele mai multe ori. Din când în când mai dă eroare dar în general nu am probleme majore cu asta.,soferi_vatmani,0
+SIM_046,aspect: stare_vehicule. text: Plata cu cardul la aparatele din autobuz funcționează de cele mai multe ori. Din când în când mai dă eroare dar în general nu am probleme majore cu asta.,stare_vehicule,0
+217,"aspect: soferi_vatmani. text: Persoanal de treabă, paznicul este foarte de treabă",soferi_vatmani,1
+217,"aspect: acoperire_rute. text: Persoanal de treabă, paznicul este foarte de treabă",acoperire_rute,0
+217,"aspect: aglomeratie. text: Persoanal de treabă, paznicul este foarte de treabă",aglomeratie,0
+217,"aspect: confort_termic. text: Persoanal de treabă, paznicul este foarte de treabă",confort_termic,0
+217,"aspect: controlori. text: Persoanal de treabă, paznicul este foarte de treabă",controlori,0
+217,"aspect: curatenie. text: Persoanal de treabă, paznicul este foarte de treabă",curatenie,0
+217,"aspect: frecventa. text: Persoanal de treabă, paznicul este foarte de treabă",frecventa,0
+217,"aspect: informare_calatori. text: Persoanal de treabă, paznicul este foarte de treabă",informare_calatori,0
+217,"aspect: infrastructura_statii. text: Persoanal de treabă, paznicul este foarte de treabă",infrastructura_statii,0
+217,"aspect: organizare. text: Persoanal de treabă, paznicul este foarte de treabă",organizare,0
+217,"aspect: pret. text: Persoanal de treabă, paznicul este foarte de treabă",pret,0
+217,"aspect: punctualitate. text: Persoanal de treabă, paznicul este foarte de treabă",punctualitate,0
+217,"aspect: relatii_clienti. text: Persoanal de treabă, paznicul este foarte de treabă",relatii_clienti,0
+217,"aspect: siguranta. text: Persoanal de treabă, paznicul este foarte de treabă",siguranta,0
+217,"aspect: stare_vehicule. text: Persoanal de treabă, paznicul este foarte de treabă",stare_vehicule,0
+217,"aspect: validare_bilete. text: Persoanal de treabă, paznicul este foarte de treabă",validare_bilete,0
+292,"aspect: soferi_vatmani. text: 15.07.2019 ora 15.15 in statia Bazar cea după Selgros nu a oprit autobuzul 43 C..nu a apucat să văd nr.că avea și vitezä..se grăbea la cafea..nesimţitul de șofer!
+Specific că eram două persoane în staţie!",soferi_vatmani,1
+292,"aspect: acoperire_rute. text: 15.07.2019 ora 15.15 in statia Bazar cea după Selgros nu a oprit autobuzul 43 C..nu a apucat să văd nr.că avea și vitezä..se grăbea la cafea..nesimţitul de șofer!
+Specific că eram două persoane în staţie!",acoperire_rute,0
+292,"aspect: aglomeratie. text: 15.07.2019 ora 15.15 in statia Bazar cea după Selgros nu a oprit autobuzul 43 C..nu a apucat să văd nr.că avea și vitezä..se grăbea la cafea..nesimţitul de șofer!
+Specific că eram două persoane în staţie!",aglomeratie,0
+292,"aspect: confort_termic. text: 15.07.2019 ora 15.15 in statia Bazar cea după Selgros nu a oprit autobuzul 43 C..nu a apucat să văd nr.că avea și vitezä..se grăbea la cafea..nesimţitul de șofer!
+Specific că eram două persoane în staţie!",confort_termic,0
+292,"aspect: controlori. text: 15.07.2019 ora 15.15 in statia Bazar cea după Selgros nu a oprit autobuzul 43 C..nu a apucat să văd nr.că avea și vitezä..se grăbea la cafea..nesimţitul de șofer!
+Specific că eram două persoane în staţie!",controlori,0
+292,"aspect: curatenie. text: 15.07.2019 ora 15.15 in statia Bazar cea după Selgros nu a oprit autobuzul 43 C..nu a apucat să văd nr.că avea și vitezä..se grăbea la cafea..nesimţitul de șofer!
+Specific că eram două persoane în staţie!",curatenie,0
+292,"aspect: frecventa. text: 15.07.2019 ora 15.15 in statia Bazar cea după Selgros nu a oprit autobuzul 43 C..nu a apucat să văd nr.că avea și vitezä..se grăbea la cafea..nesimţitul de șofer!
+Specific că eram două persoane în staţie!",frecventa,0
+292,"aspect: informare_calatori. text: 15.07.2019 ora 15.15 in statia Bazar cea după Selgros nu a oprit autobuzul 43 C..nu a apucat să văd nr.că avea și vitezä..se grăbea la cafea..nesimţitul de șofer!
+Specific că eram două persoane în staţie!",informare_calatori,0
+292,"aspect: infrastructura_statii. text: 15.07.2019 ora 15.15 in statia Bazar cea după Selgros nu a oprit autobuzul 43 C..nu a apucat să văd nr.că avea și vitezä..se grăbea la cafea..nesimţitul de șofer!
+Specific că eram două persoane în staţie!",infrastructura_statii,0
+292,"aspect: organizare. text: 15.07.2019 ora 15.15 in statia Bazar cea după Selgros nu a oprit autobuzul 43 C..nu a apucat să văd nr.că avea și vitezä..se grăbea la cafea..nesimţitul de șofer!
+Specific că eram două persoane în staţie!",organizare,0
+292,"aspect: pret. text: 15.07.2019 ora 15.15 in statia Bazar cea după Selgros nu a oprit autobuzul 43 C..nu a apucat să văd nr.că avea și vitezä..se grăbea la cafea..nesimţitul de șofer!
+Specific că eram două persoane în staţie!",pret,0
+292,"aspect: punctualitate. text: 15.07.2019 ora 15.15 in statia Bazar cea după Selgros nu a oprit autobuzul 43 C..nu a apucat să văd nr.că avea și vitezä..se grăbea la cafea..nesimţitul de șofer!
+Specific că eram două persoane în staţie!",punctualitate,0
+292,"aspect: relatii_clienti. text: 15.07.2019 ora 15.15 in statia Bazar cea după Selgros nu a oprit autobuzul 43 C..nu a apucat să văd nr.că avea și vitezä..se grăbea la cafea..nesimţitul de șofer!
+Specific că eram două persoane în staţie!",relatii_clienti,0
+292,"aspect: siguranta. text: 15.07.2019 ora 15.15 in statia Bazar cea după Selgros nu a oprit autobuzul 43 C..nu a apucat să văd nr.că avea și vitezä..se grăbea la cafea..nesimţitul de șofer!
+Specific că eram două persoane în staţie!",siguranta,0
+292,"aspect: stare_vehicule. text: 15.07.2019 ora 15.15 in statia Bazar cea după Selgros nu a oprit autobuzul 43 C..nu a apucat să văd nr.că avea și vitezä..se grăbea la cafea..nesimţitul de șofer!
+Specific că eram două persoane în staţie!",stare_vehicule,0
+292,"aspect: validare_bilete. text: 15.07.2019 ora 15.15 in statia Bazar cea după Selgros nu a oprit autobuzul 43 C..nu a apucat să văd nr.că avea și vitezä..se grăbea la cafea..nesimţitul de șofer!
+Specific că eram două persoane în staţie!",validare_bilete,0
+SIM_118,aspect: siguranta. text: Călătoria a fost normală fără probleme de siguranță.,siguranta,1
+SIM_118,aspect: acoperire_rute. text: Călătoria a fost normală fără probleme de siguranță.,acoperire_rute,0
+SIM_118,aspect: aglomeratie. text: Călătoria a fost normală fără probleme de siguranță.,aglomeratie,0
+SIM_118,aspect: confort_termic. text: Călătoria a fost normală fără probleme de siguranță.,confort_termic,0
+SIM_118,aspect: controlori. text: Călătoria a fost normală fără probleme de siguranță.,controlori,0
+SIM_118,aspect: curatenie. text: Călătoria a fost normală fără probleme de siguranță.,curatenie,0
+SIM_118,aspect: frecventa. text: Călătoria a fost normală fără probleme de siguranță.,frecventa,0
+SIM_118,aspect: informare_calatori. text: Călătoria a fost normală fără probleme de siguranță.,informare_calatori,0
+SIM_118,aspect: infrastructura_statii. text: Călătoria a fost normală fără probleme de siguranță.,infrastructura_statii,0
+SIM_118,aspect: organizare. text: Călătoria a fost normală fără probleme de siguranță.,organizare,0
+SIM_118,aspect: pret. text: Călătoria a fost normală fără probleme de siguranță.,pret,0
+SIM_118,aspect: punctualitate. text: Călătoria a fost normală fără probleme de siguranță.,punctualitate,0
+SIM_118,aspect: relatii_clienti. text: Călătoria a fost normală fără probleme de siguranță.,relatii_clienti,0
+SIM_118,aspect: soferi_vatmani. text: Călătoria a fost normală fără probleme de siguranță.,soferi_vatmani,0
+SIM_118,aspect: stare_vehicule. text: Călătoria a fost normală fără probleme de siguranță.,stare_vehicule,0
+SIM_118,aspect: validare_bilete. text: Călătoria a fost normală fără probleme de siguranță.,validare_bilete,0
+109,"aspect: acoperire_rute. text: Companie de transport public condusă de incompetenți! Daca atunci când nu era nici o stare de urgență, transportul era gestionat în așa fel încât majoritatea mijloacelor de transport având în mare parte aceleași trasee (ex: tramvaiul 9, autobuzele 28 și 41, plus altele) sa treacă toate în același timp, acum când este situație de urgență și vrea să se asigure transport cadrelor medicale și personalului farmaciilor, s-a stabilit inițial un program care nu coincidea cu cerințele oamenilor. când s-a modificat orarul, s-au anulat unele linii (tramvaiele 1, 7 și 13 de exemplu) care fac legătura între centrul orașului și centrul comercial Felicia, unde avem 3 farmacii! Iar ca și cum nu ar fi fost de ajuns, acum stam in statia Elena Doamna așteptând cursa specială care ar fi trebuit să ne facă conexiunea cu a doua cursa specială, in Țuțora, pentru a ajunge la munca in Felicia, autobuzul nu a oprit!
+Sunteți de o incompetență patetică!",acoperire_rute,1
+109,"aspect: organizare. text: Companie de transport public condusă de incompetenți! Daca atunci când nu era nici o stare de urgență, transportul era gestionat în așa fel încât majoritatea mijloacelor de transport având în mare parte aceleași trasee (ex: tramvaiul 9, autobuzele 28 și 41, plus altele) sa treacă toate în același timp, acum când este situație de urgență și vrea să se asigure transport cadrelor medicale și personalului farmaciilor, s-a stabilit inițial un program care nu coincidea cu cerințele oamenilor. când s-a modificat orarul, s-au anulat unele linii (tramvaiele 1, 7 și 13 de exemplu) care fac legătura între centrul orașului și centrul comercial Felicia, unde avem 3 farmacii! Iar ca și cum nu ar fi fost de ajuns, acum stam in statia Elena Doamna așteptând cursa specială care ar fi trebuit să ne facă conexiunea cu a doua cursa specială, in Țuțora, pentru a ajunge la munca in Felicia, autobuzul nu a oprit!
+Sunteți de o incompetență patetică!",organizare,1
+109,"aspect: punctualitate. text: Companie de transport public condusă de incompetenți! Daca atunci când nu era nici o stare de urgență, transportul era gestionat în așa fel încât majoritatea mijloacelor de transport având în mare parte aceleași trasee (ex: tramvaiul 9, autobuzele 28 și 41, plus altele) sa treacă toate în același timp, acum când este situație de urgență și vrea să se asigure transport cadrelor medicale și personalului farmaciilor, s-a stabilit inițial un program care nu coincidea cu cerințele oamenilor. când s-a modificat orarul, s-au anulat unele linii (tramvaiele 1, 7 și 13 de exemplu) care fac legătura între centrul orașului și centrul comercial Felicia, unde avem 3 farmacii! Iar ca și cum nu ar fi fost de ajuns, acum stam in statia Elena Doamna așteptând cursa specială care ar fi trebuit să ne facă conexiunea cu a doua cursa specială, in Țuțora, pentru a ajunge la munca in Felicia, autobuzul nu a oprit!
+Sunteți de o incompetență patetică!",punctualitate,1
+109,"aspect: aglomeratie. text: Companie de transport public condusă de incompetenți! Daca atunci când nu era nici o stare de urgență, transportul era gestionat în așa fel încât majoritatea mijloacelor de transport având în mare parte aceleași trasee (ex: tramvaiul 9, autobuzele 28 și 41, plus altele) sa treacă toate în același timp, acum când este situație de urgență și vrea să se asigure transport cadrelor medicale și personalului farmaciilor, s-a stabilit inițial un program care nu coincidea cu cerințele oamenilor. când s-a modificat orarul, s-au anulat unele linii (tramvaiele 1, 7 și 13 de exemplu) care fac legătura între centrul orașului și centrul comercial Felicia, unde avem 3 farmacii! Iar ca și cum nu ar fi fost de ajuns, acum stam in statia Elena Doamna așteptând cursa specială care ar fi trebuit să ne facă conexiunea cu a doua cursa specială, in Țuțora, pentru a ajunge la munca in Felicia, autobuzul nu a oprit!
+Sunteți de o incompetență patetică!",aglomeratie,0
+109,"aspect: confort_termic. text: Companie de transport public condusă de incompetenți! Daca atunci când nu era nici o stare de urgență, transportul era gestionat în așa fel încât majoritatea mijloacelor de transport având în mare parte aceleași trasee (ex: tramvaiul 9, autobuzele 28 și 41, plus altele) sa treacă toate în același timp, acum când este situație de urgență și vrea să se asigure transport cadrelor medicale și personalului farmaciilor, s-a stabilit inițial un program care nu coincidea cu cerințele oamenilor. când s-a modificat orarul, s-au anulat unele linii (tramvaiele 1, 7 și 13 de exemplu) care fac legătura între centrul orașului și centrul comercial Felicia, unde avem 3 farmacii! Iar ca și cum nu ar fi fost de ajuns, acum stam in statia Elena Doamna așteptând cursa specială care ar fi trebuit să ne facă conexiunea cu a doua cursa specială, in Țuțora, pentru a ajunge la munca in Felicia, autobuzul nu a oprit!
+Sunteți de o incompetență patetică!",confort_termic,0
+109,"aspect: controlori. text: Companie de transport public condusă de incompetenți! Daca atunci când nu era nici o stare de urgență, transportul era gestionat în așa fel încât majoritatea mijloacelor de transport având în mare parte aceleași trasee (ex: tramvaiul 9, autobuzele 28 și 41, plus altele) sa treacă toate în același timp, acum când este situație de urgență și vrea să se asigure transport cadrelor medicale și personalului farmaciilor, s-a stabilit inițial un program care nu coincidea cu cerințele oamenilor. când s-a modificat orarul, s-au anulat unele linii (tramvaiele 1, 7 și 13 de exemplu) care fac legătura între centrul orașului și centrul comercial Felicia, unde avem 3 farmacii! Iar ca și cum nu ar fi fost de ajuns, acum stam in statia Elena Doamna așteptând cursa specială care ar fi trebuit să ne facă conexiunea cu a doua cursa specială, in Țuțora, pentru a ajunge la munca in Felicia, autobuzul nu a oprit!
+Sunteți de o incompetență patetică!",controlori,0
+109,"aspect: curatenie. text: Companie de transport public condusă de incompetenți! Daca atunci când nu era nici o stare de urgență, transportul era gestionat în așa fel încât majoritatea mijloacelor de transport având în mare parte aceleași trasee (ex: tramvaiul 9, autobuzele 28 și 41, plus altele) sa treacă toate în același timp, acum când este situație de urgență și vrea să se asigure transport cadrelor medicale și personalului farmaciilor, s-a stabilit inițial un program care nu coincidea cu cerințele oamenilor. când s-a modificat orarul, s-au anulat unele linii (tramvaiele 1, 7 și 13 de exemplu) care fac legătura între centrul orașului și centrul comercial Felicia, unde avem 3 farmacii! Iar ca și cum nu ar fi fost de ajuns, acum stam in statia Elena Doamna așteptând cursa specială care ar fi trebuit să ne facă conexiunea cu a doua cursa specială, in Țuțora, pentru a ajunge la munca in Felicia, autobuzul nu a oprit!
+Sunteți de o incompetență patetică!",curatenie,0
+109,"aspect: frecventa. text: Companie de transport public condusă de incompetenți! Daca atunci când nu era nici o stare de urgență, transportul era gestionat în așa fel încât majoritatea mijloacelor de transport având în mare parte aceleași trasee (ex: tramvaiul 9, autobuzele 28 și 41, plus altele) sa treacă toate în același timp, acum când este situație de urgență și vrea să se asigure transport cadrelor medicale și personalului farmaciilor, s-a stabilit inițial un program care nu coincidea cu cerințele oamenilor. când s-a modificat orarul, s-au anulat unele linii (tramvaiele 1, 7 și 13 de exemplu) care fac legătura între centrul orașului și centrul comercial Felicia, unde avem 3 farmacii! Iar ca și cum nu ar fi fost de ajuns, acum stam in statia Elena Doamna așteptând cursa specială care ar fi trebuit să ne facă conexiunea cu a doua cursa specială, in Țuțora, pentru a ajunge la munca in Felicia, autobuzul nu a oprit!
+Sunteți de o incompetență patetică!",frecventa,0
+109,"aspect: informare_calatori. text: Companie de transport public condusă de incompetenți! Daca atunci când nu era nici o stare de urgență, transportul era gestionat în așa fel încât majoritatea mijloacelor de transport având în mare parte aceleași trasee (ex: tramvaiul 9, autobuzele 28 și 41, plus altele) sa treacă toate în același timp, acum când este situație de urgență și vrea să se asigure transport cadrelor medicale și personalului farmaciilor, s-a stabilit inițial un program care nu coincidea cu cerințele oamenilor. când s-a modificat orarul, s-au anulat unele linii (tramvaiele 1, 7 și 13 de exemplu) care fac legătura între centrul orașului și centrul comercial Felicia, unde avem 3 farmacii! Iar ca și cum nu ar fi fost de ajuns, acum stam in statia Elena Doamna așteptând cursa specială care ar fi trebuit să ne facă conexiunea cu a doua cursa specială, in Țuțora, pentru a ajunge la munca in Felicia, autobuzul nu a oprit!
+Sunteți de o incompetență patetică!",informare_calatori,0
+109,"aspect: infrastructura_statii. text: Companie de transport public condusă de incompetenți! Daca atunci când nu era nici o stare de urgență, transportul era gestionat în așa fel încât majoritatea mijloacelor de transport având în mare parte aceleași trasee (ex: tramvaiul 9, autobuzele 28 și 41, plus altele) sa treacă toate în același timp, acum când este situație de urgență și vrea să se asigure transport cadrelor medicale și personalului farmaciilor, s-a stabilit inițial un program care nu coincidea cu cerințele oamenilor. când s-a modificat orarul, s-au anulat unele linii (tramvaiele 1, 7 și 13 de exemplu) care fac legătura între centrul orașului și centrul comercial Felicia, unde avem 3 farmacii! Iar ca și cum nu ar fi fost de ajuns, acum stam in statia Elena Doamna așteptând cursa specială care ar fi trebuit să ne facă conexiunea cu a doua cursa specială, in Țuțora, pentru a ajunge la munca in Felicia, autobuzul nu a oprit!
+Sunteți de o incompetență patetică!",infrastructura_statii,0
+109,"aspect: pret. text: Companie de transport public condusă de incompetenți! Daca atunci când nu era nici o stare de urgență, transportul era gestionat în așa fel încât majoritatea mijloacelor de transport având în mare parte aceleași trasee (ex: tramvaiul 9, autobuzele 28 și 41, plus altele) sa treacă toate în același timp, acum când este situație de urgență și vrea să se asigure transport cadrelor medicale și personalului farmaciilor, s-a stabilit inițial un program care nu coincidea cu cerințele oamenilor. când s-a modificat orarul, s-au anulat unele linii (tramvaiele 1, 7 și 13 de exemplu) care fac legătura între centrul orașului și centrul comercial Felicia, unde avem 3 farmacii! Iar ca și cum nu ar fi fost de ajuns, acum stam in statia Elena Doamna așteptând cursa specială care ar fi trebuit să ne facă conexiunea cu a doua cursa specială, in Țuțora, pentru a ajunge la munca in Felicia, autobuzul nu a oprit!
+Sunteți de o incompetență patetică!",pret,0
+109,"aspect: relatii_clienti. text: Companie de transport public condusă de incompetenți! Daca atunci când nu era nici o stare de urgență, transportul era gestionat în așa fel încât majoritatea mijloacelor de transport având în mare parte aceleași trasee (ex: tramvaiul 9, autobuzele 28 și 41, plus altele) sa treacă toate în același timp, acum când este situație de urgență și vrea să se asigure transport cadrelor medicale și personalului farmaciilor, s-a stabilit inițial un program care nu coincidea cu cerințele oamenilor. când s-a modificat orarul, s-au anulat unele linii (tramvaiele 1, 7 și 13 de exemplu) care fac legătura între centrul orașului și centrul comercial Felicia, unde avem 3 farmacii! Iar ca și cum nu ar fi fost de ajuns, acum stam in statia Elena Doamna așteptând cursa specială care ar fi trebuit să ne facă conexiunea cu a doua cursa specială, in Țuțora, pentru a ajunge la munca in Felicia, autobuzul nu a oprit!
+Sunteți de o incompetență patetică!",relatii_clienti,0
+109,"aspect: siguranta. text: Companie de transport public condusă de incompetenți! Daca atunci când nu era nici o stare de urgență, transportul era gestionat în așa fel încât majoritatea mijloacelor de transport având în mare parte aceleași trasee (ex: tramvaiul 9, autobuzele 28 și 41, plus altele) sa treacă toate în același timp, acum când este situație de urgență și vrea să se asigure transport cadrelor medicale și personalului farmaciilor, s-a stabilit inițial un program care nu coincidea cu cerințele oamenilor. când s-a modificat orarul, s-au anulat unele linii (tramvaiele 1, 7 și 13 de exemplu) care fac legătura între centrul orașului și centrul comercial Felicia, unde avem 3 farmacii! Iar ca și cum nu ar fi fost de ajuns, acum stam in statia Elena Doamna așteptând cursa specială care ar fi trebuit să ne facă conexiunea cu a doua cursa specială, in Țuțora, pentru a ajunge la munca in Felicia, autobuzul nu a oprit!
+Sunteți de o incompetență patetică!",siguranta,0
+109,"aspect: soferi_vatmani. text: Companie de transport public condusă de incompetenți! Daca atunci când nu era nici o stare de urgență, transportul era gestionat în așa fel încât majoritatea mijloacelor de transport având în mare parte aceleași trasee (ex: tramvaiul 9, autobuzele 28 și 41, plus altele) sa treacă toate în același timp, acum când este situație de urgență și vrea să se asigure transport cadrelor medicale și personalului farmaciilor, s-a stabilit inițial un program care nu coincidea cu cerințele oamenilor. când s-a modificat orarul, s-au anulat unele linii (tramvaiele 1, 7 și 13 de exemplu) care fac legătura între centrul orașului și centrul comercial Felicia, unde avem 3 farmacii! Iar ca și cum nu ar fi fost de ajuns, acum stam in statia Elena Doamna așteptând cursa specială care ar fi trebuit să ne facă conexiunea cu a doua cursa specială, in Țuțora, pentru a ajunge la munca in Felicia, autobuzul nu a oprit!
+Sunteți de o incompetență patetică!",soferi_vatmani,0
+109,"aspect: stare_vehicule. text: Companie de transport public condusă de incompetenți! Daca atunci când nu era nici o stare de urgență, transportul era gestionat în așa fel încât majoritatea mijloacelor de transport având în mare parte aceleași trasee (ex: tramvaiul 9, autobuzele 28 și 41, plus altele) sa treacă toate în același timp, acum când este situație de urgență și vrea să se asigure transport cadrelor medicale și personalului farmaciilor, s-a stabilit inițial un program care nu coincidea cu cerințele oamenilor. când s-a modificat orarul, s-au anulat unele linii (tramvaiele 1, 7 și 13 de exemplu) care fac legătura între centrul orașului și centrul comercial Felicia, unde avem 3 farmacii! Iar ca și cum nu ar fi fost de ajuns, acum stam in statia Elena Doamna așteptând cursa specială care ar fi trebuit să ne facă conexiunea cu a doua cursa specială, in Țuțora, pentru a ajunge la munca in Felicia, autobuzul nu a oprit!
+Sunteți de o incompetență patetică!",stare_vehicule,0
+109,"aspect: validare_bilete. text: Companie de transport public condusă de incompetenți! Daca atunci când nu era nici o stare de urgență, transportul era gestionat în așa fel încât majoritatea mijloacelor de transport având în mare parte aceleași trasee (ex: tramvaiul 9, autobuzele 28 și 41, plus altele) sa treacă toate în același timp, acum când este situație de urgență și vrea să se asigure transport cadrelor medicale și personalului farmaciilor, s-a stabilit inițial un program care nu coincidea cu cerințele oamenilor. când s-a modificat orarul, s-au anulat unele linii (tramvaiele 1, 7 și 13 de exemplu) care fac legătura între centrul orașului și centrul comercial Felicia, unde avem 3 farmacii! Iar ca și cum nu ar fi fost de ajuns, acum stam in statia Elena Doamna așteptând cursa specială care ar fi trebuit să ne facă conexiunea cu a doua cursa specială, in Țuțora, pentru a ajunge la munca in Felicia, autobuzul nu a oprit!
+Sunteți de o incompetență patetică!",validare_bilete,0
+SIM_097,aspect: infrastructura_statii. text: Stația nouă este curată bine iluminată și ușor accesibilă.,infrastructura_statii,1
+SIM_097,aspect: acoperire_rute. text: Stația nouă este curată bine iluminată și ușor accesibilă.,acoperire_rute,0
+SIM_097,aspect: aglomeratie. text: Stația nouă este curată bine iluminată și ușor accesibilă.,aglomeratie,0
+SIM_097,aspect: confort_termic. text: Stația nouă este curată bine iluminată și ușor accesibilă.,confort_termic,0
+SIM_097,aspect: controlori. text: Stația nouă este curată bine iluminată și ușor accesibilă.,controlori,0
+SIM_097,aspect: curatenie. text: Stația nouă este curată bine iluminată și ușor accesibilă.,curatenie,0
+SIM_097,aspect: frecventa. text: Stația nouă este curată bine iluminată și ușor accesibilă.,frecventa,0
+SIM_097,aspect: informare_calatori. text: Stația nouă este curată bine iluminată și ușor accesibilă.,informare_calatori,0
+SIM_097,aspect: organizare. text: Stația nouă este curată bine iluminată și ușor accesibilă.,organizare,0
+SIM_097,aspect: pret. text: Stația nouă este curată bine iluminată și ușor accesibilă.,pret,0
+SIM_097,aspect: punctualitate. text: Stația nouă este curată bine iluminată și ușor accesibilă.,punctualitate,0
+SIM_097,aspect: relatii_clienti. text: Stația nouă este curată bine iluminată și ușor accesibilă.,relatii_clienti,0
+SIM_097,aspect: siguranta. text: Stația nouă este curată bine iluminată și ușor accesibilă.,siguranta,0
+SIM_097,aspect: soferi_vatmani. text: Stația nouă este curată bine iluminată și ușor accesibilă.,soferi_vatmani,0
+SIM_097,aspect: stare_vehicule. text: Stația nouă este curată bine iluminată și ușor accesibilă.,stare_vehicule,0
+SIM_097,aspect: validare_bilete. text: Stația nouă este curată bine iluminată și ușor accesibilă.,validare_bilete,0
+15,aspect: relatii_clienti. text: Lipsa de respect față de cetățeni,relatii_clienti,1
+15,aspect: acoperire_rute. text: Lipsa de respect față de cetățeni,acoperire_rute,0
+15,aspect: aglomeratie. text: Lipsa de respect față de cetățeni,aglomeratie,0
+15,aspect: confort_termic. text: Lipsa de respect față de cetățeni,confort_termic,0
+15,aspect: controlori. text: Lipsa de respect față de cetățeni,controlori,0
+15,aspect: curatenie. text: Lipsa de respect față de cetățeni,curatenie,0
+15,aspect: frecventa. text: Lipsa de respect față de cetățeni,frecventa,0
+15,aspect: informare_calatori. text: Lipsa de respect față de cetățeni,informare_calatori,0
+15,aspect: infrastructura_statii. text: Lipsa de respect față de cetățeni,infrastructura_statii,0
+15,aspect: organizare. text: Lipsa de respect față de cetățeni,organizare,0
+15,aspect: pret. text: Lipsa de respect față de cetățeni,pret,0
+15,aspect: punctualitate. text: Lipsa de respect față de cetățeni,punctualitate,0
+15,aspect: siguranta. text: Lipsa de respect față de cetățeni,siguranta,0
+15,aspect: soferi_vatmani. text: Lipsa de respect față de cetățeni,soferi_vatmani,0
+15,aspect: stare_vehicule. text: Lipsa de respect față de cetățeni,stare_vehicule,0
+15,aspect: validare_bilete. text: Lipsa de respect față de cetățeni,validare_bilete,0
+SIM_047,"aspect: soferi_vatmani. text: Șoferii pe care îi prind eu pe linia 42 sunt în general ok. Nu sunt extraordinar de amabili dar nici agresivi. Își fac treaba și atât, ceea ce e suficient.",soferi_vatmani,1
+SIM_047,"aspect: acoperire_rute. text: Șoferii pe care îi prind eu pe linia 42 sunt în general ok. Nu sunt extraordinar de amabili dar nici agresivi. Își fac treaba și atât, ceea ce e suficient.",acoperire_rute,0
+SIM_047,"aspect: aglomeratie. text: Șoferii pe care îi prind eu pe linia 42 sunt în general ok. Nu sunt extraordinar de amabili dar nici agresivi. Își fac treaba și atât, ceea ce e suficient.",aglomeratie,0
+SIM_047,"aspect: confort_termic. text: Șoferii pe care îi prind eu pe linia 42 sunt în general ok. Nu sunt extraordinar de amabili dar nici agresivi. Își fac treaba și atât, ceea ce e suficient.",confort_termic,0
+SIM_047,"aspect: controlori. text: Șoferii pe care îi prind eu pe linia 42 sunt în general ok. Nu sunt extraordinar de amabili dar nici agresivi. Își fac treaba și atât, ceea ce e suficient.",controlori,0
+SIM_047,"aspect: curatenie. text: Șoferii pe care îi prind eu pe linia 42 sunt în general ok. Nu sunt extraordinar de amabili dar nici agresivi. Își fac treaba și atât, ceea ce e suficient.",curatenie,0
+SIM_047,"aspect: frecventa. text: Șoferii pe care îi prind eu pe linia 42 sunt în general ok. Nu sunt extraordinar de amabili dar nici agresivi. Își fac treaba și atât, ceea ce e suficient.",frecventa,0
+SIM_047,"aspect: informare_calatori. text: Șoferii pe care îi prind eu pe linia 42 sunt în general ok. Nu sunt extraordinar de amabili dar nici agresivi. Își fac treaba și atât, ceea ce e suficient.",informare_calatori,0
+SIM_047,"aspect: infrastructura_statii. text: Șoferii pe care îi prind eu pe linia 42 sunt în general ok. Nu sunt extraordinar de amabili dar nici agresivi. Își fac treaba și atât, ceea ce e suficient.",infrastructura_statii,0
+SIM_047,"aspect: organizare. text: Șoferii pe care îi prind eu pe linia 42 sunt în general ok. Nu sunt extraordinar de amabili dar nici agresivi. Își fac treaba și atât, ceea ce e suficient.",organizare,0
+SIM_047,"aspect: pret. text: Șoferii pe care îi prind eu pe linia 42 sunt în general ok. Nu sunt extraordinar de amabili dar nici agresivi. Își fac treaba și atât, ceea ce e suficient.",pret,0
+SIM_047,"aspect: punctualitate. text: Șoferii pe care îi prind eu pe linia 42 sunt în general ok. Nu sunt extraordinar de amabili dar nici agresivi. Își fac treaba și atât, ceea ce e suficient.",punctualitate,0
+SIM_047,"aspect: relatii_clienti. text: Șoferii pe care îi prind eu pe linia 42 sunt în general ok. Nu sunt extraordinar de amabili dar nici agresivi. Își fac treaba și atât, ceea ce e suficient.",relatii_clienti,0
+SIM_047,"aspect: siguranta. text: Șoferii pe care îi prind eu pe linia 42 sunt în general ok. Nu sunt extraordinar de amabili dar nici agresivi. Își fac treaba și atât, ceea ce e suficient.",siguranta,0
+SIM_047,"aspect: stare_vehicule. text: Șoferii pe care îi prind eu pe linia 42 sunt în general ok. Nu sunt extraordinar de amabili dar nici agresivi. Își fac treaba și atât, ceea ce e suficient.",stare_vehicule,0
+SIM_047,"aspect: validare_bilete. text: Șoferii pe care îi prind eu pe linia 42 sunt în general ok. Nu sunt extraordinar de amabili dar nici agresivi. Își fac treaba și atât, ceea ce e suficient.",validare_bilete,0
+227,aspect: informare_calatori. text: Nu meritați niciodată o stea pe panou lui Chirică arata 14 min și vine după 45 pe traseul 27 cel mai prost  traseu  plătim abonamente ptr ce rușine vouă,informare_calatori,1
+227,aspect: pret. text: Nu meritați niciodată o stea pe panou lui Chirică arata 14 min și vine după 45 pe traseul 27 cel mai prost  traseu  plătim abonamente ptr ce rușine vouă,pret,1
+227,aspect: acoperire_rute. text: Nu meritați niciodată o stea pe panou lui Chirică arata 14 min și vine după 45 pe traseul 27 cel mai prost  traseu  plătim abonamente ptr ce rușine vouă,acoperire_rute,0
+227,aspect: aglomeratie. text: Nu meritați niciodată o stea pe panou lui Chirică arata 14 min și vine după 45 pe traseul 27 cel mai prost  traseu  plătim abonamente ptr ce rușine vouă,aglomeratie,0
+227,aspect: confort_termic. text: Nu meritați niciodată o stea pe panou lui Chirică arata 14 min și vine după 45 pe traseul 27 cel mai prost  traseu  plătim abonamente ptr ce rușine vouă,confort_termic,0
+227,aspect: controlori. text: Nu meritați niciodată o stea pe panou lui Chirică arata 14 min și vine după 45 pe traseul 27 cel mai prost  traseu  plătim abonamente ptr ce rușine vouă,controlori,0
+227,aspect: curatenie. text: Nu meritați niciodată o stea pe panou lui Chirică arata 14 min și vine după 45 pe traseul 27 cel mai prost  traseu  plătim abonamente ptr ce rușine vouă,curatenie,0
+227,aspect: frecventa. text: Nu meritați niciodată o stea pe panou lui Chirică arata 14 min și vine după 45 pe traseul 27 cel mai prost  traseu  plătim abonamente ptr ce rușine vouă,frecventa,0
+227,aspect: infrastructura_statii. text: Nu meritați niciodată o stea pe panou lui Chirică arata 14 min și vine după 45 pe traseul 27 cel mai prost  traseu  plătim abonamente ptr ce rușine vouă,infrastructura_statii,0
+227,aspect: organizare. text: Nu meritați niciodată o stea pe panou lui Chirică arata 14 min și vine după 45 pe traseul 27 cel mai prost  traseu  plătim abonamente ptr ce rușine vouă,organizare,0
+227,aspect: punctualitate. text: Nu meritați niciodată o stea pe panou lui Chirică arata 14 min și vine după 45 pe traseul 27 cel mai prost  traseu  plătim abonamente ptr ce rușine vouă,punctualitate,0
+227,aspect: relatii_clienti. text: Nu meritați niciodată o stea pe panou lui Chirică arata 14 min și vine după 45 pe traseul 27 cel mai prost  traseu  plătim abonamente ptr ce rușine vouă,relatii_clienti,0
+227,aspect: siguranta. text: Nu meritați niciodată o stea pe panou lui Chirică arata 14 min și vine după 45 pe traseul 27 cel mai prost  traseu  plătim abonamente ptr ce rușine vouă,siguranta,0
+227,aspect: soferi_vatmani. text: Nu meritați niciodată o stea pe panou lui Chirică arata 14 min și vine după 45 pe traseul 27 cel mai prost  traseu  plătim abonamente ptr ce rușine vouă,soferi_vatmani,0
+227,aspect: stare_vehicule. text: Nu meritați niciodată o stea pe panou lui Chirică arata 14 min și vine după 45 pe traseul 27 cel mai prost  traseu  plătim abonamente ptr ce rușine vouă,stare_vehicule,0
+227,aspect: validare_bilete. text: Nu meritați niciodată o stea pe panou lui Chirică arata 14 min și vine după 45 pe traseul 27 cel mai prost  traseu  plătim abonamente ptr ce rușine vouă,validare_bilete,0
+89,"aspect: siguranta. text: 28 mai 2021, aproximativ 8,30, ruta 30b, autobuz IS 11 XKL, 1956 indicativ : conducător auto care nu se asigura în oglinzi, prinde antebratul unui calator care încearcă sa urce pe ușa din spate, insista...calatorul reușește sa se desprindă...chiar asa am ajuns ?",siguranta,1
+89,"aspect: soferi_vatmani. text: 28 mai 2021, aproximativ 8,30, ruta 30b, autobuz IS 11 XKL, 1956 indicativ : conducător auto care nu se asigura în oglinzi, prinde antebratul unui calator care încearcă sa urce pe ușa din spate, insista...calatorul reușește sa se desprindă...chiar asa am ajuns ?",soferi_vatmani,1
+89,"aspect: acoperire_rute. text: 28 mai 2021, aproximativ 8,30, ruta 30b, autobuz IS 11 XKL, 1956 indicativ : conducător auto care nu se asigura în oglinzi, prinde antebratul unui calator care încearcă sa urce pe ușa din spate, insista...calatorul reușește sa se desprindă...chiar asa am ajuns ?",acoperire_rute,0
+89,"aspect: aglomeratie. text: 28 mai 2021, aproximativ 8,30, ruta 30b, autobuz IS 11 XKL, 1956 indicativ : conducător auto care nu se asigura în oglinzi, prinde antebratul unui calator care încearcă sa urce pe ușa din spate, insista...calatorul reușește sa se desprindă...chiar asa am ajuns ?",aglomeratie,0
+89,"aspect: confort_termic. text: 28 mai 2021, aproximativ 8,30, ruta 30b, autobuz IS 11 XKL, 1956 indicativ : conducător auto care nu se asigura în oglinzi, prinde antebratul unui calator care încearcă sa urce pe ușa din spate, insista...calatorul reușește sa se desprindă...chiar asa am ajuns ?",confort_termic,0
+89,"aspect: controlori. text: 28 mai 2021, aproximativ 8,30, ruta 30b, autobuz IS 11 XKL, 1956 indicativ : conducător auto care nu se asigura în oglinzi, prinde antebratul unui calator care încearcă sa urce pe ușa din spate, insista...calatorul reușește sa se desprindă...chiar asa am ajuns ?",controlori,0
+89,"aspect: curatenie. text: 28 mai 2021, aproximativ 8,30, ruta 30b, autobuz IS 11 XKL, 1956 indicativ : conducător auto care nu se asigura în oglinzi, prinde antebratul unui calator care încearcă sa urce pe ușa din spate, insista...calatorul reușește sa se desprindă...chiar asa am ajuns ?",curatenie,0
+89,"aspect: frecventa. text: 28 mai 2021, aproximativ 8,30, ruta 30b, autobuz IS 11 XKL, 1956 indicativ : conducător auto care nu se asigura în oglinzi, prinde antebratul unui calator care încearcă sa urce pe ușa din spate, insista...calatorul reușește sa se desprindă...chiar asa am ajuns ?",frecventa,0
+89,"aspect: informare_calatori. text: 28 mai 2021, aproximativ 8,30, ruta 30b, autobuz IS 11 XKL, 1956 indicativ : conducător auto care nu se asigura în oglinzi, prinde antebratul unui calator care încearcă sa urce pe ușa din spate, insista...calatorul reușește sa se desprindă...chiar asa am ajuns ?",informare_calatori,0
+89,"aspect: infrastructura_statii. text: 28 mai 2021, aproximativ 8,30, ruta 30b, autobuz IS 11 XKL, 1956 indicativ : conducător auto care nu se asigura în oglinzi, prinde antebratul unui calator care încearcă sa urce pe ușa din spate, insista...calatorul reușește sa se desprindă...chiar asa am ajuns ?",infrastructura_statii,0
+89,"aspect: organizare. text: 28 mai 2021, aproximativ 8,30, ruta 30b, autobuz IS 11 XKL, 1956 indicativ : conducător auto care nu se asigura în oglinzi, prinde antebratul unui calator care încearcă sa urce pe ușa din spate, insista...calatorul reușește sa se desprindă...chiar asa am ajuns ?",organizare,0
+89,"aspect: pret. text: 28 mai 2021, aproximativ 8,30, ruta 30b, autobuz IS 11 XKL, 1956 indicativ : conducător auto care nu se asigura în oglinzi, prinde antebratul unui calator care încearcă sa urce pe ușa din spate, insista...calatorul reușește sa se desprindă...chiar asa am ajuns ?",pret,0
+89,"aspect: punctualitate. text: 28 mai 2021, aproximativ 8,30, ruta 30b, autobuz IS 11 XKL, 1956 indicativ : conducător auto care nu se asigura în oglinzi, prinde antebratul unui calator care încearcă sa urce pe ușa din spate, insista...calatorul reușește sa se desprindă...chiar asa am ajuns ?",punctualitate,0
+89,"aspect: relatii_clienti. text: 28 mai 2021, aproximativ 8,30, ruta 30b, autobuz IS 11 XKL, 1956 indicativ : conducător auto care nu se asigura în oglinzi, prinde antebratul unui calator care încearcă sa urce pe ușa din spate, insista...calatorul reușește sa se desprindă...chiar asa am ajuns ?",relatii_clienti,0
+89,"aspect: stare_vehicule. text: 28 mai 2021, aproximativ 8,30, ruta 30b, autobuz IS 11 XKL, 1956 indicativ : conducător auto care nu se asigura în oglinzi, prinde antebratul unui calator care încearcă sa urce pe ușa din spate, insista...calatorul reușește sa se desprindă...chiar asa am ajuns ?",stare_vehicule,0
+89,"aspect: validare_bilete. text: 28 mai 2021, aproximativ 8,30, ruta 30b, autobuz IS 11 XKL, 1956 indicativ : conducător auto care nu se asigura în oglinzi, prinde antebratul unui calator care încearcă sa urce pe ușa din spate, insista...calatorul reușește sa se desprindă...chiar asa am ajuns ?",validare_bilete,0
+153,"aspect: confort_termic. text: 35 de grade în tranvai, în mijlocul zilei...",confort_termic,1
+153,"aspect: acoperire_rute. text: 35 de grade în tranvai, în mijlocul zilei...",acoperire_rute,0
+153,"aspect: aglomeratie. text: 35 de grade în tranvai, în mijlocul zilei...",aglomeratie,0
+153,"aspect: controlori. text: 35 de grade în tranvai, în mijlocul zilei...",controlori,0
+153,"aspect: curatenie. text: 35 de grade în tranvai, în mijlocul zilei...",curatenie,0
+153,"aspect: frecventa. text: 35 de grade în tranvai, în mijlocul zilei...",frecventa,0
+153,"aspect: informare_calatori. text: 35 de grade în tranvai, în mijlocul zilei...",informare_calatori,0
+153,"aspect: infrastructura_statii. text: 35 de grade în tranvai, în mijlocul zilei...",infrastructura_statii,0
+153,"aspect: organizare. text: 35 de grade în tranvai, în mijlocul zilei...",organizare,0
+153,"aspect: pret. text: 35 de grade în tranvai, în mijlocul zilei...",pret,0
+153,"aspect: punctualitate. text: 35 de grade în tranvai, în mijlocul zilei...",punctualitate,0
+153,"aspect: relatii_clienti. text: 35 de grade în tranvai, în mijlocul zilei...",relatii_clienti,0
+153,"aspect: siguranta. text: 35 de grade în tranvai, în mijlocul zilei...",siguranta,0
+153,"aspect: soferi_vatmani. text: 35 de grade în tranvai, în mijlocul zilei...",soferi_vatmani,0
+153,"aspect: stare_vehicule. text: 35 de grade în tranvai, în mijlocul zilei...",stare_vehicule,0
+153,"aspect: validare_bilete. text: 35 de grade în tranvai, în mijlocul zilei...",validare_bilete,0
+183,"aspect: siguranta. text: Bună seara. Șoferul de pe linia 28 cursa luată la ora 19:20 de pe bulevardul independentei cu destinația pasaj nicolina , nefiind atent la drum a pus frână brusca iar o persoana care stătea pe locurile din spate a sărit de pe scaun lovindu-se. Nu e normal așa ceva. Rușine șoferului😠😠😠😠",siguranta,1
+183,"aspect: soferi_vatmani. text: Bună seara. Șoferul de pe linia 28 cursa luată la ora 19:20 de pe bulevardul independentei cu destinația pasaj nicolina , nefiind atent la drum a pus frână brusca iar o persoana care stătea pe locurile din spate a sărit de pe scaun lovindu-se. Nu e normal așa ceva. Rușine șoferului😠😠😠😠",soferi_vatmani,1
+183,"aspect: acoperire_rute. text: Bună seara. Șoferul de pe linia 28 cursa luată la ora 19:20 de pe bulevardul independentei cu destinația pasaj nicolina , nefiind atent la drum a pus frână brusca iar o persoana care stătea pe locurile din spate a sărit de pe scaun lovindu-se. Nu e normal așa ceva. Rușine șoferului😠😠😠😠",acoperire_rute,0
+183,"aspect: aglomeratie. text: Bună seara. Șoferul de pe linia 28 cursa luată la ora 19:20 de pe bulevardul independentei cu destinația pasaj nicolina , nefiind atent la drum a pus frână brusca iar o persoana care stătea pe locurile din spate a sărit de pe scaun lovindu-se. Nu e normal așa ceva. Rușine șoferului😠😠😠😠",aglomeratie,0
+183,"aspect: confort_termic. text: Bună seara. Șoferul de pe linia 28 cursa luată la ora 19:20 de pe bulevardul independentei cu destinația pasaj nicolina , nefiind atent la drum a pus frână brusca iar o persoana care stătea pe locurile din spate a sărit de pe scaun lovindu-se. Nu e normal așa ceva. Rușine șoferului😠😠😠😠",confort_termic,0
+183,"aspect: controlori. text: Bună seara. Șoferul de pe linia 28 cursa luată la ora 19:20 de pe bulevardul independentei cu destinația pasaj nicolina , nefiind atent la drum a pus frână brusca iar o persoana care stătea pe locurile din spate a sărit de pe scaun lovindu-se. Nu e normal așa ceva. Rușine șoferului😠😠😠😠",controlori,0
+183,"aspect: curatenie. text: Bună seara. Șoferul de pe linia 28 cursa luată la ora 19:20 de pe bulevardul independentei cu destinația pasaj nicolina , nefiind atent la drum a pus frână brusca iar o persoana care stătea pe locurile din spate a sărit de pe scaun lovindu-se. Nu e normal așa ceva. Rușine șoferului😠😠😠😠",curatenie,0
+183,"aspect: frecventa. text: Bună seara. Șoferul de pe linia 28 cursa luată la ora 19:20 de pe bulevardul independentei cu destinația pasaj nicolina , nefiind atent la drum a pus frână brusca iar o persoana care stătea pe locurile din spate a sărit de pe scaun lovindu-se. Nu e normal așa ceva. Rușine șoferului😠😠😠😠",frecventa,0
+183,"aspect: informare_calatori. text: Bună seara. Șoferul de pe linia 28 cursa luată la ora 19:20 de pe bulevardul independentei cu destinația pasaj nicolina , nefiind atent la drum a pus frână brusca iar o persoana care stătea pe locurile din spate a sărit de pe scaun lovindu-se. Nu e normal așa ceva. Rușine șoferului😠😠😠😠",informare_calatori,0
+183,"aspect: infrastructura_statii. text: Bună seara. Șoferul de pe linia 28 cursa luată la ora 19:20 de pe bulevardul independentei cu destinația pasaj nicolina , nefiind atent la drum a pus frână brusca iar o persoana care stătea pe locurile din spate a sărit de pe scaun lovindu-se. Nu e normal așa ceva. Rușine șoferului😠😠😠😠",infrastructura_statii,0
+183,"aspect: organizare. text: Bună seara. Șoferul de pe linia 28 cursa luată la ora 19:20 de pe bulevardul independentei cu destinația pasaj nicolina , nefiind atent la drum a pus frână brusca iar o persoana care stătea pe locurile din spate a sărit de pe scaun lovindu-se. Nu e normal așa ceva. Rușine șoferului😠😠😠😠",organizare,0
+183,"aspect: pret. text: Bună seara. Șoferul de pe linia 28 cursa luată la ora 19:20 de pe bulevardul independentei cu destinația pasaj nicolina , nefiind atent la drum a pus frână brusca iar o persoana care stătea pe locurile din spate a sărit de pe scaun lovindu-se. Nu e normal așa ceva. Rușine șoferului😠😠😠😠",pret,0
+183,"aspect: punctualitate. text: Bună seara. Șoferul de pe linia 28 cursa luată la ora 19:20 de pe bulevardul independentei cu destinația pasaj nicolina , nefiind atent la drum a pus frână brusca iar o persoana care stătea pe locurile din spate a sărit de pe scaun lovindu-se. Nu e normal așa ceva. Rușine șoferului😠😠😠😠",punctualitate,0
+183,"aspect: relatii_clienti. text: Bună seara. Șoferul de pe linia 28 cursa luată la ora 19:20 de pe bulevardul independentei cu destinația pasaj nicolina , nefiind atent la drum a pus frână brusca iar o persoana care stătea pe locurile din spate a sărit de pe scaun lovindu-se. Nu e normal așa ceva. Rușine șoferului😠😠😠😠",relatii_clienti,0
+183,"aspect: stare_vehicule. text: Bună seara. Șoferul de pe linia 28 cursa luată la ora 19:20 de pe bulevardul independentei cu destinația pasaj nicolina , nefiind atent la drum a pus frână brusca iar o persoana care stătea pe locurile din spate a sărit de pe scaun lovindu-se. Nu e normal așa ceva. Rușine șoferului😠😠😠😠",stare_vehicule,0
+183,"aspect: validare_bilete. text: Bună seara. Șoferul de pe linia 28 cursa luată la ora 19:20 de pe bulevardul independentei cu destinația pasaj nicolina , nefiind atent la drum a pus frână brusca iar o persoana care stătea pe locurile din spate a sărit de pe scaun lovindu-se. Nu e normal așa ceva. Rușine șoferului😠😠😠😠",validare_bilete,0
+SIM_048,aspect: aglomeratie. text: Aglomerația la orele de vârf e ceva cu care m-am obișnuit după ani de mers cu CTP. Nu e plăcut dar e predictibil. Știu că dimineața între 7 și 9 e înghesuială și îmi planific în consecință.,aglomeratie,1
+SIM_048,aspect: acoperire_rute. text: Aglomerația la orele de vârf e ceva cu care m-am obișnuit după ani de mers cu CTP. Nu e plăcut dar e predictibil. Știu că dimineața între 7 și 9 e înghesuială și îmi planific în consecință.,acoperire_rute,0
+SIM_048,aspect: confort_termic. text: Aglomerația la orele de vârf e ceva cu care m-am obișnuit după ani de mers cu CTP. Nu e plăcut dar e predictibil. Știu că dimineața între 7 și 9 e înghesuială și îmi planific în consecință.,confort_termic,0
+SIM_048,aspect: controlori. text: Aglomerația la orele de vârf e ceva cu care m-am obișnuit după ani de mers cu CTP. Nu e plăcut dar e predictibil. Știu că dimineața între 7 și 9 e înghesuială și îmi planific în consecință.,controlori,0
+SIM_048,aspect: curatenie. text: Aglomerația la orele de vârf e ceva cu care m-am obișnuit după ani de mers cu CTP. Nu e plăcut dar e predictibil. Știu că dimineața între 7 și 9 e înghesuială și îmi planific în consecință.,curatenie,0
+SIM_048,aspect: frecventa. text: Aglomerația la orele de vârf e ceva cu care m-am obișnuit după ani de mers cu CTP. Nu e plăcut dar e predictibil. Știu că dimineața între 7 și 9 e înghesuială și îmi planific în consecință.,frecventa,0
+SIM_048,aspect: informare_calatori. text: Aglomerația la orele de vârf e ceva cu care m-am obișnuit după ani de mers cu CTP. Nu e plăcut dar e predictibil. Știu că dimineața între 7 și 9 e înghesuială și îmi planific în consecință.,informare_calatori,0
+SIM_048,aspect: infrastructura_statii. text: Aglomerația la orele de vârf e ceva cu care m-am obișnuit după ani de mers cu CTP. Nu e plăcut dar e predictibil. Știu că dimineața între 7 și 9 e înghesuială și îmi planific în consecință.,infrastructura_statii,0
+SIM_048,aspect: organizare. text: Aglomerația la orele de vârf e ceva cu care m-am obișnuit după ani de mers cu CTP. Nu e plăcut dar e predictibil. Știu că dimineața între 7 și 9 e înghesuială și îmi planific în consecință.,organizare,0
+SIM_048,aspect: pret. text: Aglomerația la orele de vârf e ceva cu care m-am obișnuit după ani de mers cu CTP. Nu e plăcut dar e predictibil. Știu că dimineața între 7 și 9 e înghesuială și îmi planific în consecință.,pret,0
+SIM_048,aspect: punctualitate. text: Aglomerația la orele de vârf e ceva cu care m-am obișnuit după ani de mers cu CTP. Nu e plăcut dar e predictibil. Știu că dimineața între 7 și 9 e înghesuială și îmi planific în consecință.,punctualitate,0
+SIM_048,aspect: relatii_clienti. text: Aglomerația la orele de vârf e ceva cu care m-am obișnuit după ani de mers cu CTP. Nu e plăcut dar e predictibil. Știu că dimineața între 7 și 9 e înghesuială și îmi planific în consecință.,relatii_clienti,0
+SIM_048,aspect: siguranta. text: Aglomerația la orele de vârf e ceva cu care m-am obișnuit după ani de mers cu CTP. Nu e plăcut dar e predictibil. Știu că dimineața între 7 și 9 e înghesuială și îmi planific în consecință.,siguranta,0
+SIM_048,aspect: soferi_vatmani. text: Aglomerația la orele de vârf e ceva cu care m-am obișnuit după ani de mers cu CTP. Nu e plăcut dar e predictibil. Știu că dimineața între 7 și 9 e înghesuială și îmi planific în consecință.,soferi_vatmani,0
+SIM_048,aspect: stare_vehicule. text: Aglomerația la orele de vârf e ceva cu care m-am obișnuit după ani de mers cu CTP. Nu e plăcut dar e predictibil. Știu că dimineața între 7 și 9 e înghesuială și îmi planific în consecință.,stare_vehicule,0
+SIM_048,aspect: validare_bilete. text: Aglomerația la orele de vârf e ceva cu care m-am obișnuit după ani de mers cu CTP. Nu e plăcut dar e predictibil. Știu că dimineața între 7 și 9 e înghesuială și îmi planific în consecință.,validare_bilete,0
+78,"aspect: aglomeratie. text: If you wanna be cramped as if you were on a train to Auschwitz with some ticket controllers who are about as nice as a hot sauce enema, this public transport company is for you.
+
+0/10",aglomeratie,1
+78,"aspect: controlori. text: If you wanna be cramped as if you were on a train to Auschwitz with some ticket controllers who are about as nice as a hot sauce enema, this public transport company is for you.
+
+0/10",controlori,1
+78,"aspect: acoperire_rute. text: If you wanna be cramped as if you were on a train to Auschwitz with some ticket controllers who are about as nice as a hot sauce enema, this public transport company is for you.
+
+0/10",acoperire_rute,0
+78,"aspect: confort_termic. text: If you wanna be cramped as if you were on a train to Auschwitz with some ticket controllers who are about as nice as a hot sauce enema, this public transport company is for you.
+
+0/10",confort_termic,0
+78,"aspect: curatenie. text: If you wanna be cramped as if you were on a train to Auschwitz with some ticket controllers who are about as nice as a hot sauce enema, this public transport company is for you.
+
+0/10",curatenie,0
+78,"aspect: frecventa. text: If you wanna be cramped as if you were on a train to Auschwitz with some ticket controllers who are about as nice as a hot sauce enema, this public transport company is for you.
+
+0/10",frecventa,0
+78,"aspect: informare_calatori. text: If you wanna be cramped as if you were on a train to Auschwitz with some ticket controllers who are about as nice as a hot sauce enema, this public transport company is for you.
+
+0/10",informare_calatori,0
+78,"aspect: infrastructura_statii. text: If you wanna be cramped as if you were on a train to Auschwitz with some ticket controllers who are about as nice as a hot sauce enema, this public transport company is for you.
+
+0/10",infrastructura_statii,0
+78,"aspect: organizare. text: If you wanna be cramped as if you were on a train to Auschwitz with some ticket controllers who are about as nice as a hot sauce enema, this public transport company is for you.
+
+0/10",organizare,0
+78,"aspect: pret. text: If you wanna be cramped as if you were on a train to Auschwitz with some ticket controllers who are about as nice as a hot sauce enema, this public transport company is for you.
+
+0/10",pret,0
+78,"aspect: punctualitate. text: If you wanna be cramped as if you were on a train to Auschwitz with some ticket controllers who are about as nice as a hot sauce enema, this public transport company is for you.
+
+0/10",punctualitate,0
+78,"aspect: relatii_clienti. text: If you wanna be cramped as if you were on a train to Auschwitz with some ticket controllers who are about as nice as a hot sauce enema, this public transport company is for you.
+
+0/10",relatii_clienti,0
+78,"aspect: siguranta. text: If you wanna be cramped as if you were on a train to Auschwitz with some ticket controllers who are about as nice as a hot sauce enema, this public transport company is for you.
+
+0/10",siguranta,0
+78,"aspect: soferi_vatmani. text: If you wanna be cramped as if you were on a train to Auschwitz with some ticket controllers who are about as nice as a hot sauce enema, this public transport company is for you.
+
+0/10",soferi_vatmani,0
+78,"aspect: stare_vehicule. text: If you wanna be cramped as if you were on a train to Auschwitz with some ticket controllers who are about as nice as a hot sauce enema, this public transport company is for you.
+
+0/10",stare_vehicule,0
+78,"aspect: validare_bilete. text: If you wanna be cramped as if you were on a train to Auschwitz with some ticket controllers who are about as nice as a hot sauce enema, this public transport company is for you.
+
+0/10",validare_bilete,0
+63,"aspect: aglomeratie. text: Nu se respecta orarul, mijloace de transport supra aglomerate și murdare.",aglomeratie,1
+63,"aspect: curatenie. text: Nu se respecta orarul, mijloace de transport supra aglomerate și murdare.",curatenie,1
+63,"aspect: punctualitate. text: Nu se respecta orarul, mijloace de transport supra aglomerate și murdare.",punctualitate,1
+63,"aspect: acoperire_rute. text: Nu se respecta orarul, mijloace de transport supra aglomerate și murdare.",acoperire_rute,0
+63,"aspect: confort_termic. text: Nu se respecta orarul, mijloace de transport supra aglomerate și murdare.",confort_termic,0
+63,"aspect: controlori. text: Nu se respecta orarul, mijloace de transport supra aglomerate și murdare.",controlori,0
+63,"aspect: frecventa. text: Nu se respecta orarul, mijloace de transport supra aglomerate și murdare.",frecventa,0
+63,"aspect: informare_calatori. text: Nu se respecta orarul, mijloace de transport supra aglomerate și murdare.",informare_calatori,0
+63,"aspect: infrastructura_statii. text: Nu se respecta orarul, mijloace de transport supra aglomerate și murdare.",infrastructura_statii,0
+63,"aspect: organizare. text: Nu se respecta orarul, mijloace de transport supra aglomerate și murdare.",organizare,0
+63,"aspect: pret. text: Nu se respecta orarul, mijloace de transport supra aglomerate și murdare.",pret,0
+63,"aspect: relatii_clienti. text: Nu se respecta orarul, mijloace de transport supra aglomerate și murdare.",relatii_clienti,0
+63,"aspect: siguranta. text: Nu se respecta orarul, mijloace de transport supra aglomerate și murdare.",siguranta,0
+63,"aspect: soferi_vatmani. text: Nu se respecta orarul, mijloace de transport supra aglomerate și murdare.",soferi_vatmani,0
+63,"aspect: stare_vehicule. text: Nu se respecta orarul, mijloace de transport supra aglomerate și murdare.",stare_vehicule,0
+63,"aspect: validare_bilete. text: Nu se respecta orarul, mijloace de transport supra aglomerate și murdare.",validare_bilete,0
+67,"aspect: soferi_vatmani. text: Nesimtirea soferilor este nemarginita, stai in statie cu usa inchisa si vezi alergand un elev la 06:05 dimineata si nu deschizi usa ...elevul respectiv trebuia sa ajunga in Breazu pana la 07:30 plecand de la blocuri Cetatuia ...lipsa totala de umanitate ! Foarte urat din partea dumneavostra domnilor, faceti greve ca vreti salarii mari dar sincer nu toti le meritati!",soferi_vatmani,1
+67,"aspect: acoperire_rute. text: Nesimtirea soferilor este nemarginita, stai in statie cu usa inchisa si vezi alergand un elev la 06:05 dimineata si nu deschizi usa ...elevul respectiv trebuia sa ajunga in Breazu pana la 07:30 plecand de la blocuri Cetatuia ...lipsa totala de umanitate ! Foarte urat din partea dumneavostra domnilor, faceti greve ca vreti salarii mari dar sincer nu toti le meritati!",acoperire_rute,0
+67,"aspect: aglomeratie. text: Nesimtirea soferilor este nemarginita, stai in statie cu usa inchisa si vezi alergand un elev la 06:05 dimineata si nu deschizi usa ...elevul respectiv trebuia sa ajunga in Breazu pana la 07:30 plecand de la blocuri Cetatuia ...lipsa totala de umanitate ! Foarte urat din partea dumneavostra domnilor, faceti greve ca vreti salarii mari dar sincer nu toti le meritati!",aglomeratie,0
+67,"aspect: confort_termic. text: Nesimtirea soferilor este nemarginita, stai in statie cu usa inchisa si vezi alergand un elev la 06:05 dimineata si nu deschizi usa ...elevul respectiv trebuia sa ajunga in Breazu pana la 07:30 plecand de la blocuri Cetatuia ...lipsa totala de umanitate ! Foarte urat din partea dumneavostra domnilor, faceti greve ca vreti salarii mari dar sincer nu toti le meritati!",confort_termic,0
+67,"aspect: controlori. text: Nesimtirea soferilor este nemarginita, stai in statie cu usa inchisa si vezi alergand un elev la 06:05 dimineata si nu deschizi usa ...elevul respectiv trebuia sa ajunga in Breazu pana la 07:30 plecand de la blocuri Cetatuia ...lipsa totala de umanitate ! Foarte urat din partea dumneavostra domnilor, faceti greve ca vreti salarii mari dar sincer nu toti le meritati!",controlori,0
+67,"aspect: curatenie. text: Nesimtirea soferilor este nemarginita, stai in statie cu usa inchisa si vezi alergand un elev la 06:05 dimineata si nu deschizi usa ...elevul respectiv trebuia sa ajunga in Breazu pana la 07:30 plecand de la blocuri Cetatuia ...lipsa totala de umanitate ! Foarte urat din partea dumneavostra domnilor, faceti greve ca vreti salarii mari dar sincer nu toti le meritati!",curatenie,0
+67,"aspect: frecventa. text: Nesimtirea soferilor este nemarginita, stai in statie cu usa inchisa si vezi alergand un elev la 06:05 dimineata si nu deschizi usa ...elevul respectiv trebuia sa ajunga in Breazu pana la 07:30 plecand de la blocuri Cetatuia ...lipsa totala de umanitate ! Foarte urat din partea dumneavostra domnilor, faceti greve ca vreti salarii mari dar sincer nu toti le meritati!",frecventa,0
+67,"aspect: informare_calatori. text: Nesimtirea soferilor este nemarginita, stai in statie cu usa inchisa si vezi alergand un elev la 06:05 dimineata si nu deschizi usa ...elevul respectiv trebuia sa ajunga in Breazu pana la 07:30 plecand de la blocuri Cetatuia ...lipsa totala de umanitate ! Foarte urat din partea dumneavostra domnilor, faceti greve ca vreti salarii mari dar sincer nu toti le meritati!",informare_calatori,0
+67,"aspect: infrastructura_statii. text: Nesimtirea soferilor este nemarginita, stai in statie cu usa inchisa si vezi alergand un elev la 06:05 dimineata si nu deschizi usa ...elevul respectiv trebuia sa ajunga in Breazu pana la 07:30 plecand de la blocuri Cetatuia ...lipsa totala de umanitate ! Foarte urat din partea dumneavostra domnilor, faceti greve ca vreti salarii mari dar sincer nu toti le meritati!",infrastructura_statii,0
+67,"aspect: organizare. text: Nesimtirea soferilor este nemarginita, stai in statie cu usa inchisa si vezi alergand un elev la 06:05 dimineata si nu deschizi usa ...elevul respectiv trebuia sa ajunga in Breazu pana la 07:30 plecand de la blocuri Cetatuia ...lipsa totala de umanitate ! Foarte urat din partea dumneavostra domnilor, faceti greve ca vreti salarii mari dar sincer nu toti le meritati!",organizare,0
+67,"aspect: pret. text: Nesimtirea soferilor este nemarginita, stai in statie cu usa inchisa si vezi alergand un elev la 06:05 dimineata si nu deschizi usa ...elevul respectiv trebuia sa ajunga in Breazu pana la 07:30 plecand de la blocuri Cetatuia ...lipsa totala de umanitate ! Foarte urat din partea dumneavostra domnilor, faceti greve ca vreti salarii mari dar sincer nu toti le meritati!",pret,0
+67,"aspect: punctualitate. text: Nesimtirea soferilor este nemarginita, stai in statie cu usa inchisa si vezi alergand un elev la 06:05 dimineata si nu deschizi usa ...elevul respectiv trebuia sa ajunga in Breazu pana la 07:30 plecand de la blocuri Cetatuia ...lipsa totala de umanitate ! Foarte urat din partea dumneavostra domnilor, faceti greve ca vreti salarii mari dar sincer nu toti le meritati!",punctualitate,0
+67,"aspect: relatii_clienti. text: Nesimtirea soferilor este nemarginita, stai in statie cu usa inchisa si vezi alergand un elev la 06:05 dimineata si nu deschizi usa ...elevul respectiv trebuia sa ajunga in Breazu pana la 07:30 plecand de la blocuri Cetatuia ...lipsa totala de umanitate ! Foarte urat din partea dumneavostra domnilor, faceti greve ca vreti salarii mari dar sincer nu toti le meritati!",relatii_clienti,0
+67,"aspect: siguranta. text: Nesimtirea soferilor este nemarginita, stai in statie cu usa inchisa si vezi alergand un elev la 06:05 dimineata si nu deschizi usa ...elevul respectiv trebuia sa ajunga in Breazu pana la 07:30 plecand de la blocuri Cetatuia ...lipsa totala de umanitate ! Foarte urat din partea dumneavostra domnilor, faceti greve ca vreti salarii mari dar sincer nu toti le meritati!",siguranta,0
+67,"aspect: stare_vehicule. text: Nesimtirea soferilor este nemarginita, stai in statie cu usa inchisa si vezi alergand un elev la 06:05 dimineata si nu deschizi usa ...elevul respectiv trebuia sa ajunga in Breazu pana la 07:30 plecand de la blocuri Cetatuia ...lipsa totala de umanitate ! Foarte urat din partea dumneavostra domnilor, faceti greve ca vreti salarii mari dar sincer nu toti le meritati!",stare_vehicule,0
+67,"aspect: validare_bilete. text: Nesimtirea soferilor este nemarginita, stai in statie cu usa inchisa si vezi alergand un elev la 06:05 dimineata si nu deschizi usa ...elevul respectiv trebuia sa ajunga in Breazu pana la 07:30 plecand de la blocuri Cetatuia ...lipsa totala de umanitate ! Foarte urat din partea dumneavostra domnilor, faceti greve ca vreti salarii mari dar sincer nu toti le meritati!",validare_bilete,0
+SIM_142,aspect: confort_termic. text: Temperatura din autobuz a fost acceptabilă pe durata cursei.,confort_termic,1
+SIM_142,aspect: acoperire_rute. text: Temperatura din autobuz a fost acceptabilă pe durata cursei.,acoperire_rute,0
+SIM_142,aspect: aglomeratie. text: Temperatura din autobuz a fost acceptabilă pe durata cursei.,aglomeratie,0
+SIM_142,aspect: controlori. text: Temperatura din autobuz a fost acceptabilă pe durata cursei.,controlori,0
+SIM_142,aspect: curatenie. text: Temperatura din autobuz a fost acceptabilă pe durata cursei.,curatenie,0
+SIM_142,aspect: frecventa. text: Temperatura din autobuz a fost acceptabilă pe durata cursei.,frecventa,0
+SIM_142,aspect: informare_calatori. text: Temperatura din autobuz a fost acceptabilă pe durata cursei.,informare_calatori,0
+SIM_142,aspect: infrastructura_statii. text: Temperatura din autobuz a fost acceptabilă pe durata cursei.,infrastructura_statii,0
+SIM_142,aspect: organizare. text: Temperatura din autobuz a fost acceptabilă pe durata cursei.,organizare,0
+SIM_142,aspect: pret. text: Temperatura din autobuz a fost acceptabilă pe durata cursei.,pret,0
+SIM_142,aspect: punctualitate. text: Temperatura din autobuz a fost acceptabilă pe durata cursei.,punctualitate,0
+SIM_142,aspect: relatii_clienti. text: Temperatura din autobuz a fost acceptabilă pe durata cursei.,relatii_clienti,0
+SIM_142,aspect: siguranta. text: Temperatura din autobuz a fost acceptabilă pe durata cursei.,siguranta,0
+SIM_142,aspect: soferi_vatmani. text: Temperatura din autobuz a fost acceptabilă pe durata cursei.,soferi_vatmani,0
+SIM_142,aspect: stare_vehicule. text: Temperatura din autobuz a fost acceptabilă pe durata cursei.,stare_vehicule,0
+SIM_142,aspect: validare_bilete. text: Temperatura din autobuz a fost acceptabilă pe durata cursei.,validare_bilete,0
+62,"aspect: organizare. text: 1. Să vină cu mult respect față de cei care plătesc pentru condiții mizerabile de transport!
+2. Să schimbe abordarea greșită pe care o are acum, privind transportul public, prin gestionarea timpului..",organizare,1
+62,"aspect: relatii_clienti. text: 1. Să vină cu mult respect față de cei care plătesc pentru condiții mizerabile de transport!
+2. Să schimbe abordarea greșită pe care o are acum, privind transportul public, prin gestionarea timpului..",relatii_clienti,1
+62,"aspect: acoperire_rute. text: 1. Să vină cu mult respect față de cei care plătesc pentru condiții mizerabile de transport!
+2. Să schimbe abordarea greșită pe care o are acum, privind transportul public, prin gestionarea timpului..",acoperire_rute,0
+62,"aspect: aglomeratie. text: 1. Să vină cu mult respect față de cei care plătesc pentru condiții mizerabile de transport!
+2. Să schimbe abordarea greșită pe care o are acum, privind transportul public, prin gestionarea timpului..",aglomeratie,0
+62,"aspect: confort_termic. text: 1. Să vină cu mult respect față de cei care plătesc pentru condiții mizerabile de transport!
+2. Să schimbe abordarea greșită pe care o are acum, privind transportul public, prin gestionarea timpului..",confort_termic,0
+62,"aspect: controlori. text: 1. Să vină cu mult respect față de cei care plătesc pentru condiții mizerabile de transport!
+2. Să schimbe abordarea greșită pe care o are acum, privind transportul public, prin gestionarea timpului..",controlori,0
+62,"aspect: curatenie. text: 1. Să vină cu mult respect față de cei care plătesc pentru condiții mizerabile de transport!
+2. Să schimbe abordarea greșită pe care o are acum, privind transportul public, prin gestionarea timpului..",curatenie,0
+62,"aspect: frecventa. text: 1. Să vină cu mult respect față de cei care plătesc pentru condiții mizerabile de transport!
+2. Să schimbe abordarea greșită pe care o are acum, privind transportul public, prin gestionarea timpului..",frecventa,0
+62,"aspect: informare_calatori. text: 1. Să vină cu mult respect față de cei care plătesc pentru condiții mizerabile de transport!
+2. Să schimbe abordarea greșită pe care o are acum, privind transportul public, prin gestionarea timpului..",informare_calatori,0
+62,"aspect: infrastructura_statii. text: 1. Să vină cu mult respect față de cei care plătesc pentru condiții mizerabile de transport!
+2. Să schimbe abordarea greșită pe care o are acum, privind transportul public, prin gestionarea timpului..",infrastructura_statii,0
+62,"aspect: pret. text: 1. Să vină cu mult respect față de cei care plătesc pentru condiții mizerabile de transport!
+2. Să schimbe abordarea greșită pe care o are acum, privind transportul public, prin gestionarea timpului..",pret,0
+62,"aspect: punctualitate. text: 1. Să vină cu mult respect față de cei care plătesc pentru condiții mizerabile de transport!
+2. Să schimbe abordarea greșită pe care o are acum, privind transportul public, prin gestionarea timpului..",punctualitate,0
+62,"aspect: siguranta. text: 1. Să vină cu mult respect față de cei care plătesc pentru condiții mizerabile de transport!
+2. Să schimbe abordarea greșită pe care o are acum, privind transportul public, prin gestionarea timpului..",siguranta,0
+62,"aspect: soferi_vatmani. text: 1. Să vină cu mult respect față de cei care plătesc pentru condiții mizerabile de transport!
+2. Să schimbe abordarea greșită pe care o are acum, privind transportul public, prin gestionarea timpului..",soferi_vatmani,0
+62,"aspect: stare_vehicule. text: 1. Să vină cu mult respect față de cei care plătesc pentru condiții mizerabile de transport!
+2. Să schimbe abordarea greșită pe care o are acum, privind transportul public, prin gestionarea timpului..",stare_vehicule,0
+62,"aspect: validare_bilete. text: 1. Să vină cu mult respect față de cei care plătesc pentru condiții mizerabile de transport!
+2. Să schimbe abordarea greșită pe care o are acum, privind transportul public, prin gestionarea timpului..",validare_bilete,0
+16,aspect: soferi_vatmani. text: O companie de transport public foarte ingrizitoare de Anticele tramvaie și șoferi de treaba când vine vorba de spotting,soferi_vatmani,1
+16,aspect: stare_vehicule. text: O companie de transport public foarte ingrizitoare de Anticele tramvaie și șoferi de treaba când vine vorba de spotting,stare_vehicule,1
+16,aspect: acoperire_rute. text: O companie de transport public foarte ingrizitoare de Anticele tramvaie și șoferi de treaba când vine vorba de spotting,acoperire_rute,0
+16,aspect: aglomeratie. text: O companie de transport public foarte ingrizitoare de Anticele tramvaie și șoferi de treaba când vine vorba de spotting,aglomeratie,0
+16,aspect: confort_termic. text: O companie de transport public foarte ingrizitoare de Anticele tramvaie și șoferi de treaba când vine vorba de spotting,confort_termic,0
+16,aspect: controlori. text: O companie de transport public foarte ingrizitoare de Anticele tramvaie și șoferi de treaba când vine vorba de spotting,controlori,0
+16,aspect: curatenie. text: O companie de transport public foarte ingrizitoare de Anticele tramvaie și șoferi de treaba când vine vorba de spotting,curatenie,0
+16,aspect: frecventa. text: O companie de transport public foarte ingrizitoare de Anticele tramvaie și șoferi de treaba când vine vorba de spotting,frecventa,0
+16,aspect: informare_calatori. text: O companie de transport public foarte ingrizitoare de Anticele tramvaie și șoferi de treaba când vine vorba de spotting,informare_calatori,0
+16,aspect: infrastructura_statii. text: O companie de transport public foarte ingrizitoare de Anticele tramvaie și șoferi de treaba când vine vorba de spotting,infrastructura_statii,0
+16,aspect: organizare. text: O companie de transport public foarte ingrizitoare de Anticele tramvaie și șoferi de treaba când vine vorba de spotting,organizare,0
+16,aspect: pret. text: O companie de transport public foarte ingrizitoare de Anticele tramvaie și șoferi de treaba când vine vorba de spotting,pret,0
+16,aspect: punctualitate. text: O companie de transport public foarte ingrizitoare de Anticele tramvaie și șoferi de treaba când vine vorba de spotting,punctualitate,0
+16,aspect: relatii_clienti. text: O companie de transport public foarte ingrizitoare de Anticele tramvaie și șoferi de treaba când vine vorba de spotting,relatii_clienti,0
+16,aspect: siguranta. text: O companie de transport public foarte ingrizitoare de Anticele tramvaie și șoferi de treaba când vine vorba de spotting,siguranta,0
+16,aspect: validare_bilete. text: O companie de transport public foarte ingrizitoare de Anticele tramvaie și șoferi de treaba când vine vorba de spotting,validare_bilete,0
+41,"aspect: frecventa. text: compania de transport in comun incurajeaza oamenii sa sufoce orasul de vechituri de masini personale, in loc sa propuna un transport in comun eficient si punctual! adica autobuz la 10min (15 max). in momentul de fata este o bataie de joc odioasa pe banii consumatorului. statii pline de oameni la orice ora care asteapta autobuze care vin la 30-45 minute. noaptea,tabelele nu sunt sincronizare si arata gresit ca vin autobuzele, cand de fapt ele trec goale si se retrag in depou, mai devreme decat orele stabilite pe site ( dupa cum e cheful soferului, daca a fost lunga cafeluta bauta juma de ora in capat) etc..",frecventa,1
+41,"aspect: informare_calatori. text: compania de transport in comun incurajeaza oamenii sa sufoce orasul de vechituri de masini personale, in loc sa propuna un transport in comun eficient si punctual! adica autobuz la 10min (15 max). in momentul de fata este o bataie de joc odioasa pe banii consumatorului. statii pline de oameni la orice ora care asteapta autobuze care vin la 30-45 minute. noaptea,tabelele nu sunt sincronizare si arata gresit ca vin autobuzele, cand de fapt ele trec goale si se retrag in depou, mai devreme decat orele stabilite pe site ( dupa cum e cheful soferului, daca a fost lunga cafeluta bauta juma de ora in capat) etc..",informare_calatori,1
+41,"aspect: punctualitate. text: compania de transport in comun incurajeaza oamenii sa sufoce orasul de vechituri de masini personale, in loc sa propuna un transport in comun eficient si punctual! adica autobuz la 10min (15 max). in momentul de fata este o bataie de joc odioasa pe banii consumatorului. statii pline de oameni la orice ora care asteapta autobuze care vin la 30-45 minute. noaptea,tabelele nu sunt sincronizare si arata gresit ca vin autobuzele, cand de fapt ele trec goale si se retrag in depou, mai devreme decat orele stabilite pe site ( dupa cum e cheful soferului, daca a fost lunga cafeluta bauta juma de ora in capat) etc..",punctualitate,1
+41,"aspect: soferi_vatmani. text: compania de transport in comun incurajeaza oamenii sa sufoce orasul de vechituri de masini personale, in loc sa propuna un transport in comun eficient si punctual! adica autobuz la 10min (15 max). in momentul de fata este o bataie de joc odioasa pe banii consumatorului. statii pline de oameni la orice ora care asteapta autobuze care vin la 30-45 minute. noaptea,tabelele nu sunt sincronizare si arata gresit ca vin autobuzele, cand de fapt ele trec goale si se retrag in depou, mai devreme decat orele stabilite pe site ( dupa cum e cheful soferului, daca a fost lunga cafeluta bauta juma de ora in capat) etc..",soferi_vatmani,1
+41,"aspect: acoperire_rute. text: compania de transport in comun incurajeaza oamenii sa sufoce orasul de vechituri de masini personale, in loc sa propuna un transport in comun eficient si punctual! adica autobuz la 10min (15 max). in momentul de fata este o bataie de joc odioasa pe banii consumatorului. statii pline de oameni la orice ora care asteapta autobuze care vin la 30-45 minute. noaptea,tabelele nu sunt sincronizare si arata gresit ca vin autobuzele, cand de fapt ele trec goale si se retrag in depou, mai devreme decat orele stabilite pe site ( dupa cum e cheful soferului, daca a fost lunga cafeluta bauta juma de ora in capat) etc..",acoperire_rute,0
+41,"aspect: aglomeratie. text: compania de transport in comun incurajeaza oamenii sa sufoce orasul de vechituri de masini personale, in loc sa propuna un transport in comun eficient si punctual! adica autobuz la 10min (15 max). in momentul de fata este o bataie de joc odioasa pe banii consumatorului. statii pline de oameni la orice ora care asteapta autobuze care vin la 30-45 minute. noaptea,tabelele nu sunt sincronizare si arata gresit ca vin autobuzele, cand de fapt ele trec goale si se retrag in depou, mai devreme decat orele stabilite pe site ( dupa cum e cheful soferului, daca a fost lunga cafeluta bauta juma de ora in capat) etc..",aglomeratie,0
+41,"aspect: confort_termic. text: compania de transport in comun incurajeaza oamenii sa sufoce orasul de vechituri de masini personale, in loc sa propuna un transport in comun eficient si punctual! adica autobuz la 10min (15 max). in momentul de fata este o bataie de joc odioasa pe banii consumatorului. statii pline de oameni la orice ora care asteapta autobuze care vin la 30-45 minute. noaptea,tabelele nu sunt sincronizare si arata gresit ca vin autobuzele, cand de fapt ele trec goale si se retrag in depou, mai devreme decat orele stabilite pe site ( dupa cum e cheful soferului, daca a fost lunga cafeluta bauta juma de ora in capat) etc..",confort_termic,0
+41,"aspect: controlori. text: compania de transport in comun incurajeaza oamenii sa sufoce orasul de vechituri de masini personale, in loc sa propuna un transport in comun eficient si punctual! adica autobuz la 10min (15 max). in momentul de fata este o bataie de joc odioasa pe banii consumatorului. statii pline de oameni la orice ora care asteapta autobuze care vin la 30-45 minute. noaptea,tabelele nu sunt sincronizare si arata gresit ca vin autobuzele, cand de fapt ele trec goale si se retrag in depou, mai devreme decat orele stabilite pe site ( dupa cum e cheful soferului, daca a fost lunga cafeluta bauta juma de ora in capat) etc..",controlori,0
+41,"aspect: curatenie. text: compania de transport in comun incurajeaza oamenii sa sufoce orasul de vechituri de masini personale, in loc sa propuna un transport in comun eficient si punctual! adica autobuz la 10min (15 max). in momentul de fata este o bataie de joc odioasa pe banii consumatorului. statii pline de oameni la orice ora care asteapta autobuze care vin la 30-45 minute. noaptea,tabelele nu sunt sincronizare si arata gresit ca vin autobuzele, cand de fapt ele trec goale si se retrag in depou, mai devreme decat orele stabilite pe site ( dupa cum e cheful soferului, daca a fost lunga cafeluta bauta juma de ora in capat) etc..",curatenie,0
+41,"aspect: infrastructura_statii. text: compania de transport in comun incurajeaza oamenii sa sufoce orasul de vechituri de masini personale, in loc sa propuna un transport in comun eficient si punctual! adica autobuz la 10min (15 max). in momentul de fata este o bataie de joc odioasa pe banii consumatorului. statii pline de oameni la orice ora care asteapta autobuze care vin la 30-45 minute. noaptea,tabelele nu sunt sincronizare si arata gresit ca vin autobuzele, cand de fapt ele trec goale si se retrag in depou, mai devreme decat orele stabilite pe site ( dupa cum e cheful soferului, daca a fost lunga cafeluta bauta juma de ora in capat) etc..",infrastructura_statii,0
+41,"aspect: organizare. text: compania de transport in comun incurajeaza oamenii sa sufoce orasul de vechituri de masini personale, in loc sa propuna un transport in comun eficient si punctual! adica autobuz la 10min (15 max). in momentul de fata este o bataie de joc odioasa pe banii consumatorului. statii pline de oameni la orice ora care asteapta autobuze care vin la 30-45 minute. noaptea,tabelele nu sunt sincronizare si arata gresit ca vin autobuzele, cand de fapt ele trec goale si se retrag in depou, mai devreme decat orele stabilite pe site ( dupa cum e cheful soferului, daca a fost lunga cafeluta bauta juma de ora in capat) etc..",organizare,0
+41,"aspect: pret. text: compania de transport in comun incurajeaza oamenii sa sufoce orasul de vechituri de masini personale, in loc sa propuna un transport in comun eficient si punctual! adica autobuz la 10min (15 max). in momentul de fata este o bataie de joc odioasa pe banii consumatorului. statii pline de oameni la orice ora care asteapta autobuze care vin la 30-45 minute. noaptea,tabelele nu sunt sincronizare si arata gresit ca vin autobuzele, cand de fapt ele trec goale si se retrag in depou, mai devreme decat orele stabilite pe site ( dupa cum e cheful soferului, daca a fost lunga cafeluta bauta juma de ora in capat) etc..",pret,0
+41,"aspect: relatii_clienti. text: compania de transport in comun incurajeaza oamenii sa sufoce orasul de vechituri de masini personale, in loc sa propuna un transport in comun eficient si punctual! adica autobuz la 10min (15 max). in momentul de fata este o bataie de joc odioasa pe banii consumatorului. statii pline de oameni la orice ora care asteapta autobuze care vin la 30-45 minute. noaptea,tabelele nu sunt sincronizare si arata gresit ca vin autobuzele, cand de fapt ele trec goale si se retrag in depou, mai devreme decat orele stabilite pe site ( dupa cum e cheful soferului, daca a fost lunga cafeluta bauta juma de ora in capat) etc..",relatii_clienti,0
+41,"aspect: siguranta. text: compania de transport in comun incurajeaza oamenii sa sufoce orasul de vechituri de masini personale, in loc sa propuna un transport in comun eficient si punctual! adica autobuz la 10min (15 max). in momentul de fata este o bataie de joc odioasa pe banii consumatorului. statii pline de oameni la orice ora care asteapta autobuze care vin la 30-45 minute. noaptea,tabelele nu sunt sincronizare si arata gresit ca vin autobuzele, cand de fapt ele trec goale si se retrag in depou, mai devreme decat orele stabilite pe site ( dupa cum e cheful soferului, daca a fost lunga cafeluta bauta juma de ora in capat) etc..",siguranta,0
+41,"aspect: stare_vehicule. text: compania de transport in comun incurajeaza oamenii sa sufoce orasul de vechituri de masini personale, in loc sa propuna un transport in comun eficient si punctual! adica autobuz la 10min (15 max). in momentul de fata este o bataie de joc odioasa pe banii consumatorului. statii pline de oameni la orice ora care asteapta autobuze care vin la 30-45 minute. noaptea,tabelele nu sunt sincronizare si arata gresit ca vin autobuzele, cand de fapt ele trec goale si se retrag in depou, mai devreme decat orele stabilite pe site ( dupa cum e cheful soferului, daca a fost lunga cafeluta bauta juma de ora in capat) etc..",stare_vehicule,0
+41,"aspect: validare_bilete. text: compania de transport in comun incurajeaza oamenii sa sufoce orasul de vechituri de masini personale, in loc sa propuna un transport in comun eficient si punctual! adica autobuz la 10min (15 max). in momentul de fata este o bataie de joc odioasa pe banii consumatorului. statii pline de oameni la orice ora care asteapta autobuze care vin la 30-45 minute. noaptea,tabelele nu sunt sincronizare si arata gresit ca vin autobuzele, cand de fapt ele trec goale si se retrag in depou, mai devreme decat orele stabilite pe site ( dupa cum e cheful soferului, daca a fost lunga cafeluta bauta juma de ora in capat) etc..",validare_bilete,0
+SIM_010,aspect: aglomeratie. text: Am luat tramvaiul 13 de câteva ori săptămâna asta. Frecvența pe acest traseu e undeva la 15-20 de minute în orele normale ceea ce e acceptabil. Aglomerația dimineața e cam mare dar nu imposibil de suportat. Controlorii au urcat o dată și au verificat biletele fără incident. În general o experiență neutră.,aglomeratie,1
+SIM_010,aspect: controlori. text: Am luat tramvaiul 13 de câteva ori săptămâna asta. Frecvența pe acest traseu e undeva la 15-20 de minute în orele normale ceea ce e acceptabil. Aglomerația dimineața e cam mare dar nu imposibil de suportat. Controlorii au urcat o dată și au verificat biletele fără incident. În general o experiență neutră.,controlori,1
+SIM_010,aspect: frecventa. text: Am luat tramvaiul 13 de câteva ori săptămâna asta. Frecvența pe acest traseu e undeva la 15-20 de minute în orele normale ceea ce e acceptabil. Aglomerația dimineața e cam mare dar nu imposibil de suportat. Controlorii au urcat o dată și au verificat biletele fără incident. În general o experiență neutră.,frecventa,1
+SIM_010,aspect: acoperire_rute. text: Am luat tramvaiul 13 de câteva ori săptămâna asta. Frecvența pe acest traseu e undeva la 15-20 de minute în orele normale ceea ce e acceptabil. Aglomerația dimineața e cam mare dar nu imposibil de suportat. Controlorii au urcat o dată și au verificat biletele fără incident. În general o experiență neutră.,acoperire_rute,0
+SIM_010,aspect: confort_termic. text: Am luat tramvaiul 13 de câteva ori săptămâna asta. Frecvența pe acest traseu e undeva la 15-20 de minute în orele normale ceea ce e acceptabil. Aglomerația dimineața e cam mare dar nu imposibil de suportat. Controlorii au urcat o dată și au verificat biletele fără incident. În general o experiență neutră.,confort_termic,0
+SIM_010,aspect: curatenie. text: Am luat tramvaiul 13 de câteva ori săptămâna asta. Frecvența pe acest traseu e undeva la 15-20 de minute în orele normale ceea ce e acceptabil. Aglomerația dimineața e cam mare dar nu imposibil de suportat. Controlorii au urcat o dată și au verificat biletele fără incident. În general o experiență neutră.,curatenie,0
+SIM_010,aspect: informare_calatori. text: Am luat tramvaiul 13 de câteva ori săptămâna asta. Frecvența pe acest traseu e undeva la 15-20 de minute în orele normale ceea ce e acceptabil. Aglomerația dimineața e cam mare dar nu imposibil de suportat. Controlorii au urcat o dată și au verificat biletele fără incident. În general o experiență neutră.,informare_calatori,0
+SIM_010,aspect: infrastructura_statii. text: Am luat tramvaiul 13 de câteva ori săptămâna asta. Frecvența pe acest traseu e undeva la 15-20 de minute în orele normale ceea ce e acceptabil. Aglomerația dimineața e cam mare dar nu imposibil de suportat. Controlorii au urcat o dată și au verificat biletele fără incident. În general o experiență neutră.,infrastructura_statii,0
+SIM_010,aspect: organizare. text: Am luat tramvaiul 13 de câteva ori săptămâna asta. Frecvența pe acest traseu e undeva la 15-20 de minute în orele normale ceea ce e acceptabil. Aglomerația dimineața e cam mare dar nu imposibil de suportat. Controlorii au urcat o dată și au verificat biletele fără incident. În general o experiență neutră.,organizare,0
+SIM_010,aspect: pret. text: Am luat tramvaiul 13 de câteva ori săptămâna asta. Frecvența pe acest traseu e undeva la 15-20 de minute în orele normale ceea ce e acceptabil. Aglomerația dimineața e cam mare dar nu imposibil de suportat. Controlorii au urcat o dată și au verificat biletele fără incident. În general o experiență neutră.,pret,0
+SIM_010,aspect: punctualitate. text: Am luat tramvaiul 13 de câteva ori săptămâna asta. Frecvența pe acest traseu e undeva la 15-20 de minute în orele normale ceea ce e acceptabil. Aglomerația dimineața e cam mare dar nu imposibil de suportat. Controlorii au urcat o dată și au verificat biletele fără incident. În general o experiență neutră.,punctualitate,0
+SIM_010,aspect: relatii_clienti. text: Am luat tramvaiul 13 de câteva ori săptămâna asta. Frecvența pe acest traseu e undeva la 15-20 de minute în orele normale ceea ce e acceptabil. Aglomerația dimineața e cam mare dar nu imposibil de suportat. Controlorii au urcat o dată și au verificat biletele fără incident. În general o experiență neutră.,relatii_clienti,0
+SIM_010,aspect: siguranta. text: Am luat tramvaiul 13 de câteva ori săptămâna asta. Frecvența pe acest traseu e undeva la 15-20 de minute în orele normale ceea ce e acceptabil. Aglomerația dimineața e cam mare dar nu imposibil de suportat. Controlorii au urcat o dată și au verificat biletele fără incident. În general o experiență neutră.,siguranta,0
+SIM_010,aspect: soferi_vatmani. text: Am luat tramvaiul 13 de câteva ori săptămâna asta. Frecvența pe acest traseu e undeva la 15-20 de minute în orele normale ceea ce e acceptabil. Aglomerația dimineața e cam mare dar nu imposibil de suportat. Controlorii au urcat o dată și au verificat biletele fără incident. În general o experiență neutră.,soferi_vatmani,0
+SIM_010,aspect: stare_vehicule. text: Am luat tramvaiul 13 de câteva ori săptămâna asta. Frecvența pe acest traseu e undeva la 15-20 de minute în orele normale ceea ce e acceptabil. Aglomerația dimineața e cam mare dar nu imposibil de suportat. Controlorii au urcat o dată și au verificat biletele fără incident. În general o experiență neutră.,stare_vehicule,0
+SIM_010,aspect: validare_bilete. text: Am luat tramvaiul 13 de câteva ori săptămâna asta. Frecvența pe acest traseu e undeva la 15-20 de minute în orele normale ceea ce e acceptabil. Aglomerația dimineața e cam mare dar nu imposibil de suportat. Controlorii au urcat o dată și au verificat biletele fără incident. În general o experiență neutră.,validare_bilete,0
+SIM_027,"aspect: aglomeratie. text: Vara în tramvaiele vechi e coșmar. 35 de grade afară și în tramvai parcă mai mult. Geamurile nu se deschid complet, aerul nu circulă, oamenii transpirați unul lângă altul. Nu e normal.",aglomeratie,1
+SIM_027,"aspect: confort_termic. text: Vara în tramvaiele vechi e coșmar. 35 de grade afară și în tramvai parcă mai mult. Geamurile nu se deschid complet, aerul nu circulă, oamenii transpirați unul lângă altul. Nu e normal.",confort_termic,1
+SIM_027,"aspect: acoperire_rute. text: Vara în tramvaiele vechi e coșmar. 35 de grade afară și în tramvai parcă mai mult. Geamurile nu se deschid complet, aerul nu circulă, oamenii transpirați unul lângă altul. Nu e normal.",acoperire_rute,0
+SIM_027,"aspect: controlori. text: Vara în tramvaiele vechi e coșmar. 35 de grade afară și în tramvai parcă mai mult. Geamurile nu se deschid complet, aerul nu circulă, oamenii transpirați unul lângă altul. Nu e normal.",controlori,0
+SIM_027,"aspect: curatenie. text: Vara în tramvaiele vechi e coșmar. 35 de grade afară și în tramvai parcă mai mult. Geamurile nu se deschid complet, aerul nu circulă, oamenii transpirați unul lângă altul. Nu e normal.",curatenie,0
+SIM_027,"aspect: frecventa. text: Vara în tramvaiele vechi e coșmar. 35 de grade afară și în tramvai parcă mai mult. Geamurile nu se deschid complet, aerul nu circulă, oamenii transpirați unul lângă altul. Nu e normal.",frecventa,0
+SIM_027,"aspect: informare_calatori. text: Vara în tramvaiele vechi e coșmar. 35 de grade afară și în tramvai parcă mai mult. Geamurile nu se deschid complet, aerul nu circulă, oamenii transpirați unul lângă altul. Nu e normal.",informare_calatori,0
+SIM_027,"aspect: infrastructura_statii. text: Vara în tramvaiele vechi e coșmar. 35 de grade afară și în tramvai parcă mai mult. Geamurile nu se deschid complet, aerul nu circulă, oamenii transpirați unul lângă altul. Nu e normal.",infrastructura_statii,0
+SIM_027,"aspect: organizare. text: Vara în tramvaiele vechi e coșmar. 35 de grade afară și în tramvai parcă mai mult. Geamurile nu se deschid complet, aerul nu circulă, oamenii transpirați unul lângă altul. Nu e normal.",organizare,0
+SIM_027,"aspect: pret. text: Vara în tramvaiele vechi e coșmar. 35 de grade afară și în tramvai parcă mai mult. Geamurile nu se deschid complet, aerul nu circulă, oamenii transpirați unul lângă altul. Nu e normal.",pret,0
+SIM_027,"aspect: punctualitate. text: Vara în tramvaiele vechi e coșmar. 35 de grade afară și în tramvai parcă mai mult. Geamurile nu se deschid complet, aerul nu circulă, oamenii transpirați unul lângă altul. Nu e normal.",punctualitate,0
+SIM_027,"aspect: relatii_clienti. text: Vara în tramvaiele vechi e coșmar. 35 de grade afară și în tramvai parcă mai mult. Geamurile nu se deschid complet, aerul nu circulă, oamenii transpirați unul lângă altul. Nu e normal.",relatii_clienti,0
+SIM_027,"aspect: siguranta. text: Vara în tramvaiele vechi e coșmar. 35 de grade afară și în tramvai parcă mai mult. Geamurile nu se deschid complet, aerul nu circulă, oamenii transpirați unul lângă altul. Nu e normal.",siguranta,0
+SIM_027,"aspect: soferi_vatmani. text: Vara în tramvaiele vechi e coșmar. 35 de grade afară și în tramvai parcă mai mult. Geamurile nu se deschid complet, aerul nu circulă, oamenii transpirați unul lângă altul. Nu e normal.",soferi_vatmani,0
+SIM_027,"aspect: stare_vehicule. text: Vara în tramvaiele vechi e coșmar. 35 de grade afară și în tramvai parcă mai mult. Geamurile nu se deschid complet, aerul nu circulă, oamenii transpirați unul lângă altul. Nu e normal.",stare_vehicule,0
+SIM_027,"aspect: validare_bilete. text: Vara în tramvaiele vechi e coșmar. 35 de grade afară și în tramvai parcă mai mult. Geamurile nu se deschid complet, aerul nu circulă, oamenii transpirați unul lângă altul. Nu e normal.",validare_bilete,0
+32,"aspect: organizare. text: Aveti idee de ce autobuzele CTP, in loc sa transporte calatori, cara saci cu buletine de vot? Sambata, ora 15.20, b-dul Poitiers era plin de autobuze care carau saci cu buletine de vot.",organizare,1
+32,"aspect: acoperire_rute. text: Aveti idee de ce autobuzele CTP, in loc sa transporte calatori, cara saci cu buletine de vot? Sambata, ora 15.20, b-dul Poitiers era plin de autobuze care carau saci cu buletine de vot.",acoperire_rute,0
+32,"aspect: aglomeratie. text: Aveti idee de ce autobuzele CTP, in loc sa transporte calatori, cara saci cu buletine de vot? Sambata, ora 15.20, b-dul Poitiers era plin de autobuze care carau saci cu buletine de vot.",aglomeratie,0
+32,"aspect: confort_termic. text: Aveti idee de ce autobuzele CTP, in loc sa transporte calatori, cara saci cu buletine de vot? Sambata, ora 15.20, b-dul Poitiers era plin de autobuze care carau saci cu buletine de vot.",confort_termic,0
+32,"aspect: controlori. text: Aveti idee de ce autobuzele CTP, in loc sa transporte calatori, cara saci cu buletine de vot? Sambata, ora 15.20, b-dul Poitiers era plin de autobuze care carau saci cu buletine de vot.",controlori,0
+32,"aspect: curatenie. text: Aveti idee de ce autobuzele CTP, in loc sa transporte calatori, cara saci cu buletine de vot? Sambata, ora 15.20, b-dul Poitiers era plin de autobuze care carau saci cu buletine de vot.",curatenie,0
+32,"aspect: frecventa. text: Aveti idee de ce autobuzele CTP, in loc sa transporte calatori, cara saci cu buletine de vot? Sambata, ora 15.20, b-dul Poitiers era plin de autobuze care carau saci cu buletine de vot.",frecventa,0
+32,"aspect: informare_calatori. text: Aveti idee de ce autobuzele CTP, in loc sa transporte calatori, cara saci cu buletine de vot? Sambata, ora 15.20, b-dul Poitiers era plin de autobuze care carau saci cu buletine de vot.",informare_calatori,0
+32,"aspect: infrastructura_statii. text: Aveti idee de ce autobuzele CTP, in loc sa transporte calatori, cara saci cu buletine de vot? Sambata, ora 15.20, b-dul Poitiers era plin de autobuze care carau saci cu buletine de vot.",infrastructura_statii,0
+32,"aspect: pret. text: Aveti idee de ce autobuzele CTP, in loc sa transporte calatori, cara saci cu buletine de vot? Sambata, ora 15.20, b-dul Poitiers era plin de autobuze care carau saci cu buletine de vot.",pret,0
+32,"aspect: punctualitate. text: Aveti idee de ce autobuzele CTP, in loc sa transporte calatori, cara saci cu buletine de vot? Sambata, ora 15.20, b-dul Poitiers era plin de autobuze care carau saci cu buletine de vot.",punctualitate,0
+32,"aspect: relatii_clienti. text: Aveti idee de ce autobuzele CTP, in loc sa transporte calatori, cara saci cu buletine de vot? Sambata, ora 15.20, b-dul Poitiers era plin de autobuze care carau saci cu buletine de vot.",relatii_clienti,0
+32,"aspect: siguranta. text: Aveti idee de ce autobuzele CTP, in loc sa transporte calatori, cara saci cu buletine de vot? Sambata, ora 15.20, b-dul Poitiers era plin de autobuze care carau saci cu buletine de vot.",siguranta,0
+32,"aspect: soferi_vatmani. text: Aveti idee de ce autobuzele CTP, in loc sa transporte calatori, cara saci cu buletine de vot? Sambata, ora 15.20, b-dul Poitiers era plin de autobuze care carau saci cu buletine de vot.",soferi_vatmani,0
+32,"aspect: stare_vehicule. text: Aveti idee de ce autobuzele CTP, in loc sa transporte calatori, cara saci cu buletine de vot? Sambata, ora 15.20, b-dul Poitiers era plin de autobuze care carau saci cu buletine de vot.",stare_vehicule,0
+32,"aspect: validare_bilete. text: Aveti idee de ce autobuzele CTP, in loc sa transporte calatori, cara saci cu buletine de vot? Sambata, ora 15.20, b-dul Poitiers era plin de autobuze care carau saci cu buletine de vot.",validare_bilete,0
+SIM_013,aspect: soferi_vatmani. text: Vatmanul de pe tramvaiul 3 a pornit din stație în timp ce eu încă urcam. Am prins ușa cu mâna și am strigat să oprească. S-a uitat în oglindă și a continuat. Rușine.,soferi_vatmani,1
+SIM_013,aspect: acoperire_rute. text: Vatmanul de pe tramvaiul 3 a pornit din stație în timp ce eu încă urcam. Am prins ușa cu mâna și am strigat să oprească. S-a uitat în oglindă și a continuat. Rușine.,acoperire_rute,0
+SIM_013,aspect: aglomeratie. text: Vatmanul de pe tramvaiul 3 a pornit din stație în timp ce eu încă urcam. Am prins ușa cu mâna și am strigat să oprească. S-a uitat în oglindă și a continuat. Rușine.,aglomeratie,0
+SIM_013,aspect: confort_termic. text: Vatmanul de pe tramvaiul 3 a pornit din stație în timp ce eu încă urcam. Am prins ușa cu mâna și am strigat să oprească. S-a uitat în oglindă și a continuat. Rușine.,confort_termic,0
+SIM_013,aspect: controlori. text: Vatmanul de pe tramvaiul 3 a pornit din stație în timp ce eu încă urcam. Am prins ușa cu mâna și am strigat să oprească. S-a uitat în oglindă și a continuat. Rușine.,controlori,0
+SIM_013,aspect: curatenie. text: Vatmanul de pe tramvaiul 3 a pornit din stație în timp ce eu încă urcam. Am prins ușa cu mâna și am strigat să oprească. S-a uitat în oglindă și a continuat. Rușine.,curatenie,0
+SIM_013,aspect: frecventa. text: Vatmanul de pe tramvaiul 3 a pornit din stație în timp ce eu încă urcam. Am prins ușa cu mâna și am strigat să oprească. S-a uitat în oglindă și a continuat. Rușine.,frecventa,0
+SIM_013,aspect: informare_calatori. text: Vatmanul de pe tramvaiul 3 a pornit din stație în timp ce eu încă urcam. Am prins ușa cu mâna și am strigat să oprească. S-a uitat în oglindă și a continuat. Rușine.,informare_calatori,0
+SIM_013,aspect: infrastructura_statii. text: Vatmanul de pe tramvaiul 3 a pornit din stație în timp ce eu încă urcam. Am prins ușa cu mâna și am strigat să oprească. S-a uitat în oglindă și a continuat. Rușine.,infrastructura_statii,0
+SIM_013,aspect: organizare. text: Vatmanul de pe tramvaiul 3 a pornit din stație în timp ce eu încă urcam. Am prins ușa cu mâna și am strigat să oprească. S-a uitat în oglindă și a continuat. Rușine.,organizare,0
+SIM_013,aspect: pret. text: Vatmanul de pe tramvaiul 3 a pornit din stație în timp ce eu încă urcam. Am prins ușa cu mâna și am strigat să oprească. S-a uitat în oglindă și a continuat. Rușine.,pret,0
+SIM_013,aspect: punctualitate. text: Vatmanul de pe tramvaiul 3 a pornit din stație în timp ce eu încă urcam. Am prins ușa cu mâna și am strigat să oprească. S-a uitat în oglindă și a continuat. Rușine.,punctualitate,0
+SIM_013,aspect: relatii_clienti. text: Vatmanul de pe tramvaiul 3 a pornit din stație în timp ce eu încă urcam. Am prins ușa cu mâna și am strigat să oprească. S-a uitat în oglindă și a continuat. Rușine.,relatii_clienti,0
+SIM_013,aspect: siguranta. text: Vatmanul de pe tramvaiul 3 a pornit din stație în timp ce eu încă urcam. Am prins ușa cu mâna și am strigat să oprească. S-a uitat în oglindă și a continuat. Rușine.,siguranta,0
+SIM_013,aspect: stare_vehicule. text: Vatmanul de pe tramvaiul 3 a pornit din stație în timp ce eu încă urcam. Am prins ușa cu mâna și am strigat să oprească. S-a uitat în oglindă și a continuat. Rușine.,stare_vehicule,0
+SIM_013,aspect: validare_bilete. text: Vatmanul de pe tramvaiul 3 a pornit din stație în timp ce eu încă urcam. Am prins ușa cu mâna și am strigat să oprească. S-a uitat în oglindă și a continuat. Rușine.,validare_bilete,0

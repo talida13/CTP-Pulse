@@ -42,3 +42,6 @@ Thumbs.db
 .idea/
 *.swp
 get-pip.py
+
+
+model/

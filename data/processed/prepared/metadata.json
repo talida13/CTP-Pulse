@@ -1,0 +1,30 @@
+{
+  "input": "data/processed/absa_flat_dataset_extended.csv",
+  "aspects": [
+    "punctualitate",
+    "frecventa",
+    "aglomeratie",
+    "validare_bilete",
+    "pret",
+    "controlori",
+    "soferi_vatmani",
+    "confort_termic",
+    "curatenie",
+    "stare_vehicule",
+    "informare_calatori",
+    "infrastructura_statii",
+    "acoperire_rute",
+    "relatii_clienti",
+    "organizare",
+    "siguranta"
+  ],
+  "sentiments": [
+    "negativ",
+    "neutru",
+    "pozitiv"
+  ],
+  "seed": 42,
+  "val_size": 0.1,
+  "test_size": 0.1,
+  "negatives_per_positive": 3
+}
