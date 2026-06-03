@@ -20,6 +20,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pydeck as pdk
+from tab_delay import render_delay_tab
 
 st.title('CTP Pulse Dashboard')
 
@@ -44,11 +45,12 @@ def load_data():
 reviews, absa, stop_mentions = load_data()
 
 
-tab1, tab2, tab3, tab4 = st.tabs([
+tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "Probleme principale",
     "Stații problematice",
     "Heatmap stații",
-    "Adaugă review"
+    "Adaugă review",
+    "Întârzieri"
 ])
 
 
@@ -65,7 +67,7 @@ with tab1:
     top_aspects.columns = ["aspect", "count"]
 
     st.bar_chart(top_aspects.set_index("aspect"))
-    st.dataframe(top_aspects, use_container_width=True)
+    st.dataframe(top_aspects, width='stretch')
 
 
 with tab2:
@@ -98,7 +100,7 @@ with tab2:
             stop_summary.set_index("stop_name")["negative_mentions"]
         )
 
-        st.dataframe(stop_summary, use_container_width=True)
+        st.dataframe(stop_summary, width='stretch')
 
 
 with tab3:
@@ -179,7 +181,7 @@ with tab3:
         st.subheader("Date pentru hartă")
         st.dataframe(
             heat_df.sort_values("weight", ascending=False),
-            use_container_width=True
+            width='stretch'
         )
         
 with tab4:
@@ -202,7 +204,7 @@ with tab4:
     st.button(
         "Analizează recenzia",
         disabled=True,
-        use_container_width=True
+        width='stretch'
     )
 
     st.divider()
@@ -241,7 +243,7 @@ with tab4:
                 "Fragment": "aerul condiționat funcționează uneori"
             }
         ]),
-        use_container_width=True,
+        width='stretch',
         hide_index=True
     )
 
@@ -262,3 +264,6 @@ with tab4:
 
     „Tramvaiele sunt pline dimineața și timpul de așteptare este prea mare.”
     """)
+
+with tab5:
+    render_delay_tab()
