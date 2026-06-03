@@ -42,15 +42,50 @@ def load_data():
     return reviews, absa, stop_mentions
 
 
+@st.cache_data
+def load_evaluation_data():
+    eval_df = pd.read_csv("data/processed/evaluation_results.csv")
+    pipeline_preds = pd.read_csv("data/processed/pipeline_test_predictions.csv")
+    aspect_preds = pd.read_csv("data/processed/aspect_test_predictions.csv")
+    sentiment_preds = pd.read_csv("data/processed/sentiment_test_predictions.csv")
+
+    return eval_df, pipeline_preds, aspect_preds, sentiment_preds
+
+
+eval_df, pipeline_preds, aspect_preds, sentiment_preds = load_evaluation_data()
+
+
+def metric_value(module, method, scope, metric):
+    row = eval_df[
+        (eval_df["module"] == module)
+        & (eval_df["method"] == method)
+        & (eval_df["scope"] == scope)
+        & (eval_df["metric"] == metric)
+    ]
+
+    if row.empty:
+        return None
+
+    return float(row.iloc[0]["value"])
+
+
+def fmt(value):
+    if value is None:
+        return "—"
+    return f"{value:.4f}"
+
+
 reviews, absa, stop_mentions = load_data()
 
 
+tab1, tab2, tab3, tab4, tab5 = st.tabs([
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "Probleme principale",
     "Stații problematice",
     "Heatmap stații",
     "Adaugă review",
-    "Întârzieri"
+    "Întârzieri",
+    "Evaluare sistem"
 ])
 
 
@@ -267,3 +302,171 @@ with tab4:
 
 with tab5:
     render_delay_tab()
+    
+with tab5:
+    st.header("Evaluarea sistemului ABSA")
+
+    st.info(
+        """
+        Această secțiune prezintă evaluarea sistemului ABSA pe trei niveluri:
+        detectorul de aspecte, clasificatorul de sentiment și pipeline-ul end-to-end.
+        """
+    )
+
+    st.subheader("Performanță pe module")
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.markdown("### Model 1 — Aspect detector")
+
+        st.metric(
+            "Accuracy",
+            fmt(metric_value("aspect_detector", "BERT_pair", "overall", "accuracy"))
+        )
+        st.metric(
+            "Precision",
+            fmt(metric_value("aspect_detector", "BERT_pair", "overall", "precision"))
+        )
+        st.metric(
+            "Recall",
+            fmt(metric_value("aspect_detector", "BERT_pair", "overall", "recall"))
+        )
+        st.metric(
+            "F1",
+            fmt(metric_value("aspect_detector", "BERT_pair", "overall", "f1"))
+        )
+
+    with col2:
+        st.markdown("### Model 2 — Sentiment classifier")
+
+        st.metric(
+            "Accuracy",
+            fmt(metric_value("sentiment_classifier", "BERT_pair", "overall", "accuracy"))
+        )
+        st.metric(
+            "Macro F1",
+            fmt(metric_value("sentiment_classifier", "BERT_pair", "overall", "f1_macro"))
+        )
+        st.metric(
+            "Weighted F1",
+            fmt(metric_value("sentiment_classifier", "BERT_pair", "overall", "f1_weighted"))
+        )
+
+    st.warning(
+        """
+        Observație: bottleneck-ul sistemului este detectorul de aspecte.
+        Modelul de sentiment are performanță ridicată, dar pipeline-ul final este limitat
+        de aspectele ratate de primul model.
+        """
+    )
+
+    st.divider()
+
+    st.subheader("Comparație BERT vs baseline")
+
+    comparison = eval_df[
+        (eval_df["module"] == "pipeline")
+        & (eval_df["scope"] == "end_to_end")
+        & (eval_df["metric"].isin(["aspect_f1", "tuple_f1"]))
+    ].copy()
+
+    comparison["method"] = comparison["method"].replace({
+        "BERT_pair_pipeline": "BERT",
+        "keyword_lexicon_baseline": "Baseline"
+    })
+
+    chart_df = comparison.pivot(
+        index="metric",
+        columns="method",
+        values="value"
+    )
+
+    st.bar_chart(chart_df)
+
+    st.dataframe(
+        comparison[["method", "metric", "value"]],
+        use_container_width=True,
+        hide_index=True
+    )
+
+    st.success(
+        """
+        Pipeline-ul BERT depășește baseline-ul lexical, mai ales pentru tuple_f1,
+        adică pentru predicția completă aspect + sentiment.
+        """
+    )
+
+    st.divider()
+
+    st.subheader("Performanță pe fiecare aspect")
+
+    aspect_f1 = eval_df[
+        (eval_df["module"] == "aspect_detector")
+        & (eval_df["method"] == "BERT_pair")
+        & (eval_df["metric"] == "f1")
+        & (eval_df["scope"] != "overall")
+    ].copy()
+
+    aspect_f1 = aspect_f1.sort_values("value", ascending=False)
+
+    st.bar_chart(aspect_f1.set_index("scope")["value"])
+
+    st.dataframe(
+        aspect_f1.rename(columns={
+            "scope": "aspect",
+            "value": "f1"
+        })[["aspect", "f1"]],
+        use_container_width=True,
+        hide_index=True
+    )
+
+    st.divider()
+
+    st.subheader("Exemple de predicții end-to-end")
+
+    st.caption(
+        """
+        Tabelul compară perechile reale aspect-sentiment cu predicțiile BERT
+        și cu predicțiile baseline-ului lexical.
+        """
+    )
+
+    examples = pipeline_preds[
+        [
+            "review_id",
+            "text",
+            "gold_tuples",
+            "pred_tuples_bert",
+            "pred_tuples_baseline"
+        ]
+    ].copy()
+
+    st.dataframe(
+        examples,
+        use_container_width=True,
+        hide_index=True
+    )
+
+    st.divider()
+
+    st.subheader("Exemple unde BERT greșește")
+
+    errors = pipeline_preds[
+        pipeline_preds["gold_tuples"] != pipeline_preds["pred_tuples_bert"]
+    ][
+        [
+            "review_id",
+            "text",
+            "gold_tuples",
+            "pred_tuples_bert",
+            "pred_tuples_baseline"
+        ]
+    ]
+
+    st.dataframe(
+        errors.head(10),
+        use_container_width=True,
+        hide_index=True
+    )
+
