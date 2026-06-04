@@ -248,17 +248,23 @@ def detect_passages(gps_df: pd.DataFrame, stop_lat: float, stop_lon: float,
 # ── Match trecere → cursă programată ─────────────────────────────────────────
 
 def match_to_schedule(actual: datetime, scheduled: list[datetime],
-                      window_min: int = 20) -> Optional[tuple[datetime, float]]:
+                      max_delay_min: int = 20,
+                      max_early_min: int = 3) -> Optional[tuple[datetime, float]]:
     """
-    Găsește cea mai apropiată cursă programată față de trecerea reală
-    în fereastra ±window_min minute.
-    Returnează (scheduled_time, delay_minutes) sau None.
-    delay > 0 = întârziere, delay < 0 = înainte de program.
+    Fereastra ASIMETRICA:
+      - pana la max_delay_min minute in urma  (vehicul intarziat)
+      - cel mult max_early_min minute in fata (vehicul usor devreme)
+
+    Exemplu:
+      actual=21:36, scheduled=[21:30, 21:41]
+      21:30 -> diff=+6 min intarziere  -> valid
+      21:41 -> diff=-5 min devreme     -> invalid, depaseste max_early_min=3
+      Rezultat: (21:30, +6.0)
     """
     best, best_abs = None, float("inf")
     for sched in scheduled:
         diff = (actual - sched).total_seconds() / 60
-        if abs(diff) <= window_min and abs(diff) < best_abs:
+        if -max_early_min <= diff <= max_delay_min and abs(diff) < best_abs:
             best_abs = abs(diff)
             best     = (sched, round(diff, 1))
     return best
