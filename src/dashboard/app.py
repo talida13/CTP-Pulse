@@ -203,7 +203,7 @@ def _run_punctuality_check(text: str, target_date: date) -> None:
             }
             for p in passages
         ])
-        st.dataframe(df, use_container_width=True, hide_index=True)
+        st.dataframe(df, width='stretch', hide_index=True)
 
 @st.cache_data(ttl=3600)
 def fetch_stops_cached() -> list[dict]:
@@ -386,7 +386,7 @@ with tab4:
     analyze_clicked = st.button(
         "Analizează recenzia",
         disabled=not review_text.strip(),
-        use_container_width=True,
+        width='stretch',
     )
 
     if analyze_clicked:
@@ -440,7 +440,7 @@ with tab4:
 
                 st.dataframe(
                     result_df,
-                    use_container_width=True,
+                    width='stretch',
                     hide_index=True,
                 )
 
@@ -540,7 +540,7 @@ with tab6:
 
     st.dataframe(
         comparison[["method", "metric", "value"]],
-        use_container_width=True,
+        width='stretch',
         hide_index=True,
     )
 
@@ -569,7 +569,7 @@ with tab6:
             "scope": "aspect",
             "value": "f1"
         })[["aspect", "f1"]],
-        use_container_width=True,
+        width='stretch',
         hide_index=True,
     )
 
@@ -594,7 +594,7 @@ with tab6:
 
     st.dataframe(
         examples,
-        use_container_width=True,
+        width='stretch',
         hide_index=True,
     )
 
@@ -616,6 +616,6 @@ with tab6:
 
     st.dataframe(
         errors.head(10),
-        use_container_width=True,
+        width='stretch',
         hide_index=True,
     )
