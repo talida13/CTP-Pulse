@@ -25,7 +25,7 @@ load_dotenv()
 API_KEY       = os.getenv("TRANZY_API_KEY", "A0rqhZpCABWjtmIp2WdtT4Pobn54A91d578sw90k")
 AGENCY_ID     = int(os.getenv("TRANZY_AGENCY_ID", "1"))
 VEHICLES_URL  = "https://api.tranzy.ai/v1/opendata/vehicles"
-POLL_INTERVAL = 30  # secunde
+POLL_INTERVAL = 10  # secunde
 DB_PATH       = Path("data/ctp_pulse.db")
 
 HEADERS = {

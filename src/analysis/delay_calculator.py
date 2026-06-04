@@ -26,7 +26,7 @@ TIMETABLE_PATH = Path("data/processed/orar_ctp_all.json")
 DB_PATH        = Path("data/ctp_pulse.db")
 
 # ── Constante ─────────────────────────────────────────────────────────────────
-STOP_RADIUS_M = 60   # raza în metri pentru detectarea trecerii printr-o stație
+STOP_RADIUS_M = 100   # raza în metri pentru detectarea trecerii printr-o stație
 
 API_KEY   = os.getenv("TRANZY_API_KEY", "A0rqhZpCABWjtmIp2WdtT4Pobn54A91d578sw90k")
 AGENCY_ID = os.getenv("TRANZY_AGENCY_ID", "1")
