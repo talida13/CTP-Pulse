@@ -113,7 +113,7 @@ def render_delay_tab():
     with col3:
         selected_date = st.date_input("Data", value=date.today(), max_value=date.today())
     with col4:
-        selected_time = st.time_input("Până la ora", value=datetime.now().time())
+        selected_time = st.time_input("Până la ora")
 
     until_dt = datetime.combine(selected_date, selected_time)
 
